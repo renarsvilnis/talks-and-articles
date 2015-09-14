@@ -15,6 +15,7 @@ All Javascript related articles.
 - [5-step quick start guide to ESLint](http://codeutopia.net/docs/eslint/) - covers briefly what `Lint Like It’s 2015` tells but includes how to add an automatic git hook for linting
 - [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225) - about how the author learned JavaScripts and his recommendation on how others should learn it
 - [Javascript is the new Java](https://medium.com/@Maephisto/javascript-is-the-new-java-d14f0585d05e) - `If you want to build iOS, (Android, soon), MacOS, Windows, Linux or Web apps and you want to master only one language, choose Javascript.`
+- :tv: [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w) - about factory functions for more readable code. It is simply a function that returns an object and uses closures to have private class variables, but at the 2x initiantion cost from classes.
 
 ### ES6(2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules
