@@ -16,6 +16,9 @@ All Javascript related articles.
 - [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225) - about how the author learned JavaScripts and his recommendation on how others should learn it
 - [Javascript is the new Java](https://medium.com/@Maephisto/javascript-is-the-new-java-d14f0585d05e) - `If you want to build iOS, (Android, soon), MacOS, Windows, Linux or Web apps and you want to master only one language, choose Javascript.`
 - :tv: [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w) - about factory functions for more readable code. It is simply a function that returns an object and uses closures to have private class variables, but at the 2x initiantion cost from classes.
+- [Optimization killers in V8 engine](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers) - a guide that covers most patterns that cause the containing function go to "deopitmization hell". Haven't got into it, but usefull if needed to squeze out performance out of a node.js code
+- :tv: [Jenn Schiffer: What's the Harm In Sorting: Sanitizing Inputs For More Optimized JS [JSConf2014]](https://www.youtube.com/watch?v=pj4U_W0OFoE&index=18&list=WL) - sarcastic talk about sorting in JavaScript - Useless.
+- [Sebastián Markbage: Moving JS from Libraries to Polyfills | JSConf.ar 2014](https://www.youtube.com/watch?v=UZjqdW9_qSg&index=43&list=WL) - one JavaScript to remove [bikeshedding](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality). So `No Abstraction` > `Wrong Abstraction`, use transpilers. [Polyfill service](https://cdn.polyfill.io/v1/docs/)
 
 ### ES6(2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules
@@ -35,6 +38,8 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Node.js v4.0.0 — Node at its best](https://medium.com/@nodesource/node-js-v4-0-0-node-at-its-best-54a93fd2e0c6) - about Node v4 release and its future
 - :tv: [Deploying node.js applications #2 - provision server & setup flightplan](https://youtu.be/XxRuW1pfGTI) - deploying node.js applications with [flightplan](https://github.com/pstadler/flightplan). More extensible then capistrano. Checkout the gist in the description for a sample file. 
 - :tv: [Deploying Node.js Applications - Deploy Node the right way - as an Upstart Service](https://youtu.be/BJZZnhGtR4A) - addding a system service with `upstart` so that the server restarts and boots automaticly in favour of forever. A single config that can be launched `start <service-name>` and `stop <service-name>`. Talks how to add specific sudo commands to a non-sudo user.
+- [My 7 Node.js mantras](https://medium.com/@c2c/my-7-node-js-mantras-edd6c148e8dc) - use promises and es6, [semver](http://semver.org/), write tests, [get to know v8 engine](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers) and use linters. *Javascript is a language. Node.js a runtime. V8 is it’s engine.*
+- [Useful tools for your Node.js projects](https://medium.com/@anephenix/useful-tools-for-your-node-js-projects-20fd1f7c860a) - all about testing tools - [Mocha](http://mochajs.org/), [CucumberJS](https://cucumber.io/), [Instabul](https://github.com/gotwarlost/istanbul), [Coveralls](https://coveralls.io/). Talks about code consistency and quality using linters, [Code Climate](https://codeclimate.com/), [Codacy](https://www.codacy.com/). Documentation creation with tools as [Raneto](http://raneto.com/). Keeping track of dependencies with [David](https://david-dm.org/) and [npm-dview](https://www.npmjs.com/package/npm-dview).
 
 ### React.js
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644) - nothing new
@@ -50,3 +55,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3
 - [Thinking with Joins](http://bost.ocks.org/mike/join/) - about the importance and way it gets managed in d3
 - [Binding data](http://alignedleft.com/tutorials/d3/binding-data) - about data binding in d3
+
+### WebRTC
+- :tv: [Google: What's next for WebRTC?](https://youtu.be/HCE3S1E5UwY) - about future of WebRTC - defining open codes, `getUserMedia` only on https, massive performance increase on mobile devices and desktop.
+- :tv: [Decisions & considerations in building your WebRTC app](https://youtu.be/HJU15kH5z3k) - about regular automated tests that check system availability, debugging WebRTC apps.
