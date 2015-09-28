@@ -5,3 +5,4 @@ Articles and talks which are applicable to general programming knowledge.
 - :tv: [dotJS 2012 - Fat - What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os) - about the history of open source
 - :tv: [Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014](https://youtu.be/4anAwXYqLG8) - about writing manageable code by using less libraries in favour of pollyfills and standarts, only use abstractions when it would help solve bugs. He talks about writing explicitly repetitive code, which I don't agree 100%.
 - [File Caching: Query string vs Last-Modified?](http://stackoverflow.com/a/23604412) - comparing 3 methods - no caching or disabled, using validation (Last-Modified), caching forever (Query string)
+- [Signing in to Medium by email](https://medium.com/the-story/signing-in-to-medium-by-email-aacc21134fcd) - aobut how and why medium created email only login.
