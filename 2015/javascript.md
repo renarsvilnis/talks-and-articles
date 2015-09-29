@@ -23,6 +23,7 @@ All Javascript related articles.
 - :tv: [Sam Saccone: Recreating a dialup modem in javascript](https://youtu.be/UKa20yPzGbU) - history of communication - morse code, borse code. About Baud rate and why dial-ups has the iconic sound due to baud and how he built a dialup modem in JavaScript wtih help of [Goertzel algorithm](https://en.wikipedia.org/wiki/Goertzel_algorithm) for getting a single frequenc intensity over time from a audio process nodes and other algorithms for encoding
 - [12 Rules for Professional JavaScript in 2015](https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc) - js in `.js` file, use json instead of creating dynamic javascript server, js at bottom of page, use linters and automated tests.
 - :tv: [Quo vadis, JavaScript?](https://www.youtube.com/watch?v=GvT5s1HQVRg) - about the current state of JavaScript and where is it going. About new IE. Don't detect browsers by user-agents rather then functionality.
+- :tv: [HTML5DevConf: Rajesh Kumar, Uber: Data Structures with Javascript](https://youtu.be/7WWHZgoidu0) - goes over O-notation algorithm speed logn, n, nlogn n^2, n^3. Also cover basic and advanced data structures - which I have learned in CS classes, but covers Bloom Filters.
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
