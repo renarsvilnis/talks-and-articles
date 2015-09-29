@@ -59,6 +59,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :tv: [reactjs - Learn React, Flux, and Flow: Part III](https://www.youtube.com/watch?v=6fhTawDEE9k) - about api calls, [radium](https://github.com/FormidableLabs/radium). [Git repo](https://github.com/FormidableLabs/recipes-flux).
 - :tv: [reactjs - netflix - tony casparro - chasing 60fps](https://www.youtube.com/watch?v=g01dGsKbXOk) - about how netflix redesigned app with help react and challenges/problems they faced.
 - :tv: [React.js Conf 2015 - Hype!](http://we.tl/jNxC4bY2Rf) - showcasing cool stuff and performance with apps created with react.js. Testing componentes, handling modals by returning `null` in render but on component lifecycle call a new `React.render(...)` instance to add modal to `document.body`.
+- :tv: [Michael Ridgway - Isomorphic Flux at react-europe 2015](https://youtu.be/MrozpFEBEBE) - talks about react serverside rendering using isomorphic flux with [fluxible](https://github.com/yahoo/fluxible).
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
