@@ -37,7 +37,7 @@ All Javascript related articles.
 
 ### Node.js
 - :tv: [Benjamin Gruenbaum - io.js and the future of server side JavaScript | YGLF2015](https://www.youtube.com/watch?v=LGpmUyFnyuQ) - about io.js, es2015, contributing to os contributions.
-- [40 NPM Modules We Can’t Live Without](https://medium.com/startup-study-group/40-npm-modules-we-can-t-live-without-36e29e352e3a) - reference material.
+- :notebook: [40 NPM Modules We Can’t Live Without](https://medium.com/startup-study-group/40-npm-modules-we-can-t-live-without-36e29e352e3a) - the title says it all.
 - [The Incomplete Collection of
 Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-collection-of-node-js-performance-tips-94cc712661bd) - talks about using node.js [clusters](https://nodejs.org/api/cluster.html), view caching by `app.set('view cache', true);` in express, client side session variables, database optimizations.
 - [5 Easy Performance Tweaks for Node.js Express](http://www.sitepoint.com/5-easy-performance-tweaks-node-js-express/?utm_source=nodeweekly&utm_medium=email) - nothing new.
@@ -60,6 +60,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :tv: [reactjs - netflix - tony casparro - chasing 60fps](https://www.youtube.com/watch?v=g01dGsKbXOk) - about how netflix redesigned app with help react and challenges/problems they faced.
 - :tv: [React.js Conf 2015 - Hype!](http://we.tl/jNxC4bY2Rf) - showcasing cool stuff and performance with apps created with react.js. Testing componentes, handling modals by returning `null` in render but on component lifecycle call a new `React.render(...)` instance to add modal to `document.body`.
 - :tv: [Michael Ridgway - Isomorphic Flux at react-europe 2015](https://youtu.be/MrozpFEBEBE) - talks about react serverside rendering using isomorphic flux with [fluxible](https://github.com/yahoo/fluxible).
+- [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/a/237762/198408) - comprehensive answer about react.js vs native (Web Components). Writes about why the native implementation of DOM is slower then react.js. About patterns used in React.js such as unidirectional data-flow.
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
@@ -74,5 +75,5 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Backend Apps with Webpack (Part I)](http://jlongster.com/Backend-Apps-with-Webpack--Part-I) - part 1 on a guide for using WebPack for backend apps. Goes a little on how webpack works. Don't get it why you should webpack backend apps and so does [hackernews](https://news.ycombinator.com/item?id=9212088)
 - [Beginner’s guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460) - things the author wished he knew when started with WebPack. Writes about defining configs, watching files, using `webpack-dev-server`, loads (*allow you to preprocess files as you require() or “load” them, example ES6 to ES5 transpile*) and preloaders (*they run before loaders, example linting*). Writes also about bundling ES6 files and adding react into the mix.
 - [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama) - writes about differences and philosophies of Browserify and WebPack. Mentions how adding CSS, [`urify-emitter`](https://www.npmjs.com/package/urify-emitter), bundle splitting and react hot-loading is done withing each of the tools.
-- [webpack-howto](https://github.com/petehunt/webpack-howto) - cookbook for getting things done with WebPack which includes methods that guys at instagram does. Great reference material.
+- :notebook: [webpack-howto](https://github.com/petehunt/webpack-howto) - cookbook for getting things done with WebPack which includes methods that guys at instagram does.
 - [Building modular javascript applications in ES6 with React, Webpack and Babel](https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react-webpack-and-babel-538189cd485f) - guide on creating react components with webpack that has component specific code. Tips on publishing modules - adding `es6` field to `package.json`. Also covers how to test ES6 code with mocha by addding a compiler, adding instabul coverage, component seperation in react and backend which talks to eachother with [`postal.js`](https://github.com/postaljs/postal.js).
