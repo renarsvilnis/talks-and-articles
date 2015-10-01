@@ -25,6 +25,7 @@ All Javascript related articles.
 - :tv: [Quo vadis, JavaScript?](https://www.youtube.com/watch?v=GvT5s1HQVRg) - about the current state of JavaScript and where is it going. About new IE. Don't detect browsers by user-agents rather then functionality.
 - :tv: [HTML5DevConf: Rajesh Kumar, Uber: Data Structures with Javascript](https://youtu.be/7WWHZgoidu0) - goes over O-notation algorithm speed logn, n, nlogn n^2, n^3. Also cover basic and advanced data structures - which I have learned in CS classes, but covers Bloom Filters.
 - [We spent a week making Trello boards load extremely fast. Here’s how we did it.](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/) - about the optimization trello team did to make the initial render faster by reducing layout trashing, freeing up UI by changing `click … long task … paint` to `click … paint … long task`. Placing some images on GPU by `translateZ: 0`.
+- :tv: [Tim Griesser: Making Relational Cool Again (or: JavaScript on ACID)](https://youtu.be/19Av0Lxml-I) - TODO 13:52
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
