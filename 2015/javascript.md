@@ -62,6 +62,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :tv: [React.js Conf 2015 - Hype!](http://we.tl/jNxC4bY2Rf) - showcasing cool stuff and performance with apps created with react.js. Testing componentes, handling modals by returning `null` in render but on component lifecycle call a new `React.render(...)` instance to add modal to `document.body`.
 - :tv: [Michael Ridgway - Isomorphic Flux at react-europe 2015](https://youtu.be/MrozpFEBEBE) - talks about react serverside rendering using isomorphic flux with [fluxible](https://github.com/yahoo/fluxible).
 - [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/a/237762/198408) - comprehensive answer about react.js vs native (Web Components). Writes about why the native implementation of DOM is slower then react.js. About patterns used in React.js such as unidirectional data-flow.
+- [React-Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba) - writes about what animation problems there are and how [react-motion](https://github.com/chenglou/react-motion) and other libraries are or is trying solve these problems.
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
