@@ -27,6 +27,7 @@ All Javascript related articles.
 - [We spent a week making Trello boards load extremely fast. Here’s how we did it.](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/) - about the optimization trello team did to make the initial render faster by reducing layout trashing, freeing up UI by changing `click … long task … paint` to `click … paint … long task`. Placing some images on GPU by `translateZ: 0`.
 - :tv: [Tim Griesser: Making Relational Cool Again (or: JavaScript on ACID)](https://youtu.be/19Av0Lxml-I) - TODO 13:52
 - [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](http://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/) - writes about how IndexedDB, WebSQL, LocalStorage blocks the DOM in most browsers and that WebWorkers can solve the issue as you can use and only use IndexedDB in WebWorkers (except safari for now). Concludes that IndexedDB doesn't work so fast as promised.
+- :notebook: [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) - TODO
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -72,6 +73,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
 - [Thinking with Joins](http://bost.ocks.org/mike/join/) - about the importance and way it gets managed in d3.
 - [Binding data](http://alignedleft.com/tutorials/d3/binding-data) - about data binding in d3.
+- [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/) - choose creating charts in SVG over Canvas or CSS wizardy.
 
 ### WebRTC
 - :tv: [Google: What's next for WebRTC?](https://youtu.be/HCE3S1E5UwY) - about future of WebRTC - defining open codes, `getUserMedia` only on https, massive performance increase on mobile devices and desktop.

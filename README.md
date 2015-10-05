@@ -7,6 +7,5 @@ The following icons represent following:
 - :notebook: - tells that the source can be used later as a good reference material
 - :tv: - tells that the source is a video
 
-
 By [@renarsvilnis](https://twitter.com/RenarsVilnis)
 
