@@ -28,6 +28,7 @@ All Javascript related articles.
 - :tv: [Tim Griesser: Making Relational Cool Again (or: JavaScript on ACID)](https://youtu.be/19Av0Lxml-I) - TODO 13:52
 - [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](http://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/) - writes about how IndexedDB, WebSQL, LocalStorage blocks the DOM in most browsers and that WebWorkers can solve the issue as you can use and only use IndexedDB in WebWorkers (except safari for now). Concludes that IndexedDB doesn't work so fast as promised.
 - :notebook: [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) - TODO
+- :notebook: [Optimizing JavaScript code](https://developers.google.com/speed/articles/optimizing-javascript) - build large strings from arrays with a join, define class default properties and methods outside of constructor, avoid using closures as they don't allow optimizations, avoid with, don't forget to remove event listeners to avoid memory leak.
 
 
 ### ES6 (ES2015)
