@@ -41,6 +41,7 @@ All Javascript related articles.
 - :tv: [Javascript is Weird...and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)(5 videos) - video series that covers such fundemental aspects of JavaScript as `First class functions`, `Event-driven Environment`, `Closures`, `Scope`, `Context` a.k.a `this`.
 - [ES6 Spread and Butter in Depth](http://ponyfoo.com/articles/es6-spread-and-butter-in-depth) - `let test = (a, b, ...c) => [a, b, c];` `test(1,2,3,4,5,6)); // [1,2,[3,4,5,6]]`, also looks at default operators on functions.
 - [ES6 Iterators in Depth](http://ponyfoo.com/articles/es6-iterators-in-depth) - object iterators usefull to make cleaner iteration with help of `Array.from()` and `for-of`.
+- [Why is there a “temporal dead zone” in ES6?](http://www.2ality.com/2015/10/why-tdz.html) - "temporal dead zone" place to cathc programming errors, such as using an `let` or `const` before declaration will cause a ReferenceError, but undefined variables will just return undefined. 
 
 ### Node.js
 - :tv: [Benjamin Gruenbaum - io.js and the future of server side JavaScript | YGLF2015](https://www.youtube.com/watch?v=LGpmUyFnyuQ) - about io.js, es2015, contributing to os contributions.
