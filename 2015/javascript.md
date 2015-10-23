@@ -30,6 +30,7 @@ All Javascript related articles.
 - :notebook: [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) - TODO
 - :notebook: [Optimizing JavaScript code](https://developers.google.com/speed/articles/optimizing-javascript) - build large strings from arrays with a join, define class default properties and methods outside of constructor, avoid using closures as they don't allow optimizations, avoid with, don't forget to remove event listeners to avoid memory leak.
 - [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed) - favour composition `Object.assign({}, a, b, c)` with factory functions over inheritance `class Dog extends Animal` as it allows more flexability as something can be and has stuff. Example - Dog class can be an Animal and it has Bark, which with inheritance woudln't be so easy to achieve.
+- [Parallaxin'](http://www.html5rocks.com/en/tutorials/speed/parallax/) - for optimized parallax use *DOM elements and absolute positioning* or *DOM elements and 3D transforms* or *canvas or WebGL* similar as [flipbook does](engineering.flipboard.com/2015/02/mobile-web/) and top of all use *requestAnimationFrame*.
 
 
 ### ES6 (ES2015)
