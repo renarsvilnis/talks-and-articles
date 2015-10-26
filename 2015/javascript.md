@@ -32,7 +32,7 @@ All Javascript related articles.
 - [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed) - favour composition `Object.assign({}, a, b, c)` with factory functions over inheritance `class Dog extends Animal` as it allows more flexability as something can be and has stuff. Example - Dog class can be an Animal and it has Bark, which with inheritance woudln't be so easy to achieve.
 - [Parallaxin'](http://www.html5rocks.com/en/tutorials/speed/parallax/) - for optimized parallax use *DOM elements and absolute positioning* or *DOM elements and 3D transforms* or *canvas or WebGL* similar as [flipbook does](engineering.flipboard.com/2015/02/mobile-web/) and top of all use *requestAnimationFrame*.
 - [JSConf 2015 Charlie McConnell](https://www.youtube.com/watch?v=6xZeJS4_2J8) - Peeble developers talk about the JavaScript Pebble api and Containers such as Docker and CoreOS.
-
+- [JSConf 2015 Laney Kuenzel](https://www.youtube.com/watch?v=mmke4w4gc6c&list=WL&index=214) - talk about building *relay*, *GraphQL*
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
