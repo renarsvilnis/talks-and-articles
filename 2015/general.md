@@ -9,6 +9,7 @@ Articles and talks which are applicable to general programming knowledge.
 - [Why All Developer Conferences Should Be Held in a Cinema](http://www.jkaufman.io/why-all-developer-conferences-should-be-held-in-a-cinema/) - bigger screen == better readability, better chairs, less distractions.
 - [Cruise Ships](http://blog.chriszacharias.com/cruise-ships) - "Large companies are cruise ships. They work very hard to make you comfortable, provide you safety, and satisfy every need you have. You are all moving in the same direction and seeing the same sights along the way." Author compares backpacking to startups, as you never know what good/bad will happen along the way, but it the end the journey will be worth it.
 - [Five Years of Building Instagram](https://medium.com/backchannel/war-stories-3696d00207ff) - talks about how instagram was created and how it has grown over the years.
+- [Recruiting: What do recruiters look for in a resumé at first glance?](https://www.quora.com/Recruiting/What-do-recruiters-look-for-in-a-resum%C3%A9-at-first-glance/answers/1086433) - Include urls, list personal projects, use typography, use past tense withouth pronouns such as *I, My, She, He*.
 
 ### Tech related
 - :tv: [Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014](https://youtu.be/4anAwXYqLG8) - about writing manageable code by using less libraries in favour of pollyfills and standarts, only use abstractions when it would help solve bugs. He talks about writing explicitly repetitive code, which I don't agree 100%.
