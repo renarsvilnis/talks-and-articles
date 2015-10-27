@@ -31,11 +31,12 @@ All Javascript related articles.
 - :notebook: [Optimizing JavaScript code](https://developers.google.com/speed/articles/optimizing-javascript) - build large strings from arrays with a join, define class default properties and methods outside of constructor, avoid using closures as they don't allow optimizations, avoid with, don't forget to remove event listeners to avoid memory leak.
 - [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed) - favour composition `Object.assign({}, a, b, c)` with factory functions over inheritance `class Dog extends Animal` as it allows more flexability as something can be and has stuff. Example - Dog class can be an Animal and it has Bark, which with inheritance woudln't be so easy to achieve.
 - [Parallaxin'](http://www.html5rocks.com/en/tutorials/speed/parallax/) - for optimized parallax use *DOM elements and absolute positioning* or *DOM elements and 3D transforms* or *canvas or WebGL* similar as [flipbook does](engineering.flipboard.com/2015/02/mobile-web/) and top of all use *requestAnimationFrame*.
-- [JSConf 2015 Charlie McConnell](https://www.youtube.com/watch?v=6xZeJS4_2J8) - Peeble developers talk about the JavaScript Pebble api and Containers such as Docker and CoreOS.
-- [JSConf 2015 Laney Kuenzel](https://www.youtube.com/watch?v=mmke4w4gc6c&list=WL&index=214) - talk about building *relay*, *GraphQL*
-- [JSConf 2015 Jory Burson](https://www.youtube.com/watch?v=Yn9RHDPwSic&index=213&list=WL) - talks about issues faced when creating open source projects on organisations,. Created an MVC (Mission Value Change).
-- [JSConf 2015 Kassandra Perch](https://youtu.be/M5gUJntx-CY) - about robotics with JavaScript and Node. Nothing particulary worthy.
-- [JSConf 2015 Myles Borins](https://youtu.be/gmQ1kcj8Q2k) - talk about the basic fundementals of sound - rate, bit depth, sampling rate. Why the values are such and how we have come to this.
+- :tv: [JSConf 2015 Charlie McConnell](https://www.youtube.com/watch?v=6xZeJS4_2J8) - Peeble developers talk about the JavaScript Pebble api and Containers such as Docker and CoreOS.
+- :tv: [JSConf 2015 Laney Kuenzel](https://www.youtube.com/watch?v=mmke4w4gc6c&list=WL&index=214) - talk about building *relay*, *GraphQL*
+- :tv: [JSConf 2015 Jory Burson](https://www.youtube.com/watch?v=Yn9RHDPwSic&index=213&list=WL) - talks about issues faced when creating open source projects on organisations. Created an MVC (Mission Value Change).
+- :tv: [JSConf 2015 Kassandra Perch](https://youtu.be/M5gUJntx-CY) - about robotics with JavaScript and Node. Nothing particulary worthy.
+- :tv: [JSConf 2015 Myles Borins](https://youtu.be/gmQ1kcj8Q2k) - talk about the basic fundementals of sound - rate, bit depth, sampling rate. Why the values are such and how we have come to this.
+- :notebook: :tv: [JSConf 2015 Mike Ball](https://youtu.be/aGIJWWKLzF8) - headless browser testing with Xvfb which might help when testing Flash, NW.js Polymer web-components. Xvfb allows to run GUI applications with no GUI withing a vagrant box. Also mentions how to debug and see the gui from an external source (for example mac). [Repo on how to debug nw.js apps with that pattern.](https://github.com/mdb/nw-testing-box)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
