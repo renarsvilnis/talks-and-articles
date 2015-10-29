@@ -37,6 +37,7 @@ All Javascript related articles.
 - :tv: [JSConf 2015 Kassandra Perch](https://youtu.be/M5gUJntx-CY) - about robotics with JavaScript and Node. Nothing particulary worthy.
 - :tv: [JSConf 2015 Myles Borins](https://youtu.be/gmQ1kcj8Q2k) - talk about the basic fundementals of sound - rate, bit depth, sampling rate. Why the values are such and how we have come to this.
 - :notebook: :tv: [JSConf 2015 Mike Ball](https://youtu.be/aGIJWWKLzF8) - headless browser testing with Xvfb which might help when testing Flash, NW.js Polymer web-components. Xvfb allows to run GUI applications with no GUI withing a vagrant box. Also mentions how to debug and see the gui from an external source (for example mac). [Repo on how to debug nw.js apps with that pattern.](https://github.com/mdb/nw-testing-box)
+- [nodeValue vs innerHTML and textContent. How to choose?](http://stackoverflow.com/a/21311670/1378261) - use `textContent` instead of `innerHTML` as it doesn't do any html parsing and [is safe against XSS](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet#Web_Messaging).
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
