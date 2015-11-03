@@ -38,6 +38,7 @@ All Javascript related articles.
 - :tv: [JSConf 2015 Myles Borins](https://youtu.be/gmQ1kcj8Q2k) - talk about the basic fundementals of sound - rate, bit depth, sampling rate. Why the values are such and how we have come to this.
 - :notebook: :tv: [JSConf 2015 Mike Ball](https://youtu.be/aGIJWWKLzF8) - headless browser testing with Xvfb which might help when testing Flash, NW.js Polymer web-components. Xvfb allows to run GUI applications with no GUI withing a vagrant box. Also mentions how to debug and see the gui from an external source (for example mac). [Repo on how to debug nw.js apps with that pattern.](https://github.com/mdb/nw-testing-box)
 - [nodeValue vs innerHTML and textContent. How to choose?](http://stackoverflow.com/a/21311670/1378261) - use `textContent` instead of `innerHTML` as it doesn't do any html parsing and [is safe against XSS](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet#Web_Messaging).
+- [Michael Matuzak: Amazing Things One Can Do With JS and the NES | JSConf US 2015](https://youtu.be/NiOW-swy2Ys)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -47,8 +48,12 @@ All Javascript related articles.
 - :tv: [Are you bad, good, better or best with Async JS? JS Tutorial: Callbacks, Promises, Generators](https://youtu.be/obaSQBBWZLk) - general tutorial about promises and how generators are better for async callback handling.
 - :tv: [Javascript is Weird...and AWESOME](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)(5 videos) - video series that covers such fundemental aspects of JavaScript as `First class functions`, `Event-driven Environment`, `Closures`, `Scope`, `Context` a.k.a `this`.
 - [ES6 Spread and Butter in Depth](http://ponyfoo.com/articles/es6-spread-and-butter-in-depth) - `let test = (a, b, ...c) => [a, b, c];` `test(1,2,3,4,5,6)); // [1,2,[3,4,5,6]]`, also looks at default operators on functions.
-- [ES6 Iterators in Depth](http://ponyfoo.com/articles/es6-iterators-in-depth) - object iterators usefull to make cleaner iteration with help of `Array.from()` and `for-of`.
-- [Why is there a “temporal dead zone” in ES6?](http://www.2ality.com/2015/10/why-tdz.html) - "temporal dead zone" place to cathc programming errors, such as using an `let` or `const` before declaration will cause a ReferenceError, but undefined variables will just return undefined. 
+- [ES6 Iterators in Depth](http://ponyfoo.com/articles/es6-iterators-in-depth) - object iterators useful to make cleaner iteration with help of `Array.from()` and `for-of`.
+- [Why is there a “temporal dead zone” in ES6?](http://www.2ality.com/2015/10/why-tdz.html) - "temporal dead zone" place to cathc programming errors, such as using an `let` or `const` before declaration will cause a ReferenceError, but undefined variables will just return undefined.
+- [Hail, Babel! The Transpiling Overlord](http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/?utm_source=javascriptweekly&utm_medium=email)
+
+### ES2016
+
 
 ### Node.js
 - :tv: [Benjamin Gruenbaum - io.js and the future of server side JavaScript | YGLF2015](https://www.youtube.com/watch?v=LGpmUyFnyuQ) - about io.js, es2015, contributing to os contributions.
@@ -85,10 +90,15 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207) - history of flux, and how all flux parts work.
 - [A cartoon guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) - Redux solves Flux problems and more - hot reload, time travel *(undo/redo)*, 3rd party plugins iwht support of middlewares, reduced boilerplate, serverside rendering, develeper tools, [simplicity](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux/32920459#32920459).
 - :tv: [Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015](https://youtu.be/xsSnOQynTHs) - showing step by step how regular flux implementation is getting converted to redux and the thought behind them.
+- :notebook: [The Provider and Higher-Order Component patterns with React](https://medium.com/@bloodyowl/the-provider-and-higher-order-component-patterns-with-react-d16ab2d1636) - showcasing the provider and higher-order component pattern which can be used avoid deep passing of data which causes maintainability and isolation issues. As a global wrapper around components, example use case is a theme wrapper.
+- :notebook: [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html) - context is a set of attributes that are implicitly passed down from an element to all of its children and grandchildren. Currently not documented but will change as of React v1.0.
+- [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/) - react mobile performance isn't good.
+- [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) - Higher-Order Components > Mixins.
+- [Advanced Performance](https://facebook.github.io/react/docs/advanced-performance.html) - you can increase performance by implementing a `shouldComponentUpdate` method, instead of letting react compare virtual DOMs. Example a simple text component (*applies to most dump components aswell*), for these kind of situaction you can use the `PureRenderMixin`.
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
-- [Thinking with Joins](http://bost.ocks.org/mike/join/) - about the importance and way it gets managed in d3.
+- [Thinking with Joins](http://bost.ocks.org/mike/join/) - about the importance of data joins and way it gets managed in d3.
 - [Binding data](http://alignedleft.com/tutorials/d3/binding-data) - about data binding in d3.
 - [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/) - choose creating charts in SVG over Canvas or CSS wizardy.
 
