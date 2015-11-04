@@ -95,6 +95,12 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/) - react mobile performance isn't good.
 - [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) - Higher-Order Components > Mixins.
 - [Advanced Performance](https://facebook.github.io/react/docs/advanced-performance.html) - you can increase performance by implementing a `shouldComponentUpdate` method, instead of letting react compare virtual DOMs. Example a simple text component (*applies to most dump components aswell*), for these kind of situaction you can use the `PureRenderMixin`.
+- [The React.js Way: Flux Architecture with Immutable.js](https://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
+- [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/) - copy arrays - `[].concat(...)`, objects - `Object.assign({}, ...)`.
+- [Understanding The React.js PureRenderMixin](http://ilikekillnerds.com/2015/10/understanding-the-react-js-purerendermixin/)
+- [Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
+- :tv: [React.js Conf 2015 - Immutable Data and React](https://youtu.be/I7IdS-PbEgI)
+- :tv: [React.js Conf 2015 - Making your app fast with high-performance components](https://youtu.be/KYzlpRvWZ6c) - seperation of huge DOM components that have frequent props ans state updates will increase performance, *loose coupling*, such as doing some manipulations on a table wrapper, won't trigger a heavy the table re-render. Wrap Components into Containers, where Container as data layers handle state, talk to stores and pass data to Components as props, issolating children from parent.
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
