@@ -108,7 +108,8 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [React: A (very brief) talk about immutability.](https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c)
 - [Managing UI Complexity With React: Part I](https://medium.com/@_alanbsmith/managing-ui-complexity-with-react-part-i-179b43a29728)
 - [Managing UI Complexity With React: Part II](https://medium.com/@_alanbsmith/managing-ui-complexity-with-react-part-ii-6e0d65ab9357)
-- [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications) - use `componentDidUpdate` to encapsulate functionality that would be needed to called in multiple places. TODO 
+- [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications) - use `componentDidUpdate` to encapsulate functionality that would be needed to called in multiple places, enforce composition.
+- [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
