@@ -39,6 +39,8 @@ All Javascript related articles.
 - :notebook: :tv: [JSConf 2015 Mike Ball](https://youtu.be/aGIJWWKLzF8) - headless browser testing with Xvfb which might help when testing Flash, NW.js Polymer web-components. Xvfb allows to run GUI applications with no GUI withing a vagrant box. Also mentions how to debug and see the gui from an external source (for example mac). [Repo on how to debug nw.js apps with that pattern.](https://github.com/mdb/nw-testing-box)
 - [nodeValue vs innerHTML and textContent. How to choose?](http://stackoverflow.com/a/21311670/1378261) - use `textContent` instead of `innerHTML` as it doesn't do any html parsing and [is safe against XSS](https://www.owasp.org/index.php/HTML5_Security_Cheat_Sheet#Web_Messaging).
 - [Michael Matuzak: Amazing Things One Can Do With JS and the NES | JSConf US 2015](https://youtu.be/NiOW-swy2Ys)
+- :notebook: [Not so micro optimizations](https://medium.com/@cramforce/not-so-micro-optimizations-f867c47b832d) - Shows how to polypill `prefetch` (*only non iOS devices*) and `preconnect`.
+- [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -51,6 +53,7 @@ All Javascript related articles.
 - [ES6 Iterators in Depth](http://ponyfoo.com/articles/es6-iterators-in-depth) - object iterators useful to make cleaner iteration with help of `Array.from()` and `for-of`.
 - [Why is there a “temporal dead zone” in ES6?](http://www.2ality.com/2015/10/why-tdz.html) - "temporal dead zone" place to cathc programming errors, such as using an `let` or `const` before declaration will cause a ReferenceError, but undefined variables will just return undefined.
 - [Hail, Babel! The Transpiling Overlord](http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/?utm_source=javascriptweekly&utm_medium=email)
+- [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 
 ### ES2016
 
@@ -101,6 +104,11 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 - :tv: [React.js Conf 2015 - Immutable Data and React](https://youtu.be/I7IdS-PbEgI)
 - :tv: [React.js Conf 2015 - Making your app fast with high-performance components](https://youtu.be/KYzlpRvWZ6c) - seperation of huge DOM components that have frequent props ans state updates will increase performance, *loose coupling*, such as doing some manipulations on a table wrapper, won't trigger a heavy the table re-render. Wrap Components into Containers, where Container as data layers handle state, talk to stores and pass data to Components as props, issolating children from parent.
+- [Why FluxComponent > fluxMixin](https://github.com/acdlite/flummox/blob/v3.5.1/docs/docs/guides/why-flux-component-is-better-than-flux-mixin.md) - favour controller components over mixins as you can predict the data flow more easily as there is a *owner/parent*.
+- [React: A (very brief) talk about immutability.](https://medium.com/@cassiozen/a-brief-talk-about-immutability-and-react-s-helpers-70919ab8ae7c)
+- [Managing UI Complexity With React: Part I](https://medium.com/@_alanbsmith/managing-ui-complexity-with-react-part-i-179b43a29728)
+- [Managing UI Complexity With React: Part II](https://medium.com/@_alanbsmith/managing-ui-complexity-with-react-part-ii-6e0d65ab9357)
+- [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications) - use `componentDidUpdate` to encapsulate functionality that would be needed to called in multiple places. TODO 
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
