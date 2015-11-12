@@ -111,6 +111,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Best practices for building large React applications](http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications) - use `componentDidUpdate` to encapsulate functionality that would be needed to called in multiple places, enforce composition.
 - [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
 - :notebook: [Context](https://facebook.github.io/react/docs/context.html) - use context for themes, passing logged-in user, current language information.
+- :tv: [Developer Experience & Tools](https://youtu.be/qXVakfdA040)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
