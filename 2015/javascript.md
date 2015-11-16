@@ -41,6 +41,7 @@ All Javascript related articles.
 - [Michael Matuzak: Amazing Things One Can Do With JS and the NES | JSConf US 2015](https://youtu.be/NiOW-swy2Ys)
 - :notebook: [Not so micro optimizations](https://medium.com/@cramforce/not-so-micro-optimizations-f867c47b832d) - Shows how to polypill `prefetch` (*only non iOS devices*) and `preconnect`.
 - [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
+- [You should use [insert library/framework], it's the bestestest! / Paul Lewis](https://youtu.be/_yCz1TA0EL4) - [big rig](https://aerotwist.com/blog/bigrig/) for performance testing
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
