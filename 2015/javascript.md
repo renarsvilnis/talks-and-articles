@@ -57,6 +57,7 @@ All Javascript related articles.
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 
 ### ES2016
+- :notebook: [Exploring ES2016 Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) - wrapper functions that can go on classe methods on class itselfs. It is possible to use multiple decorators for a single class, class-method.
 
 
 ### Node.js
