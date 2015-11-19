@@ -42,6 +42,7 @@ All Javascript related articles.
 - :notebook: [Not so micro optimizations](https://medium.com/@cramforce/not-so-micro-optimizations-f867c47b832d) - Shows how to polypill `prefetch` (*only non iOS devices*) and `preconnect`.
 - [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 - [You should use [insert library/framework], it's the bestestest! / Paul Lewis](https://youtu.be/_yCz1TA0EL4) - [big rig](https://aerotwist.com/blog/bigrig/) for performance testing
+- [Why you should embrace JavaScript](https://medium.com/@lukin0110/why-you-should-embrace-javascript-64b2b8209145#.huoua34eq)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -74,6 +75,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Useful tools for your Node.js projects](https://medium.com/@anephenix/useful-tools-for-your-node-js-projects-20fd1f7c860a) - all about testing tools - [Mocha](http://mochajs.org/), [CucumberJS](https://cucumber.io/), [Instabul](https://github.com/gotwarlost/istanbul), [Coveralls](https://coveralls.io/). Talks about code consistency and quality using linters, [Code Climate](https://codeclimate.com/), [Codacy](https://www.codacy.com/). Documentation creation with tools as [Raneto](http://raneto.com/). Keeping track of dependencies with [David](https://david-dm.org/) and [npm-dview](https://www.npmjs.com/package/npm-dview).
 - [Best Practices for Deploying Node.js in Production](https://youtu.be/7TZrkJBxDJw) - mentions [`npm shrinkwarp`](https://docs.npmjs.com/cli/shrinkwrap) to freeze dependency versions then deploying, but vulnerable if any npm service is down. So he talks about a different way of using github to package node modules. In my opinion a way to complex way to deploy for most cases.
 - [Pragmatic Semantic Versioning](https://ponyfoo.com/articles/semver) - avoid `~` and `^` as the tend to break stuff. Use `npm set save-exact true` to save curent versions.
+- :tv: [Ryan Dahl: Original Node.js presentation](https://youtu.be/ztspvPYybIY) - node was created to solve concurrency, existing IO issues.
 
 ### React and Flow*
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644) - nothing new.
@@ -114,6 +116,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
 - :notebook: [Context](https://facebook.github.io/react/docs/context.html) - use context for themes, passing logged-in user, current language information.
 - :tv: [Developer Experience & Tools](https://youtu.be/qXVakfdA040)
+- [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.vo410nnjg)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
