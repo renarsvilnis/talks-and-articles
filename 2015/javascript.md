@@ -117,6 +117,8 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :notebook: [Context](https://facebook.github.io/react/docs/context.html) - use context for themes, passing logged-in user, current language information.
 - :tv: [Developer Experience & Tools](https://youtu.be/qXVakfdA040)
 - [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.vo410nnjg)
+- [Tips to handle Authentication in Redux](https://medium.com/@MattiaManzati/tips-to-handle-authentication-in-redux-4d596e11bb21#.jr6kwksj7) - use JSON Web Token for auth, response with: 401 - unauthenticated, 403 - no rights. Use namespaces for redux actions `AUTH_SET_TOKEN: 'auth/SET_TOKEN',`.
+- :notebook: [Introducing the VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library) - *Velocity.js* library in *React.js*.
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
