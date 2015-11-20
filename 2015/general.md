@@ -12,6 +12,7 @@ Articles and talks which are applicable to general programming knowledge.
 - [Recruiting: What do recruiters look for in a resumé at first glance?](https://www.quora.com/Recruiting/What-do-recruiters-look-for-in-a-resum%C3%A9-at-first-glance/answers/1086433) - Include urls, list personal projects, use typography, use past tense withouth pronouns such as *I, My, She, He*.
 - [The full-stack employee](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1)
 - [Don’t Sign That Contract! Developer Job Deal Breakers](https://medium.com/javascript-scene/don-t-sign-that-contract-developer-job-deal-breakers-346c2685a109#.r9rndvi3v) - you have leverage to alter the employment agreement, try to avoid  non compete clauses or let them be very specific, take a look at IP ownership.
+- [Four phrases NOT to use on your startup job application](https://medium.com/jobbatical-blog/four-phrases-not-to-use-on-your-startup-job-application-506cfecdcf46#.uvfqp5geg) - Be personal `Dear [Founder’s Name]` or `Hello [Startup Name] Team`, be specific why them or why that city, understand their vision.
 
 ### Tech related
 - :tv: [Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014](https://youtu.be/4anAwXYqLG8) - about writing manageable code by using less libraries in favour of pollyfills and standarts, only use abstractions when it would help solve bugs. He talks about writing explicitly repetitive code, which I don't agree 100%.
