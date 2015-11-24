@@ -76,6 +76,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Best Practices for Deploying Node.js in Production](https://youtu.be/7TZrkJBxDJw) - mentions [`npm shrinkwarp`](https://docs.npmjs.com/cli/shrinkwrap) to freeze dependency versions then deploying, but vulnerable if any npm service is down. So he talks about a different way of using github to package node modules. In my opinion a way to complex way to deploy for most cases.
 - [Pragmatic Semantic Versioning](https://ponyfoo.com/articles/semver) - avoid `~` and `^` as the tend to break stuff. Use `npm set save-exact true` to save curent versions.
 - :tv: [Ryan Dahl: Original Node.js presentation](https://youtu.be/ztspvPYybIY) - node was created to solve concurrency, existing IO issues.
+- [Fundamental Node.js Design Patterns]
 
 ### React and Flow*
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644) - nothing new.
