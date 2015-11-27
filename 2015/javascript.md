@@ -1,7 +1,7 @@
 ## JavaScript
 All Javascript related articles.
 
-- [MVC Architecture](https://developer.chrome.com/apps/app_frameworks) - overall knowledge about MVC architecture.
+- [MVC Architecture](https://developer.chrome.com/apps/app_frameworks)
 - [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) - fundementals behind building an electron app, structuring files, communicating between windows and processes.
 - [DevTools Tips For Sublime Text Users](https://medium.com/@addyosmani/devtools-tips-for-sublime-text-users-cdd559ee80f8) - usefull keyboard shortcuts or less known features of Chrome dev tools.
 - [Debounce and Throttle: a visual explanation](http://drupalmotion.com/article/debounce-and-throttle-visual-explanation) - excellent guide for learning debounce and throttling.
@@ -13,7 +13,7 @@ All Javascript related articles.
 - [Staying relevant as a programmer](https://medium.com/humans-create-software/staying-relevant-as-a-programmer-e9f18b1b0e43) - about staying relevant by learning the fundementals over tools.
 - [Lint Like It’s 2015](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48) - godlike tutorial about setting up eslint to work with es6(babel), react and sublime.
 - [5-step quick start guide to ESLint](http://codeutopia.net/docs/eslint/) - covers briefly what `Lint Like It’s 2015` tells but includes how to add an automatic git hook for linting.
-- [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225) - about how the author learned JavaScripts and his recommendation on how others should learn it.
+- [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
 - [Javascript is the new Java](https://medium.com/@Maephisto/javascript-is-the-new-java-d14f0585d05e) - `If you want to build iOS, (Android, soon), MacOS, Windows, Linux or Web apps and you want to master only one language, choose Javascript`.
 - :tv: [Factory Functions in JavaScript](https://www.youtube.com/watch?v=ImwrezYhw4w) - about factory functions for more readable code. It is simply a function that returns an object and uses closures to have private class variables, but at the 2x initiantion cost from classes.
 - [Optimization killers in V8 engine](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers) - a guide that covers most patterns that cause the containing function go to "deopitmization hell". Haven't got into it, but usefull if needed to squeze out performance out of a node.js code.
@@ -119,7 +119,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :tv: [Developer Experience & Tools](https://youtu.be/qXVakfdA040)
 - [An iOS Developer on React Native](https://medium.com/ios-os-x-development/an-ios-developer-on-react-native-1f24786c29f0#.vo410nnjg)
 - [Tips to handle Authentication in Redux](https://medium.com/@MattiaManzati/tips-to-handle-authentication-in-redux-4d596e11bb21#.jr6kwksj7) - use JSON Web Token for auth, response with: 401 - unauthenticated, 403 - no rights. Use namespaces for redux actions `AUTH_SET_TOKEN: 'auth/SET_TOKEN',`.
-- :notebook: [Introducing the VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library) - *Velocity.js* library in *React.js*.
+- :notebook: [Introducing the VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library) - *Velocity.js* animation library in *React.js*.
 - :tv: [Jeremy Morrell - Flux in large applications - JSConfUY 2015](https://www.youtube.com/watch?v=Dm9NgjR5Jn4)
 - [A Simple Way to Route with Redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux)
 - :notebook: [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) - shows a interesting way of structuring a redux project, name actions, reducers
