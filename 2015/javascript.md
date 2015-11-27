@@ -79,17 +79,17 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Fundamental Node.js Design Patterns]
 
 ### React and Flow*
-- [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644) - nothing new.
-- [React Native In Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad) - about integrating React Native in their iOS app production and what conclusions they had about using it.
-- [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) - about component seperation beetween rendered dom and app logic.
-- [Ajax Calls with React and Flux](http://www.thedreaming.org/2015/03/14/react-ajax/) - looks at different ways that ajax calls can be made. Either in component[bad], action[better], store[better] - going voer the pros and cons of each. But there isn't a clear best solution - yet.
-- :tv: [reactjs - Learn React, Flux, and Flow: Part I](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM) - introduction about react.
-- :tv: [reactjs - Learn React, Flux, and Flow: Part II](https://www.youtube.com/watch?v=iR22EWW-CVc) - about react-router and flux.
-- :tv: [reactjs - Learn React, Flux, and Flow: Part III](https://www.youtube.com/watch?v=6fhTawDEE9k) - about api calls, [radium](https://github.com/FormidableLabs/radium). [Git repo](https://github.com/FormidableLabs/recipes-flux).
-- :tv: [reactjs - netflix - tony casparro - chasing 60fps](https://www.youtube.com/watch?v=g01dGsKbXOk) - about how netflix redesigned app with help react and challenges/problems they faced.
-- :tv: [React.js Conf 2015 - Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg) - showcasing cool stuff and performance with apps created with react.js. Testing componentes, handling modals by returning `null` in render but on component lifecycle call a new `React.render(...)` instance to add modal to `document.body`.
-- :tv: [Michael Ridgway - Isomorphic Flux at react-europe 2015](https://youtu.be/MrozpFEBEBE) - talks about react serverside rendering using isomorphic flux with [fluxible](https://github.com/yahoo/fluxible).
-- [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/a/237762/198408) - comprehensive answer about react.js vs native (Web Components). Writes about why the native implementation of DOM is slower then react.js. About patterns used in React.js such as unidirectional data-flow.
+- [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
+- [React Native In Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad)
+- [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [Ajax Calls with React and Flux](http://www.thedreaming.org/2015/03/14/react-ajax/)
+- :tv: [reactjs - Learn React, Flux, and Flow: Part I](https://www.youtube.com/watch?v=Pd6Ub7Ju2RM)
+- :tv: [reactjs - Learn React, Flux, and Flow: Part II](https://www.youtube.com/watch?v=iR22EWW-CVc)
+- :tv: [reactjs - Learn React, Flux, and Flow: Part III](https://www.youtube.com/watch?v=6fhTawDEE9k)
+- :tv: [reactjs - netflix - tony casparro - chasing 60fps](https://www.youtube.com/watch?v=g01dGsKbXOk)
+- :tv: [React.js Conf 2015 - Hype!](https://www.youtube.com/watch?v=z5e7kWSHWTg)
+- :tv: [Michael Ridgway - Isomorphic Flux at react-europe 2015](https://youtu.be/MrozpFEBEBE)
+- [Pros and Cons of Facebook's React vs. Web Components (Polymer)](http://programmers.stackexchange.com/a/237762/198408) - Writes about why the native implementation of DOM is slower then react.js.
 - [React-Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba) - writes about what animation problems there are and how [react-motion](https://github.com/chenglou/react-motion) and other libraries are or is trying solve these problems.
 - :tv: [Sebastian Markbåge - DOM as a Second-class Citizen at react-europe 2015](https://youtu.be/Zemce4Y1Y-A) - talks about how react is a toolbox for abstractions for building other tools (such as components). Presents an idea bypass dom/cssom api and html/css model and let react talk to box tree directly, but beeing alongside the traditional html/css model. A w3 working group called houdini is trying to figure it out how to make it working browsers. Mentioned that facebook uses machine learning on packaging systems to detect which code fragments are more important and load first depending on usage data and use case. Crazy!
 - [Atomic Components: Managing Dynamic React Components using Atomic Design — Part 1](https://medium.com/@yejodido/atomic-components-managing-dynamic-react-components-using-atomic-design-part-1-5f07451f261f) - writes about how to structure react projects by usage of enviroment(top level app, single), ecosystems (container components of multiple organism components, can be nested ecosystems). The first part doesn't look over other Atomomic design elements.
@@ -97,10 +97,10 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Functional Stateless Components in React 0.14](https://medium.com/@joshblack/stateless-components-in-react-0-14-f9798f8b992d) - statless components are awesome and use them, the still allow to define `propTypes`, `defaultProps`.
 - [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207) - history of flux, and how all flux parts work.
 - [A cartoon guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6) - Redux solves Flux problems and more - hot reload, time travel *(undo/redo)*, 3rd party plugins iwht support of middlewares, reduced boilerplate, serverside rendering, develeper tools, [simplicity](http://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux/32920459#32920459).
-- :tv: [Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015](https://youtu.be/xsSnOQynTHs) - showing step by step how regular flux implementation is getting converted to redux and the thought behind them.
-- :notebook: [The Provider and Higher-Order Component patterns with React](https://medium.com/@bloodyowl/the-provider-and-higher-order-component-patterns-with-react-d16ab2d1636) - showcasing the provider and higher-order component pattern which can be used avoid deep passing of data which causes maintainability and isolation issues. As a global wrapper around components, example use case is a theme wrapper.
+- :tv: [Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015](https://youtu.be/xsSnOQynTHs)
+- :notebook: [The Provider and Higher-Order Component patterns with React](https://medium.com/@bloodyowl/the-provider-and-higher-order-component-patterns-with-react-d16ab2d1636)
 - :notebook: [Introduction to Contexts in React.js](https://www.tildedave.com/2014/11/15/introduction-to-contexts-in-react-js.html) - context is a set of attributes that are implicitly passed down from an element to all of its children and grandchildren. Currently not documented but will change as of React v1.0.
-- [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/) - react mobile performance isn't good.
+- [React + Performance = ?](https://aerotwist.com/blog/react-plus-performance-equals-what/) - React performance on mobile isn't that good.
 - [Mixins Are Dead. Long Live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) - Higher-Order Components > Mixins.
 - [Advanced Performance](https://facebook.github.io/react/docs/advanced-performance.html) - you can increase performance by implementing a `shouldComponentUpdate` method, instead of letting react compare virtual DOMs. Example a simple text component (*applies to most dump components aswell*), for these kind of situaction you can use the `PureRenderMixin`.
 - [The React.js Way: Flux Architecture with Immutable.js](https://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
@@ -122,12 +122,14 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :notebook: [Introducing the VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library) - *Velocity.js* library in *React.js*.
 - :tv: [Jeremy Morrell - Flux in large applications - JSConfUY 2015](https://www.youtube.com/watch?v=Dm9NgjR5Jn4)
 - [A Simple Way to Route with Redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux)
+- :notebook: [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) - shows a interesting way of structuring a redux project, name actions, reducers
+- [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
 
 ### D3.js
-- [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/) - introduction to d3.
-- [Thinking with Joins](http://bost.ocks.org/mike/join/) - about the importance of data joins and way it gets managed in d3.
-- [Binding data](http://alignedleft.com/tutorials/d3/binding-data) - about data binding in d3.
-- [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/) - choose creating charts in SVG over Canvas or CSS wizardy.
+- [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
+- [Thinking with Joins](http://bost.ocks.org/mike/join/)
+- [Binding data](http://alignedleft.com/tutorials/d3/binding-data)
+- [How to Make Charts with SVG](https://css-tricks.com/how-to-make-charts-with-svg/)
 
 ### WebRTC
 - :tv: [Google: What's next for WebRTC?](https://youtu.be/HCE3S1E5UwY) - about future of WebRTC - defining open codes, `getUserMedia` only on https, massive performance increase on mobile devices and desktop.
