@@ -124,6 +124,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [A Simple Way to Route with Redux](http://jlongster.com/A-Simple-Way-to-Route-with-Redux)
 - :notebook: [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e) - shows a interesting way of structuring a redux project, name actions, reducers
 - [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
+- [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.jptwkpaon)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
