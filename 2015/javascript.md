@@ -126,6 +126,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a)
 - [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.jptwkpaon)
 - :tv: [Abstracting just enough — James Long](https://youtu.be/764wvf8KuTw)
+- :notebook: [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) -  covers testing, webpack, redux and a bit of immutable.js
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
