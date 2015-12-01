@@ -43,6 +43,7 @@ All Javascript related articles.
 - [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 - [You should use [insert library/framework], it's the bestestest! / Paul Lewis](https://youtu.be/_yCz1TA0EL4) - [big rig](https://aerotwist.com/blog/bigrig/) for performance testing
 - [Why you should embrace JavaScript](https://medium.com/@lukin0110/why-you-should-embrace-javascript-64b2b8209145#.huoua34eq)
+- :tv: [OSCON 2014: How Instagram.com Works; Pete Hunt](https://youtu.be/VkTCL6Nqm6Y)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
