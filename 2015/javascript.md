@@ -127,6 +127,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Implementing a smart Login Modal with Redux, reselect and ReactJS](https://medium.com/@dorsha/implement-login-modal-with-redux-reselect-and-reactjs-668c468bcbe3#.jptwkpaon)
 - :tv: [Abstracting just enough — James Long](https://youtu.be/764wvf8KuTw)
 - :notebook: [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) -  covers testing, webpack, redux and a bit of immutable.js
+- :tv: [Functional Programming in JavaScript. What, Why, and How | Daniel Steigerwald | Reactive 2015](https://youtu.be/xeAdUEIb_ys)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
@@ -144,3 +145,4 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama) - writes about differences and philosophies of Browserify and WebPack. Mentions how adding CSS, [`urify-emitter`](https://www.npmjs.com/package/urify-emitter), bundle splitting and react hot-loading is done withing each of the tools.
 - :notebook: [webpack-howto](https://github.com/petehunt/webpack-howto) - cookbook for getting things done with WebPack which includes methods that guys at instagram does.
 - [Building modular javascript applications in ES6 with React, Webpack and Babel](https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react-webpack-and-babel-538189cd485f) - guide on creating react components with webpack that has component specific code. Tips on publishing modules - adding `es6` field to `package.json`. Also covers how to test ES6 code with mocha by addding a compiler, adding instabul coverage, component seperation in react and backend which talks to eachother with [`postal.js`](https://github.com/postaljs/postal.js).
+- [A guide to simple, parametrized Webpack builds](https://medium.com/@tomastrajan/a-guide-to-simple-parametrized-webpack-builds-24d43fcf8ae2#.jdwk5dhfa)
