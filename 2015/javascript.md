@@ -44,6 +44,7 @@ All Javascript related articles.
 - [You should use [insert library/framework], it's the bestestest! / Paul Lewis](https://youtu.be/_yCz1TA0EL4) - [big rig](https://aerotwist.com/blog/bigrig/) for performance testing
 - [Why you should embrace JavaScript](https://medium.com/@lukin0110/why-you-should-embrace-javascript-64b2b8209145#.huoua34eq)
 - :tv: [OSCON 2014: How Instagram.com Works; Pete Hunt](https://youtu.be/VkTCL6Nqm6Y)
+- [EmberCamp London 2015: Closing Keynote, Babel 6.0 by Sebastian McKenzie](https://youtu.be/Q_ncaTYEizc)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
