@@ -58,6 +58,7 @@ All Javascript related articles.
 - [Why is there a “temporal dead zone” in ES6?](http://www.2ality.com/2015/10/why-tdz.html) - "temporal dead zone" place to cathc programming errors, such as using an `let` or `const` before declaration will cause a ReferenceError, but undefined variables will just return undefined.
 - [Hail, Babel! The Transpiling Overlord](http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/?utm_source=javascriptweekly&utm_medium=email)
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+- [Configuring Babel 6](http://www.2ality.com/2015/11/configuring-babel6.html)
 
 ### ES2016
 - :notebook: [Exploring ES2016 Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) - wrapper functions that can go on classe methods on class itselfs. It is possible to use multiple decorators for a single class, class-method.
