@@ -82,6 +82,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/) - singletons, observers, factories, dependency injections, middlewares/pipelines, streams
 - [Why NodeJS is so fast?](https://medium.com/@ghaiklor/why-nodejs-is-so-fast-a0ff67858f48#.ppbbpve2j)
 - [5 Node.js Tools You Must Explore](https://medium.com/@ChromeInfotech/5-node-js-tools-you-must-explore-dee0a16d4c2d#.o5vg8c7ix)
+- :tv: [Valeri Karpov - Writing A MongoDB Shell In NodeJS - JSConfUY 2015](https://youtu.be/uccAq23qOpk) - [node repl](https://nodejs.org/api/repl.html) for creating custom repl.
 
 ### React and Flow*
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
