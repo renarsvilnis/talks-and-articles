@@ -45,6 +45,7 @@ All Javascript related articles.
 - [Why you should embrace JavaScript](https://medium.com/@lukin0110/why-you-should-embrace-javascript-64b2b8209145#.huoua34eq)
 - :tv: [OSCON 2014: How Instagram.com Works; Pete Hunt](https://youtu.be/VkTCL6Nqm6Y)
 - [EmberCamp London 2015: Closing Keynote, Babel 6.0 by Sebastian McKenzie](https://youtu.be/Q_ncaTYEizc)
+- [Heiko Behrens - Pebble – JSConf US 2015](https://youtu.be/2TslKh1tdm4)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -83,6 +84,8 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Why NodeJS is so fast?](https://medium.com/@ghaiklor/why-nodejs-is-so-fast-a0ff67858f48#.ppbbpve2j)
 - [5 Node.js Tools You Must Explore](https://medium.com/@ChromeInfotech/5-node-js-tools-you-must-explore-dee0a16d4c2d#.o5vg8c7ix)
 - :tv: [Valeri Karpov - Writing A MongoDB Shell In NodeJS - JSConfUY 2015](https://youtu.be/uccAq23qOpk) - [node repl](https://nodejs.org/api/repl.html) for creating custom repl.
+- :tv: [From Node n00b to not so Node n00b](https://youtu.be/b9dE34saEqA) - about the process of learning node.js and what is the difficulties n00bs face and what to do to solve them.
+- :tv: :notebook: [Netflix JavaScript Talks - Debugging Node.js in Production](https://youtu.be/O1YP8QP9gLA) - very deep and insightful ways of all debugging processes needed for a highscale node.js application. 
 
 ### React and Flow*
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
