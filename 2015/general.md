@@ -16,6 +16,8 @@ Articles and talks which are applicable to general programming knowledge.
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.a36yulwlx) - Keep It Stupid Simple (KISS), Make it work, make it right, make it fast, Understand the problem. (Know what “make it work” means.), Begin at the beginning, Start with tests, Do One Thing (DOT), Start small and iterate, Pure function > Function > Factory > Class.
 - [Why is it so hard to find a good front end developer?](https://medium.com/creative-business/why-is-it-so-hard-to-find-a-front-end-developer-cb92848a7c6f?ref=webdesignernews.com) 
 - :tv: [Nobody Wants Junior Engineers](https://youtu.be/ccxrFmIEAmQ) - market yourself in a upcoming technology as you can become a senior in it in a very short time and with very we comptetition can increase salaries.
+- [Love Your Haters](https://medium.com/@vanschneider/love-your-haters-505506f71161#.k4ff4i4cc)
+- [How getting into Open Source has been awesome for me](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.gm5efw7rs)
 
 ### Tech related
 - :tv: [Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014](https://youtu.be/4anAwXYqLG8) - about writing manageable code by using less libraries in favour of pollyfills and standarts, only use abstractions when it would help solve bugs. He talks about writing explicitly repetitive code, which I don't agree 100%.
