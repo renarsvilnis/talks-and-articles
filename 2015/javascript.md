@@ -48,6 +48,8 @@ All Javascript related articles.
 - [Heiko Behrens - Pebble – JSConf US 2015](https://youtu.be/2TslKh1tdm4)
 - [A delicious recipe for Front End developers (and FeOps)](https://medium.com/@dfernandeza/a-delicious-recipe-for-front-end-developers-e7f2a5e7f7fd#.mq9ovhuas)
 - [An Introduction To PostCSS](http://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
+- [Szymon Nowak: How to grow your own Babel fish | JSConf EU 2015](https://youtu.be/ltMCrW9JCEE)
+- :notebook: [Nordic.js 2015 • Franziska Hinkelmann - A Trip to the Zoo](https://youtu.be/1kAkGWJZ6Zo) - initialize all object members inconstructor functions rather then just after as `instance.a = 2`, rather do `new Instance(2)`, that makes sure they have a hidden class. For arrays use array literals rather then pushing one vlaue by one that might do a re-conversion of the array, try not to mix numbers and objects. Tryo to seperate function for input types, if a funciton has 1 input when spliting if the input number is string or integer might be wise as it saves 15-20% because the browser can inline cache it. But don't do it prematurely!
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -87,7 +89,8 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [5 Node.js Tools You Must Explore](https://medium.com/@ChromeInfotech/5-node-js-tools-you-must-explore-dee0a16d4c2d#.o5vg8c7ix)
 - :tv: [Valeri Karpov - Writing A MongoDB Shell In NodeJS - JSConfUY 2015](https://youtu.be/uccAq23qOpk) - [node repl](https://nodejs.org/api/repl.html) for creating custom repl.
 - :tv: [From Node n00b to not so Node n00b](https://youtu.be/b9dE34saEqA) - about the process of learning node.js and what is the difficulties n00bs face and what to do to solve them.
-- :tv: :notebook: [Netflix JavaScript Talks - Debugging Node.js in Production](https://youtu.be/O1YP8QP9gLA) - very deep and insightful ways of all debugging processes needed for a highscale node.js application. 
+- :tv: :notebook: [Netflix JavaScript Talks - Debugging Node.js in Production](https://youtu.be/O1YP8QP9gLA) - very deep and insightful ways of all debugging processes needed for a highscale node.js application.
+- :tv: :notebook: [Nordic.js 2015 • Kate Hudson - Advanced front-end automation with npm scripts](https://youtu.be/0RYETb9YVrk) - no need to put patht to bin, you can use `pre-`, `post-` prefixes for naming scripts what will trigger lifecycle hooks, that also applies for buildin stuff such as `install`, `publish` and others. [`npm-run-all`](https://www.npmjs.com/package/npm-run-all) allows to run mutiple npm scripts either in series or parallel rather then `task1 && task2 && task3`. As of npm v2.0.0 allows custom arguments passed to executing script, e.g. `npm run test -- --watch` will pass `--watch` to `test` script.
 
 ### React and Flow*
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
