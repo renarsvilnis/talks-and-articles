@@ -51,6 +51,7 @@ All Javascript related articles.
 - [Szymon Nowak: How to grow your own Babel fish | JSConf EU 2015](https://youtu.be/ltMCrW9JCEE)
 - :notebook: [Nordic.js 2015 • Franziska Hinkelmann - A Trip to the Zoo](https://youtu.be/1kAkGWJZ6Zo) - initialize all object members inconstructor functions rather then just after as `instance.a = 2`, rather do `new Instance(2)`, that makes sure they have a hidden class. For arrays use array literals rather then pushing one vlaue by one that might do a re-conversion of the array, try not to mix numbers and objects. Tryo to seperate function for input types, if a funciton has 1 input when spliting if the input number is string or integer might be wise as it saves 15-20% because the browser can inline cache it. But don't do it prematurely!
 - :tv: [JavaScript Air Episode 00: The past, present, and future of JavaScript](https://youtu.be/fg4e-2lBw5E)
+- [Component-driven Web Apps](https://medium.com/@dfernandeza/component-driven-web-apps-e3e0b4860d34#.h2d89ibln)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -65,6 +66,7 @@ All Javascript related articles.
 - [Hail, Babel! The Transpiling Overlord](http://developer.telerik.com/featured/hail-babel-the-transpiling-overlord/?utm_source=javascriptweekly&utm_medium=email)
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 - [Configuring Babel 6](http://www.2ality.com/2015/11/configuring-babel6.html)
+- [ES6 Workshop](http://slides.com/kentcdodds/es6-workshop) - `Set` - solution for "unique items in an array" problem, `Map` - like objects + non-string keys, `WeakMap` - liek object + non-string keys, but no `(let i of l)` and less functions.
 
 ### ES2016
 - :notebook: [Exploring ES2016 Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) - wrapper functions that can go on classe methods on class itselfs. It is possible to use multiple decorators for a single class, class-method.
@@ -92,6 +94,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :tv: [From Node n00b to not so Node n00b](https://youtu.be/b9dE34saEqA) - about the process of learning node.js and what is the difficulties n00bs face and what to do to solve them.
 - :tv: :notebook: [Netflix JavaScript Talks - Debugging Node.js in Production](https://youtu.be/O1YP8QP9gLA) - very deep and insightful ways of all debugging processes needed for a highscale node.js application.
 - :tv: :notebook: [Nordic.js 2015 • Kate Hudson - Advanced front-end automation with npm scripts](https://youtu.be/0RYETb9YVrk) - no need to put patht to bin, you can use `pre-`, `post-` prefixes for naming scripts what will trigger lifecycle hooks, that also applies for buildin stuff such as `install`, `publish` and others. [`npm-run-all`](https://www.npmjs.com/package/npm-run-all) allows to run mutiple npm scripts either in series or parallel rather then `task1 && task2 && task3`. As of npm v2.0.0 allows custom arguments passed to executing script, e.g. `npm run test -- --watch` will pass `--watch` to `test` script.
+- :notebook: [One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to ship stable releases](https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617#.nl9g40o64) - introduces to dev channel concept in npm  that allows to publish next version or previous version updates to npm. Great guide for module semantic releases.
 
 ### React and Flow*
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
