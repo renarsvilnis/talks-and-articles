@@ -52,6 +52,7 @@ All Javascript related articles.
 - :notebook: [Nordic.js 2015 • Franziska Hinkelmann - A Trip to the Zoo](https://youtu.be/1kAkGWJZ6Zo) - initialize all object members inconstructor functions rather then just after as `instance.a = 2`, rather do `new Instance(2)`, that makes sure they have a hidden class. For arrays use array literals rather then pushing one vlaue by one that might do a re-conversion of the array, try not to mix numbers and objects. Tryo to seperate function for input types, if a funciton has 1 input when spliting if the input number is string or integer might be wise as it saves 15-20% because the browser can inline cache it. But don't do it prematurely!
 - :tv: [JavaScript Air Episode 00: The past, present, and future of JavaScript](https://youtu.be/fg4e-2lBw5E)
 - [Component-driven Web Apps](https://medium.com/@dfernandeza/component-driven-web-apps-e3e0b4860d34#.h2d89ibln)
+- :tv: [Jennifer Wong: In The Year 2000... Designing Responsive Emails - CSSConf.Asia 2015](https://youtu.be/07iFDO4ZLpA) - use max-width, image `alt` or `backgorund-color` for fallback, unicode classes.
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
