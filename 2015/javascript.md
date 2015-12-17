@@ -53,6 +53,7 @@ All Javascript related articles.
 - :tv: [JavaScript Air Episode 00: The past, present, and future of JavaScript](https://youtu.be/fg4e-2lBw5E)
 - [Component-driven Web Apps](https://medium.com/@dfernandeza/component-driven-web-apps-e3e0b4860d34#.h2d89ibln)
 - :tv: [Jennifer Wong: In The Year 2000... Designing Responsive Emails - CSSConf.Asia 2015](https://youtu.be/07iFDO4ZLpA) - use max-width, image `alt` or `backgorund-color` for fallback, unicode classes.
+- :tv: [JavaScript Air Episode 01: Learning and Developing JavaScript](https://youtu.be/uDtkEEIBsz4)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
