@@ -54,6 +54,7 @@ All Javascript related articles.
 - [Component-driven Web Apps](https://medium.com/@dfernandeza/component-driven-web-apps-e3e0b4860d34#.h2d89ibln)
 - :tv: [Jennifer Wong: In The Year 2000... Designing Responsive Emails - CSSConf.Asia 2015](https://youtu.be/07iFDO4ZLpA) - use max-width, image `alt` or `backgorund-color` for fallback, unicode classes.
 - :tv: [JavaScript Air Episode 01: Learning and Developing JavaScript](https://youtu.be/uDtkEEIBsz4)
+- :tv: [Lachlan Priest: PostCSS - JS Your CSS - CSSConf.Asia 2015](https://youtu.be/6jz6p7wqOpI)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -166,3 +167,4 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :notebook: [webpack-howto](https://github.com/petehunt/webpack-howto) - cookbook for getting things done with WebPack which includes methods that guys at instagram does.
 - [Building modular javascript applications in ES6 with React, Webpack and Babel](https://medium.com/@yamalight/building-modular-javascript-applications-in-es6-with-react-webpack-and-babel-538189cd485f) - guide on creating react components with webpack that has component specific code. Tips on publishing modules - adding `es6` field to `package.json`. Also covers how to test ES6 code with mocha by addding a compiler, adding instabul coverage, component seperation in react and backend which talks to eachother with [`postal.js`](https://github.com/postaljs/postal.js).
 - [A guide to simple, parametrized Webpack builds](https://medium.com/@tomastrajan/a-guide-to-simple-parametrized-webpack-builds-24d43fcf8ae2#.jdwk5dhfa)
+- :tv: [Advanced Webpack](https://youtu.be/MzVFrIAwwS8)
