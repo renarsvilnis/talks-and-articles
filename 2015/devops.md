@@ -5,3 +5,4 @@ Articles and talks which are applicable to devops.
 - [Varnish + Nginx in comparison with Nginx alone, which is better?](http://www.narga.net/varnish-nginx-comparison-nginx-alone-better/) - low-end VPS with very basic hardware requirement author prefers to use Nginx without Varnish with FastCGI cache, Memcache to get better perfomance and effort. The perfect and over optimize server is not best server as the effort vs results are not worth.
 - [The case for separating front- and back-end](https://blog.42.nl/articles/the-case-separating-front-back-end/)
 - :tv: [5 Tips to Optimize Your Images the Right Way](https://youtu.be/JUoZIBCWaKY) - resize images, cdn, optimize and reduce quality, `Cache Controls` headers for images, serve the right format image WebP (26% smaller then png, 25-34% smaller for jpeg) for Chrome browsers.
+- :notebook: [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
