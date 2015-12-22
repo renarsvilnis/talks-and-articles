@@ -99,8 +99,9 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :tv: :notebook: [Netflix JavaScript Talks - Debugging Node.js in Production](https://youtu.be/O1YP8QP9gLA) - very deep and insightful ways of all debugging processes needed for a highscale node.js application.
 - :tv: :notebook: [Nordic.js 2015 • Kate Hudson - Advanced front-end automation with npm scripts](https://youtu.be/0RYETb9YVrk) - no need to put patht to bin, you can use `pre-`, `post-` prefixes for naming scripts what will trigger lifecycle hooks, that also applies for buildin stuff such as `install`, `publish` and others. [`npm-run-all`](https://www.npmjs.com/package/npm-run-all) allows to run mutiple npm scripts either in series or parallel rather then `task1 && task2 && task3`. As of npm v2.0.0 allows custom arguments passed to executing script, e.g. `npm run test -- --watch` will pass `--watch` to `test` script.
 - :notebook: [One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to ship stable releases](https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617#.nl9g40o64) - introduces to dev channel concept in npm  that allows to publish next version or previous version updates to npm. Great guide for module semantic releases.
+- :tv: [Introduction to Testing Node.js](https://youtu.be/u2XCdkL4bWI)
 
-### React and Flow*
+### React and Flux*
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
 - [React Native In Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad)
 - [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
