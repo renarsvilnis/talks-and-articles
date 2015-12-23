@@ -7,3 +7,4 @@ All CSS related articles and talks. Usualy about SASS and upcomming css features
 - [Yelena Jetpyspayeva & Vladimir Grinenko - BEM - Building 'em modular | YGLF2015](https://youtu.be/huQp7gr3WPE)
 - [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.4mvhro8sk)
 - [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+- [Nesting Components](http://simurai.com/blog/2015/05/11/nesting-components/)
