@@ -56,6 +56,7 @@ All Javascript related articles.
 - :tv: [JavaScript Air Episode 01: Learning and Developing JavaScript](https://youtu.be/uDtkEEIBsz4)
 - :tv: [Lachlan Priest: PostCSS - JS Your CSS - CSSConf.Asia 2015](https://youtu.be/6jz6p7wqOpI)
 - [Clearing up the Babel 6 Ecosystem](https://medium.com/@jcse/clearing-up-the-babel-6-ecosystem-c7678a314bf3#.sfgyti1zw) - when writing a module you intend to be consumed by other projects, never use the `babel-polyfill`, use `babel-runtime` to do namespaced pollyfilling but requires a `babel-plugin-transform-runtime`
+- [JavaScript Air Episode 02: Babel, the JavaScript Compiler](https://youtu.be/1w_W5cd8qRE)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
