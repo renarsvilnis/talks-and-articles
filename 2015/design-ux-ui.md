@@ -6,3 +6,4 @@ All design, UX, UI related articles and talks.
 - [The Dribbblisation of Design](https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026#.k7ql3n4xv)
 - [Why Proxima Nova Is Everywhere.](https://medium.com/readme-mic/why-proxima-nova-is-everywhere-629282c687a6#.y8n7g4lv5)
 - :tv: [Carlos Perez - Designers – JSConf US Last Call](https://youtu.be/Qeh94g7AUwc) - design and programming should happen simultaneously, both programmers and designers sohuld know problems each is facing/solving trough collaboration and teaching.
+- [Vertical rhythm: the Holy Grail of front-end development](https://www.vicompany.nl/backstage/vertical-rhythm-the-holy-grail-of-front-end-development)

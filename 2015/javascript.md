@@ -153,6 +153,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :notebook: [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) -  covers testing, webpack, redux and a bit of immutable.js
 - :tv: [Functional Programming in JavaScript. What, Why, and How | Daniel Steigerwald | Reactive 2015](https://youtu.be/xeAdUEIb_ys)
 - [Using React is a Business Decision, Not a Technology Choice](https://blog.formidable.com/using-react-is-a-business-decision-not-a-technology-choice-63c4641c5f7#.d1ibd6ey0)
+- :notebook: [Form-handling with React](https://medium.com/@dfernandeza/form-handling-with-react-f490a7257e32#.x2urgkbp0) - `LinkedStateMixin` - shortcut for `onChange && setState`
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
@@ -173,3 +174,4 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [A guide to simple, parametrized Webpack builds](https://medium.com/@tomastrajan/a-guide-to-simple-parametrized-webpack-builds-24d43fcf8ae2#.jdwk5dhfa)
 - :tv: [Advanced Webpack](https://youtu.be/MzVFrIAwwS8)
 - [Optimizing Webpack Production Build for React + ES6 Apps](https://medium.com/modus-create-front-end-development/optimizing-webpack-production-build-for-react-es6-apps-a637e5692aea#.z6fd6qik2)
+- [Faster SASS builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
