@@ -154,6 +154,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :tv: [Functional Programming in JavaScript. What, Why, and How | Daniel Steigerwald | Reactive 2015](https://youtu.be/xeAdUEIb_ys)
 - [Using React is a Business Decision, Not a Technology Choice](https://blog.formidable.com/using-react-is-a-business-decision-not-a-technology-choice-63c4641c5f7#.d1ibd6ey0)
 - :notebook: [Form-handling with React](https://medium.com/@dfernandeza/form-handling-with-react-f490a7257e32#.x2urgkbp0) - `LinkedStateMixin` - shortcut for `onChange && setState`
+- [Stop Styling React Components with Javascript](https://medium.com/front-end-developers/stop-styling-react-components-with-javascript-8b4a7ec96eea#.fredxl6pw)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
