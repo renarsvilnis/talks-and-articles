@@ -156,6 +156,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - :notebook: [Form-handling with React](https://medium.com/@dfernandeza/form-handling-with-react-f490a7257e32#.x2urgkbp0) - `LinkedStateMixin` - shortcut for `onChange && setState`
 - [Stop Styling React Components with Javascript](https://medium.com/front-end-developers/stop-styling-react-components-with-javascript-8b4a7ec96eea#.fredxl6pw)
 - [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
+- [Two-Way Data-Binding and Form Validation in React](https://medium.com/@thejenniekim/two-way-data-binding-and-form-validation-in-react-9d0b15123176#.nyu75lkt5)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
