@@ -22,6 +22,7 @@ Articles and talks which are applicable to general programming knowledge.
 - [Lieke Boon: Unconscious Bias: we're all guilty | JSConf EU 2015](https://youtu.be/5mcyUUf20Ng)
 - [How I started in web security](https://medium.com/@homakov/how-i-started-in-web-security-400b80824e86#.vo8rv6710)
 - [Drawbacks of Freelance Web Development](http://foorious.com/articles/drawbacks-of-freelance-web-development/)
+- [Charlie Robbins - JSConf changed my life - JSConf US 2015](https://youtu.be/NrmUU_Dzqqo)
 
 ### Tech related
 - :tv: [Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014](https://youtu.be/4anAwXYqLG8) - about writing manageable code by using less libraries in favour of pollyfills and standarts, only use abstractions when it would help solve bugs. He talks about writing explicitly repetitive code, which I don't agree 100%.

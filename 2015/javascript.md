@@ -57,6 +57,9 @@ All Javascript related articles.
 - :tv: [Lachlan Priest: PostCSS - JS Your CSS - CSSConf.Asia 2015](https://youtu.be/6jz6p7wqOpI)
 - [Clearing up the Babel 6 Ecosystem](https://medium.com/@jcse/clearing-up-the-babel-6-ecosystem-c7678a314bf3#.sfgyti1zw) - when writing a module you intend to be consumed by other projects, never use the `babel-polyfill`, use `babel-runtime` to do namespaced pollyfilling but requires a `babel-plugin-transform-runtime`
 - [JavaScript Air Episode 02: Babel, the JavaScript Compiler](https://youtu.be/1w_W5cd8qRE)
+- [2016 will be the year of concurrency on the web](https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f#.1fkybv6o0)
+- [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.le3jzsine)
+- [Why semver ranges are literally the worst…](https://medium.com/@kentcdodds/why-semver-ranges-are-literally-the-worst-817cdcb09277#.9sk236lr1)
 
 ### ES6 (ES2015)
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
@@ -157,6 +160,7 @@ Node.js Performance Tips](https://medium.com/node-and-beyond/the-incomplete-coll
 - [Stop Styling React Components with Javascript](https://medium.com/front-end-developers/stop-styling-react-components-with-javascript-8b4a7ec96eea#.fredxl6pw)
 - [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 - [Two-Way Data-Binding and Form Validation in React](https://medium.com/@thejenniekim/two-way-data-binding-and-form-validation-in-react-9d0b15123176#.nyu75lkt5)
+- :notebook: [Managing request state with ReactJS and Redux](https://medium.com/@gblache/managing-request-state-with-reactjs-and-redux-76ac745a19ef#.fr7i9gc2b)
 
 ### D3.js
 - [a fun, difficult introduction to d3](http://www.macwright.org/presentations/dcjq/)
