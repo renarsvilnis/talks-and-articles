@@ -6,3 +6,6 @@ Articles and talks which are applicable to devops.
 - [The case for separating front- and back-end](https://blog.42.nl/articles/the-case-separating-front-back-end/)
 - :tv: [5 Tips to Optimize Your Images the Right Way](https://youtu.be/JUoZIBCWaKY) - resize images, cdn, optimize and reduce quality, `Cache Controls` headers for images, serve the right format image WebP (26% smaller then png, 25-34% smaller for jpeg) for Chrome browsers.
 - :notebook: [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+### Docker
+- [Getting Started with Docker for the Node.js Developer - Part 1](https://medium.com/@heitorburger/getting-started-with-docker-for-the-node-js-developer-6ede42731d10#.nf17q8ggf)
