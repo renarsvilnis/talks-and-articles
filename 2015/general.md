@@ -1,6 +1,3 @@
-## General
-Articles and talks which are applicable to general programming knowledge.
-
 ## Non-Tech related
 - [How to Pair Program](https://medium.com/@dickeyxxx/how-to-pair-program-d6741077e513) - a guide about getting into pair programming, what to look for or avoid
 - :tv: [dotJS 2012 - Fat - What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os) - about the history of open source
