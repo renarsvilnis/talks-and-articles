@@ -1,0 +1,2 @@
+
+- [How to Become a Better Node.js Developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/) - add callback and promise support for functions by `callback = callback || function () {}` then later `reject(err); return callback(err)`
