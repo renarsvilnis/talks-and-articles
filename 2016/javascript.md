@@ -15,3 +15,4 @@
 - [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.ybrh3frlf)
 - [Flux in Depth. Overview and Components.](http://blog.mgechev.com/2015/05/15/flux-in-depth-overview-components/)
 - [Higher Order React Components](http://natpryce.com/articles/000814.html)
+- [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.bikdwbdha)

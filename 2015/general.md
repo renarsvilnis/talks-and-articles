@@ -21,7 +21,7 @@
 - [Drawbacks of Freelance Web Development](http://foorious.com/articles/drawbacks-of-freelance-web-development/)
 - [Charlie Robbins - JSConf changed my life - JSConf US 2015](https://youtu.be/NrmUU_Dzqqo)
 
-### Tech related
+## Tech related
 - :tv: [Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014](https://youtu.be/4anAwXYqLG8) - about writing manageable code by using less libraries in favour of pollyfills and standarts, only use abstractions when it would help solve bugs. He talks about writing explicitly repetitive code, which I don't agree 100%.
 - [File Caching: Query string vs Last-Modified?](http://stackoverflow.com/a/23604412) - comparing 3 methods - no caching or disabled, using validation (Last-Modified), caching forever (Query string)
 - [Signing in to Medium by email](https://medium.com/the-story/signing-in-to-medium-by-email-aacc21134fcd) - aobut how and why medium created email only login.
@@ -32,7 +32,7 @@
 - [Documentation is Scary for Newcomers](https://medium.com/@preethikasireddy/documentation-is-scary-for-newcomers-7599294a96b9#.dg3b1n25g)
 - [Forget the Click Bait. Here’s What the JavaScript Job Market Really Looks Like in 2016.](https://medium.com/javascript-scene/forget-the-click-bait-here-s-what-the-javascript-job-market-really-looks-like-in-2016-ddfe0d39b467#.jvou172no)
 
-### Web performance
+## Web performance
 - :notebook: [Introducing RAIL: A User-Centric Model For Performance](http://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/) - RAIL (Response Animation Idle Load) is a model for breaking donw ausers experience into key actions (tap, drag, scroll) with set goals for example under x milliseconds paint after event. Response - response to a event which provides a feedback in less than 100ms. Animation - try to keep animatiosn under 300ms and each frame less then 16ms for a 60fps experience. Idle - deferment work gorpued in blocks around 50ms so that can make a *Response* in less then 100ms. Load - page-loading time with the set goal of getting the first meaningfull paint quickly (1000ms) and the app must remain responsive after that. Article contains a list of optimization case-studies (n milliseconds faster = x% traffic..), performance audits and more.
 - [Page Weight Matters](http://blog.chriszacharias.com/page-weight-matters) - smaller client side code and fewer requests can open up your product to new markets such in the case of YouTube project "Feather".
 - [Ecosystems vs. Platforms](https://medium.com/ben-and-dion/ecosystems-vs-platforms-92b06ed4dd1d#.7kx8fz9gc)
