@@ -5,6 +5,7 @@
 - :tv: [Streams - FunFunFunction #13](https://youtu.be/UD2dZw9iHCc)
 - [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/)
 - [Webpack vs Browserify : By The Numbers](https://medium.com/@dmikeyanderson/webpack-vs-browserify-by-the-numbers-c5472ba305c#.s45fdpadm)
+- :tv: [Gaurav Seth & Steve Lucco - Inside Chakra - JSConf US 2015](https://youtu.be/en1VCmbI7Fc)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
