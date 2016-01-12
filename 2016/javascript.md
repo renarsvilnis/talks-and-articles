@@ -2,7 +2,7 @@
 
 - :tv: [JavaScript Air Episode 003: Functional and Immutable Design Patterns in JavaScript](https://youtu.be/82M9fKe7hiw)
 - [2016: The Year of Javascript](https://medium.com/@Connorelsea/2016-year-of-javascript-d9ac47905b70#.iqby52asi)
-- [Streams - FunFunFunction #13](https://youtu.be/UD2dZw9iHCc)
+- :tv: [Streams - FunFunFunction #13](https://youtu.be/UD2dZw9iHCc)
 - [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/)
 - [Webpack vs Browserify : By The Numbers](https://medium.com/@dmikeyanderson/webpack-vs-browserify-by-the-numbers-c5472ba305c#.s45fdpadm)
 

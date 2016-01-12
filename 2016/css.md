@@ -1,6 +1,7 @@
 - [CSS Modules](http://glenmaddern.com/articles/css-modules)
 - [The Debate Around “Do We Even Need CSS Anymore?”](https://css-tricks.com/the-debate-around-do-we-even-need-css-anymore/)
-- [Inline Styles are About to Kill CSS](https://docs.google.com/presentation/d/1pL8e2OC8iDUWCvGkixYB18bRXjiVRmSgwiWoxiQN3vQ/edit#slide=id.p) - slides from ]talk](https://www.youtube.com/watch?v=NoaxsCi13yQ)
+- :tv: [Inline Styles are About to Kill CSS](https://docs.google.com/presentation/d/1pL8e2OC8iDUWCvGkixYB18bRXjiVRmSgwiWoxiQN3vQ/edit#slide=id.p) - slides from ]talk](https://www.youtube.com/watch?v=NoaxsCi13yQ)
 - [ENDURING CSS](http://ecss.io/slides1/?utm_content=buffer0cda9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/) - `.ns-ModuleName_Component-variant {}`, state added with aria `aria-disabled="true"`, use [stylint](http://stylelint.io/) (*example [config](http://ecss.io/slides1/?utm_content=buffer0cda9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/28/5)*)
 - [Breaking up with Sass: it’s not you, it’s me](https://benfrain.com/breaking-up-with-sass-postcss/)
 - [PostCSS – Sass Killer or Preprocessing Pretender?](http://ashleynolan.co.uk/blog/postcss-a-review)
+- :tv: [dotCSS 2015 - Chris Eppstein - The expanding boundaries of CSS](https://youtu.be/a3yhR14a83U)
