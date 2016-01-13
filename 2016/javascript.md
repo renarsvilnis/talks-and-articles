@@ -7,6 +7,7 @@
 - [Webpack vs Browserify : By The Numbers](https://medium.com/@dmikeyanderson/webpack-vs-browserify-by-the-numbers-c5472ba305c#.s45fdpadm)
 - :tv: [Gaurav Seth & Steve Lucco - Inside Chakra - JSConf US 2015](https://youtu.be/en1VCmbI7Fc)
 - [The Sad State of Web Development](https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.gr2c326u8)
+- [JavaScript Fatigue: An Alternative Perspective](https://medium.com/@joshburgess/javascript-fatigue-an-alternative-perspective-b6ae411e89ac#.uxp2ppbj2)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
