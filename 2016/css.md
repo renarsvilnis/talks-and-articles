@@ -5,3 +5,4 @@
 - [Breaking up with Sass: it’s not you, it’s me](https://benfrain.com/breaking-up-with-sass-postcss/)
 - [PostCSS – Sass Killer or Preprocessing Pretender?](http://ashleynolan.co.uk/blog/postcss-a-review)
 - :tv: [dotCSS 2015 - Chris Eppstein - The expanding boundaries of CSS](https://youtu.be/a3yhR14a83U)
+- [Please, Please Don’t Use “CSS in JS”](https://medium.com/@ajsharp/please-please-don-t-use-css-in-js-ffeae26f20f#.9utmiia00)
