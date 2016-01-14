@@ -5,3 +5,4 @@
 
 ## Tech related
 - :tv: [JavaScript Air Episode 004: Unit Testing JavaScript](https://www.youtube.com/watch?v=tfkUN8Jr9zY)
+- [Why I hate your Single Page App](https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134#.3l7qcsld3)
