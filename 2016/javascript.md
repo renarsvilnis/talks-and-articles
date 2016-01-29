@@ -12,6 +12,7 @@
 - [JavaScript At Scale — Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03#.snwf5hkj3)
 - :tv: [Prototypes in JavaScript - FunFunFunction #16](https://youtu.be/riDVvXZ_Kb4)
 - [2016 - the year of web streams](https://jakearchibald.com/2016/streams-ftw/)
+- :tv: [JavaScript Air Episode 006: Introducing the JavaScript Air Panel](https://youtu.be/gxI5m_raAWg)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
