@@ -27,6 +27,7 @@
 - [Redux best practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.bikdwbdha)
 - :notebook: [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 - :tv: [JavaScript Air Episode 005: Firefox DevTools, React, and Redux](https://youtu.be/wseL3Vl-Hh4)
+- :tv: [Advanced React.js Performance | Daniel Hejl | ReactiveConf 2015](https://youtu.be/GXzbbkiJZsY)
 
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
