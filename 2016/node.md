@@ -3,3 +3,4 @@
 - :tv: :notebook: [Node.JS Tutorial | Authenticating and Securing Node.js APIs](https://www.youtube.com/watch?v=1RejSN2GT8w&index=33&list=WL)
 - [Why you should consider Koa instead of Express with Node.js](https://medium.com/@l1ambda/why-you-should-use-koa-with-node-js-7c231a8174fa#.7p2kpzhrz)
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.8l8kya27t)
+- [HTML5DevConf: Tim Messerschmidt, PayPal / Braintree: Node.js Authentication and Data Security](https://youtu.be/f0Hw_0lwFyc)
