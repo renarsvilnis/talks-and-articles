@@ -15,6 +15,7 @@
 - :tv: [JavaScript Air Episode 006: Introducing the JavaScript Air Panel](https://youtu.be/gxI5m_raAWg)
 - :tv: [Fast or Flexible? - FunFunFunction #17 funfunfunction](https://youtu.be/R39zdSLd8ic)
 - [Say No to Universal Apps](https://voice.kadira.io/say-no-to-isomorphic-apps-b7b7c419c634#.buir5zlph)
+- [JavaScript Air Episode 007: Chakra, Microsoft's Open Source JavaScript Engine](https://youtu.be/0WdFvLSEX8c)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
