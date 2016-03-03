@@ -7,3 +7,4 @@
 - :tv: [dotCSS 2015 - Chris Eppstein - The expanding boundaries of CSS](https://youtu.be/a3yhR14a83U)
 - [Please, Please Don’t Use “CSS in JS”](https://medium.com/@ajsharp/please-please-don-t-use-css-in-js-ffeae26f20f#.9utmiia00)
 - :tv: [CSSconf EU 2015 | Glen Maddern: Interoperable CSS](https://youtu.be/aIyhhHTmsXE)
+- [Boost Your CSS Animation Performance with the Repaintless.css Library](http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/) - only animate transforms (translate, rotate, scale) and opacity. It is best to animate absolutely positioned elements. Use FLIP technique - invert animation by removing the transform rather then adding, less calculations
