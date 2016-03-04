@@ -17,6 +17,8 @@
 - [Say No to Universal Apps](https://voice.kadira.io/say-no-to-isomorphic-apps-b7b7c419c634#.buir5zlph)
 - :tv: [JavaScript Air Episode 007: Chakra, Microsoft's Open Source JavaScript Engine](https://youtu.be/0WdFvLSEX8c)
 - :tv: [HTML5DevConf: Frank Greco & Peter Moskovits, Kaazing Corporation: WebSocket Perspectives 2015](https://youtu.be/DFQlw85mig4)
+- :tv: [Monad - FunFunFunction #21](https://youtu.be/9QveBbn7t_c)
+- :notebook: [touch-action CSS](https://gist.github.com/gajus/bbf06ea2e37047b01e70)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
