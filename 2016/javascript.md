@@ -30,6 +30,7 @@
 - :notebook: [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 - :tv: [JavaScript Air Episode 005: Firefox DevTools, React, and Redux](https://youtu.be/wseL3Vl-Hh4)
 - :tv: [Advanced React.js Performance | Daniel Hejl | ReactiveConf 2015](https://youtu.be/GXzbbkiJZsY)
+- [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.88kuvuz66)
 
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
