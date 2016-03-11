@@ -21,6 +21,7 @@
 - :notebook: [touch-action CSS](https://gist.github.com/gajus/bbf06ea2e37047b01e70)
 - [The TC39 process for ECMAScript features](http://www.2ality.com/2015/11/tc39-process.html)
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.k1gusudxv)
+- [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.xnfff7b33)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`

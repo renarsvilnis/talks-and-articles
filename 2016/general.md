@@ -13,3 +13,4 @@
 - :tv: [Entitled and angry - FunFunFunction #15](https://youtu.be/LyQU1sdnAtM)
 - :tv: [Always rewrite EVERYTHING! - FunFunFunction #20](https://youtu.be/XcUUY8ziTuk)
 - :notebook: [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome) - good SEO tips
+- [What Makes Software Good?](https://medium.com/@mbostock/what-makes-software-good-943557f8a488#.q6g10tll8)
