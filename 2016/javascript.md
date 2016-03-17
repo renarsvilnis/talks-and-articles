@@ -21,7 +21,7 @@
 - :notebook: [touch-action CSS](https://gist.github.com/gajus/bbf06ea2e37047b01e70)
 - [The TC39 process for ECMAScript features](http://www.2ality.com/2015/11/tc39-process.html)
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.k1gusudxv)
-- [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.xnfff7b33)
+- :tv: [JavaScript Air Episode 008: JavaScript Debugging](https://youtu.be/qlV-eNI5OsA)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -37,6 +37,7 @@
 - :tv: [Advanced React.js Performance | Daniel Hejl | ReactiveConf 2015](https://youtu.be/GXzbbkiJZsY)
 - [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.88kuvuz66)
 - [NFL + React](https://medium.com/nfl-engineers/nfl-react-84e9cd11d384#.ukri1y4zg)
+- [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.xnfff7b33)
 
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
