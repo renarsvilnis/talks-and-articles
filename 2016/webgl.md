@@ -4,3 +4,4 @@
 - :tv: [Front Porch 2014, David Lyons, Intro to WebGL and Three.js](Front Porch 2014, David Lyons, Intro to WebGL and Three.js)
 - :tv: [Getting started with three.js and WebGL by Jaume Sanchez Elias at JSConf Budapest 2015](https://youtu.be/HwkGTYRopYg)
 - :tv: [Ricardo Cabello (Mr doob) - 5 years of three.js](https://youtu.be/57P8julAaRE)
+- :tv: [WebGL Quickstart with Three.JS – Alex Mackey](https://youtu.be/bTWb3qqffHI)
