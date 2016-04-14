@@ -28,8 +28,10 @@
 - :tv: [JavaScript Air Episode 013: Live at Fluent Conf](https://youtu.be/R0eIlOvo5Js)
 - :tv: [JavaScript Air Episode 014: End-to-End Testing](https://youtu.be/yoPIsrhaNGU)
 
-## ES6
+## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
+- [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40#.ulk0vv9ox)
+- [Array Reduce Like You (may) Have Never Seen It](http://www.uilab.io/posts/array-reduce-like-you-may-have-never-seen-it?utm_campaign=Front%2BEnd%2BNewsletter&utm_medium=email&utm_source=Front_End_Newsletter_7)
 
 ## React.js
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
