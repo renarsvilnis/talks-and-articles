@@ -22,6 +22,11 @@
 - [The TC39 process for ECMAScript features](http://www.2ality.com/2015/11/tc39-process.html)
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.k1gusudxv)
 - :tv: [JavaScript Air Episode 008: JavaScript Debugging](https://youtu.be/qlV-eNI5OsA)
+- :tv: [JavaScript Air Episode 010: ESLint](https://youtu.be/sEXow0FPE3Q)
+- :tv: [JavaScript Air Episode 011: Live at React Conf](https://youtu.be/rgoyT95ce2U)
+- :tv: [JavaScript Air Episode 012: Lodash & Open Source](https://youtu.be/pqZGVV35BPU)
+- :tv: [JavaScript Air Episode 013: Live at Fluent Conf](https://youtu.be/R0eIlOvo5Js)
+- :tv: [JavaScript Air Episode 014: End-to-End Testing](https://youtu.be/yoPIsrhaNGU)
 
 ## ES6
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -38,6 +43,7 @@
 - [React Components, Elements, and Instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.88kuvuz66)
 - [NFL + React](https://medium.com/nfl-engineers/nfl-react-84e9cd11d384#.ukri1y4zg)
 - [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.xnfff7b33)
+- [Performance optimisations for React applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.ut4zf4er3)
 
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
