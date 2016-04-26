@@ -29,6 +29,7 @@
 - :tv: [JavaScript Air Episode 014: End-to-End Testing](https://youtu.be/yoPIsrhaNGU)
 - :tv: [JavaScript Air Episode 015: AVA: Futuristic test runner 🚀](https://youtu.be/YRvrPkXBwdo)
 - :tv: [JavaScript Air Episode 016: JavaScript Frameworks: Vue.js](https://youtu.be/i3ET71ZCW_E)
+- :tv: [JavaScript Air Episode 017: JavaScript Frameworks: Angular](https://youtu.be/naDNy5VBQuA)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
