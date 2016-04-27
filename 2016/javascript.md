@@ -31,6 +31,7 @@
 - :tv: [JavaScript Air Episode 016: JavaScript Frameworks: Vue.js](https://youtu.be/i3ET71ZCW_E)
 - :tv: [JavaScript Air Episode 017: JavaScript Frameworks: Angular](https://youtu.be/naDNy5VBQuA)
 - :tv: [JavaScript Air Episode 018: Reactive Programming in JavaScript](https://youtu.be/RFvwLifhxDg)
+- :tv: [JavaScript Air Episode 019: Internet of Things with JavaScript](https://youtu.be/oUBbfYUzaAI)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
