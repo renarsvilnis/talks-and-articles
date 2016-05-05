@@ -37,6 +37,7 @@
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
 - [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40#.ulk0vv9ox)
 - [Array Reduce Like You (may) Have Never Seen It](http://www.uilab.io/posts/array-reduce-like-you-may-have-never-seen-it?utm_campaign=Front%2BEnd%2BNewsletter&utm_medium=email&utm_source=Front_End_Newsletter_7)
+- [ES6 module loading: More complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
 
 ## React.js
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
@@ -55,3 +56,4 @@
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
 - [Reduce Your bundle.js File Size By Doing This One Thing](https://lacke.mn/reduce-your-bundle-js-file-size/)
+- [A production-ready realtime SaaS with webpack](https://medium.com/@matt.krick/a-production-ready-realtime-saas-with-webpack-7b11ba2fa5b0#.ece52uvp4)

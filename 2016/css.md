@@ -10,3 +10,4 @@
 - [Boost Your CSS Animation Performance with the Repaintless.css Library](http://blog.lunarlogic.io/2016/boost-your-css-animation-performance-with-repaintless-css/) - only animate transforms (translate, rotate, scale) and opacity. It is best to animate absolutely positioned elements. Use FLIP technique - invert animation by removing the transform rather then adding, less calculations
 - [QUICK TIPS The Flexbox Reading List: Techniques And Tools](https://www.smashingmagazine.com/2016/02/the-flexbox-reading-list)
 - [Flexbox’s Best-Kept Secret](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.wmgpn5xpa)
+- :notebook: [Pure CSS Games with Counter-Increment](http://una.im/css-games/)
