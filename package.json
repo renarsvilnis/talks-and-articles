@@ -1,0 +1,21 @@
+{
+  "name": "talks-and-articles",
+  "version": "1.0.0",
+  "description": "List of all tech related articles, talks, tutorials etc. that I have seen and read.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add -A && git commit -m 'New items' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renarsvilnis/talks-and-articles.git"
+  },
+  "keywords": [],
+  "author": "Renārs Vilnis <renars.vilnis@gmail.com> (https://renarsvilnis.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renarsvilnis/talks-and-articles/issues"
+  },
+  "homepage": "https://github.com/renarsvilnis/talks-and-articles#readme"
+}
