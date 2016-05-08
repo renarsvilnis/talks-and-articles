@@ -4,3 +4,8 @@
 - [UX: Infinite Scrolling vs. Pagination](https://uxplanet.org/ux-infinite-scrolling-vs-pagination-1030d29376f1#.86b5zvpdn)
 - [Design and discovery](https://www.ted.com/talks/david_carson_on_design)
 - [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.h1ojs7jy4)
+- [Primary & Secondary Action Buttons](https://uxplanet.org/primary-secondary-action-buttons-c16df9b36150#.ag963x13d)
+- [Design, Illustrated in 3 Charts](https://medium.com/the-year-of-the-looking-glass/design-illustrated-in-3-charts-128ae8ff22fe#.3fkdj6jzh)
+- [Pagination Best Practices](https://uxplanet.org/pagination-best-practices-76fbd3f5a78d#.ggx95p7x6)
+- :notebook: [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/)
+- [What Do Font Names Actually Mean?](http://blog.youworkforthem.com/2016/05/03/what-do-font-names-actually-mean/)
