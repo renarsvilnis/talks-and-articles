@@ -14,3 +14,4 @@
 - [CSS from the Future](http://zeke.sikelianos.com/css-from-the-future/)
 - [PX, EM or REM Media Queries?](http://zellwk.com/blog/media-query-units/)
 - [Houdini: Maybe The Most Exciting Development In CSS You’ve Never Heard Of](https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/)
+- [dotCSS 2014 - Estelle Weyl - CSS? WTF!](https://youtu.be/IvhIupbJrKc)
