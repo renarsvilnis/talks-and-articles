@@ -13,3 +13,4 @@
 - [Sketch Workflow — 8 point Soft Grids](https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4#.209q2s9gt)
 - [Why tooltips are terrible and why you should use them for your product](https://blog.prototypr.io/why-tooltips-are-terrible-and-why-you-should-use-them-for-your-product-98b66ba6b038#.d6lcw21hc)
 - [5 Mistakes to Avoid When Designing Micro-interactions](https://medium.com/@ux_in_motion/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86#.7dgc5lrmc)
+- [Design at 1x—It’s a Fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536#.f4cm7s7uw)
