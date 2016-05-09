@@ -11,3 +11,5 @@
 - [What Do Font Names Actually Mean?](http://blog.youworkforthem.com/2016/05/03/what-do-font-names-actually-mean/)
 - :notebook: [Optical corrections in logo design](https://medium.com/@LogoGeek/optical-corrections-in-logo-design-8010cc234e2c#.8kwa5maoi)
 - [Sketch Workflow — 8 point Soft Grids](https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4#.209q2s9gt)
+- [Why tooltips are terrible and why you should use them for your product](https://blog.prototypr.io/why-tooltips-are-terrible-and-why-you-should-use-them-for-your-product-98b66ba6b038#.d6lcw21hc)
+- [5 Mistakes to Avoid When Designing Micro-interactions](https://medium.com/@ux_in_motion/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86#.7dgc5lrmc)
