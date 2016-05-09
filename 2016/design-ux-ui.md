@@ -9,3 +9,4 @@
 - [Pagination Best Practices](https://uxplanet.org/pagination-best-practices-76fbd3f5a78d#.ggx95p7x6)
 - :notebook: [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/)
 - [What Do Font Names Actually Mean?](http://blog.youworkforthem.com/2016/05/03/what-do-font-names-actually-mean/)
+- [Optical corrections in logo design](https://medium.com/@LogoGeek/optical-corrections-in-logo-design-8010cc234e2c#.8kwa5maoi)
