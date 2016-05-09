@@ -10,3 +10,4 @@
 - :notebook: [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/)
 - [What Do Font Names Actually Mean?](http://blog.youworkforthem.com/2016/05/03/what-do-font-names-actually-mean/)
 - :notebook: [Optical corrections in logo design](https://medium.com/@LogoGeek/optical-corrections-in-logo-design-8010cc234e2c#.8kwa5maoi)
+- [Sketch Workflow — 8 point Soft Grids](https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4#.209q2s9gt)
