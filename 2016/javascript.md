@@ -34,6 +34,8 @@
 - :tv: [JavaScript Air Episode 019: Internet of Things with JavaScript](https://youtu.be/oUBbfYUzaAI)
 - :notebook: [Target=”_blank” — the most underestimated vulnerability ever](https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c#.usk7khpmn)
 - [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
+- :tv: [JavaScript Air Episode 020: JavaScript Frameworks: Ember
+](https://youtu.be/sU1Zo2evbkU)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
