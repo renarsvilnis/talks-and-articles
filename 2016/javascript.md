@@ -37,6 +37,7 @@
 - :tv: [JavaScript Air Episode 020: JavaScript Frameworks: Ember
 ](https://youtu.be/sU1Zo2evbkU)
 - [Distorted Button Effects with SVG Filters](http://tympanus.net/codrops/2016/05/11/distorted-button-effects-with-svg-filters/)
+- :tv: [Myles Borins - NODE.JS RELEASES, HOW DO THEY WORK?](https://youtu.be/5un1I2qkojg)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -57,7 +58,8 @@
 - [NFL + React](https://medium.com/nfl-engineers/nfl-react-84e9cd11d384#.ukri1y4zg)
 - [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.xnfff7b33)
 - [Performance optimisations for React applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.ut4zf4er3)
-- [React.js Conf 2016 - Isaac Salier-Hellendag - Rich Text Editing with React](https://youtu.be/feUYwoLhE_4)
+- :tv: [React.js Conf 2016 - Isaac Salier-Hellendag - Rich Text Editing with React](https://youtu.be/feUYwoLhE_4)
+- :tv: [Patrick Kettner - BUILDING GRAPHICAL COMMAND LINE APPLICATIONS IN JAVASCRIPT](https://youtu.be/yUpmf8ZD5UQ)
 
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
