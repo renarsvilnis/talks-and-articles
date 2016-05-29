@@ -39,12 +39,18 @@
 - [Distorted Button Effects with SVG Filters](http://tympanus.net/codrops/2016/05/11/distorted-button-effects-with-svg-filters/)
 - :tv: [Myles Borins - NODE.JS RELEASES, HOW DO THEY WORK?](https://youtu.be/5un1I2qkojg)
 - :tv: [JavaScript Air Episode 021: On site at ng-conf](https://youtu.be/Q9aL9kmdmIE)
+- [Understanding ASTs by Building Your Own Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
 - [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40#.ulk0vv9ox)
 - [Array Reduce Like You (may) Have Never Seen It](http://www.uilab.io/posts/array-reduce-like-you-may-have-never-seen-it?utm_campaign=Front%2BEnd%2BNewsletter&utm_medium=email&utm_source=Front_End_Newsletter_7)
 - [ES6 module loading: More complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
+- :notebook: [Six nifty ES6 tricks](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
+- [A Look at ES6 Sets](http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/)
+- [A Look at ES6 Maps](http://www.barbarianmeetscoding.com/blog/2016/04/27/a-look-at-es6-maps/)
+- [Why I’m Not Waiting On ‘await’ (part 1)](https://blog.getify.com/not-awaiting-1/)
+- [Why I’m Not Waiting On ‘await’ (part 2)](https://blog.getify.com/not-awaiting-2/)
 
 ## React.js
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
