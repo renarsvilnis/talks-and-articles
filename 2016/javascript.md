@@ -37,12 +37,22 @@
 - :tv: [JavaScript Air Episode 020: JavaScript Frameworks: Ember
 ](https://youtu.be/sU1Zo2evbkU)
 - [Exceptional Exception Handling in JavaScript](http://www.sitepoint.com/exceptional-exception-handling-in-javascript/)
+- [Distorted Button Effects with SVG Filters](http://tympanus.net/codrops/2016/05/11/distorted-button-effects-with-svg-filters/)
+- :tv: [Myles Borins - NODE.JS RELEASES, HOW DO THEY WORK?](https://youtu.be/5un1I2qkojg)
+- :tv: [JavaScript Air Episode 021: On site at ng-conf](https://youtu.be/Q9aL9kmdmIE)
+- [Understanding ASTs by Building Your Own Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
 - [async/await: It’s Good and Bad](https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40#.ulk0vv9ox)
 - [Array Reduce Like You (may) Have Never Seen It](http://www.uilab.io/posts/array-reduce-like-you-may-have-never-seen-it?utm_campaign=Front%2BEnd%2BNewsletter&utm_medium=email&utm_source=Front_End_Newsletter_7)
 - [ES6 module loading: More complicated than you think](https://www.nczonline.net/blog/2016/04/es6-module-loading-more-complicated-than-you-think/)
+- :notebook: [Six nifty ES6 tricks](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
+- [A Look at ES6 Sets](http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/)
+- [A Look at ES6 Maps](http://www.barbarianmeetscoding.com/blog/2016/04/27/a-look-at-es6-maps/)
+- [Why I’m Not Waiting On ‘await’ (part 1)](https://blog.getify.com/not-awaiting-1/)
+- [Why I’m Not Waiting On ‘await’ (part 2)](https://blog.getify.com/not-awaiting-2/)
+- :tv: [JavaScript Air Episode 023: Transitioning from REST to GraphQL](https://www.youtube.com/watch?v=ENqDNIp1Nd8)
 
 ## React.js
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
@@ -57,7 +67,9 @@
 - [NFL + React](https://medium.com/nfl-engineers/nfl-react-84e9cd11d384#.ukri1y4zg)
 - [Hot Reloading in React](https://medium.com/@dan_abramov/hot-reloading-in-react-1140438583bf#.xnfff7b33)
 - [Performance optimisations for React applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.ut4zf4er3)
-- [React.js Conf 2016 - Isaac Salier-Hellendag - Rich Text Editing with React](https://youtu.be/feUYwoLhE_4)
+- :tv: [React.js Conf 2016 - Isaac Salier-Hellendag - Rich Text Editing with React](https://youtu.be/feUYwoLhE_4)
+- :tv: [Patrick Kettner - BUILDING GRAPHICAL COMMAND LINE APPLICATIONS IN JAVASCRIPT](https://youtu.be/yUpmf8ZD5UQ)
+- [Advanced Redux Action Types](https://medium.com/@zackargyle/advanced-redux-action-types-d5a71ed44e16#.dg36mkapy)
 
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)

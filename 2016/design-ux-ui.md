@@ -14,3 +14,4 @@
 - [Why tooltips are terrible and why you should use them for your product](https://blog.prototypr.io/why-tooltips-are-terrible-and-why-you-should-use-them-for-your-product-98b66ba6b038#.d6lcw21hc)
 - [5 Mistakes to Avoid When Designing Micro-interactions](https://medium.com/@ux_in_motion/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86#.7dgc5lrmc)
 - [Design at 1x—It’s a Fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536#.f4cm7s7uw)
+- [Your design portfolio is in a pile with hundreds of other ones and the reviewer is in a hurry. How does it look?](https://medium.com/@bryanlanders/your-design-portfolio-is-in-a-pile-with-hundreds-of-other-ones-and-the-reviewer-is-in-a-hurry-4b707dbffd3b#.qtsw2w43e)

@@ -6,6 +6,8 @@
 - [You’re only 23. Stop rushing life.](https://medium.com/life-tips/you-re-only-23-stop-rushing-life-d6ce19ee673c#.ry0ouo17y)
 - [Coders are herd animals - FunFunFunction #18](https://youtu.be/lrf6xuFq1Ms)
 - :tv: [First Timers Only - A suggestion to Open Source project maintainers…](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.itxzd7ki6)
+- :tv: [Is Programming Art? - MPJ's Musings - FunFunFunction #33](https://youtu.be/MdlHgIJrQn0)
+- :tv: [JavaScript Air Episode 022: The Science of People in Tech](https://youtu.be/-rH-W483sUg)
 
 ## Tech related
 - :tv: [JavaScript Air Episode 004: Unit Testing JavaScript](https://www.youtube.com/watch?v=tfkUN8Jr9zY)
