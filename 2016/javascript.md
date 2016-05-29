@@ -36,6 +36,7 @@
 - [A Comparison of Animation Technologies](https://css-tricks.com/comparison-animation-technologies/)
 - :tv: [JavaScript Air Episode 020: JavaScript Frameworks: Ember
 ](https://youtu.be/sU1Zo2evbkU)
+- [Exceptional Exception Handling in JavaScript](http://www.sitepoint.com/exceptional-exception-handling-in-javascript/)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
