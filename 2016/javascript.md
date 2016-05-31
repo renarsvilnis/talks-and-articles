@@ -53,6 +53,7 @@
 - [Why I’m Not Waiting On ‘await’ (part 1)](https://blog.getify.com/not-awaiting-1/)
 - [Why I’m Not Waiting On ‘await’ (part 2)](https://blog.getify.com/not-awaiting-2/)
 - :tv: [JavaScript Air Episode 023: Transitioning from REST to GraphQL](https://www.youtube.com/watch?v=ENqDNIp1Nd8)
+- :tv: [Generators in JavaScript - What, Why and How - FunFunFunction #34](https://www.youtube.com/watch?v=ategZqxHkz4)
 
 ## React.js
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
