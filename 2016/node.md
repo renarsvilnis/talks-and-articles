@@ -5,3 +5,5 @@
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.8l8kya27t)
 - [HTML5DevConf: Tim Messerschmidt, PayPal / Braintree: Node.js Authentication and Data Security](https://youtu.be/f0Hw_0lwFyc)
 - :tv: [Oliver Rumbelow - NodeJS Supercomputing](https://youtu.be/1mYl6v0Kzt0)
+- [How to Get Node.js Logging Right](https://blog.risingstack.com/node-js-logging-tutorial/)
+- [Why You Should Start Using Microservices](https://blog.risingstack.com/why-you-should-start-using-microservices/)
