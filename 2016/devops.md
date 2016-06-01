@@ -2,6 +2,7 @@
 - [How to send server email with Node.js - sendgrid, mandrill, mailgun, etc.](https://youtu.be/zrXOjWICmGw?list=PLoYCgNOIyGAApoDfJHjmMgGNlYenKg5jO)
 - :notebook: [Continuous Delivery](https://medium.com/continuous-delivery/continuous-delivery-3a4a55baa58a#.zdbnne30w)
 - [Introduction into Microservices](https://specify.io/concepts/microservices)
+- :tv: [Ole Michaelis: Whirlwind Tour through the HTTP2 Spec - JSUnconf 2016](https://youtu.be/UBtU606qWOI)
 
 ## nginx
 - :tv: [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://youtu.be/FJrs0Ar9asY)
