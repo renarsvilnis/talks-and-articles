@@ -17,3 +17,5 @@
 - :tv: [Always rewrite EVERYTHING! - FunFunFunction #20](https://youtu.be/XcUUY8ziTuk)
 - :notebook: [101 Ways to Make Your Website More Awesome](https://www.awesomeweb.com/blog/make-website-awesome) - good SEO tips
 - [What Makes Software Good?](https://medium.com/@mbostock/what-makes-software-good-943557f8a488#.q6g10tll8)
+- :tv: [Web App Manifest: Totally Tooling Tips (S3, E4)](https://youtu.be/yQhFmPExcbs)
+- :tv: [DevTools Device Mode: Totally Tooling Tips (S3, E5)](https://www.youtube.com/watch?v=M482RhQ8i1Q)
