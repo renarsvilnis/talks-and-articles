@@ -6,4 +6,6 @@
 - [HTML5DevConf: Tim Messerschmidt, PayPal / Braintree: Node.js Authentication and Data Security](https://youtu.be/f0Hw_0lwFyc)
 - :tv: [Oliver Rumbelow - NodeJS Supercomputing](https://youtu.be/1mYl6v0Kzt0)
 - [How to Get Node.js Logging Right](https://blog.risingstack.com/node-js-logging-tutorial/)
-- [Why You Should Start Using Microservices](https://blog.risingstack.com/why-you-should-start-using-microservices/)
+
+- [Node.js Security Tips](https://blog.risingstack.com/node-js-security-tips/)
+- [Node.js Best Practices](https://blog.risingstack.com/node-js-best-practices/)
