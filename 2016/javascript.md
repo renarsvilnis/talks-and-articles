@@ -45,6 +45,9 @@
 - :tv: [David Slone: Falcor, Destroyer of the Monolith APIs | JS.LA May 2016](https://youtu.be/rPsWfajxQnw)
 - :tv: [Sam L'ecuyer: Code without Keywords | JS.LA May 2016](https://youtu.be/LG-ozmTnhdI)
 - [JavaScript Design Patterns](https://carldanley.com/javascript-design-patterns/)
+- [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
+- [Nested Unit Tests: An Anti-Pattern](https://www.briefs.fm/3-minutes-with-kent/27)
+- [Swagger Node.js](https://blog.risingstack.com/swagger-nodejs/)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
