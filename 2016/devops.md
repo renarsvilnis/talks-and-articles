@@ -2,6 +2,7 @@
 - :notebook: [Continuous Delivery](https://medium.com/continuous-delivery/continuous-delivery-3a4a55baa58a#.zdbnne30w)
 - :tv: [Ole Michaelis: Whirlwind Tour through the HTTP2 Spec - JSUnconf 2016](https://youtu.be/UBtU606qWOI)
 - [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/)
+- [Monitorama EU 2013 - Dylan Richard](https://vimeo.com/75176595)
 
 ## Microservices
 - [Introduction into Microservices](https://specify.io/concepts/microservices)

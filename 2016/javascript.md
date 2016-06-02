@@ -44,6 +44,7 @@
 - :tv: [JavaScript Air Episode 024: Progressive Web Apps](JavaScript Air Episode 024: Progressive Web Apps)
 - :tv: [David Slone: Falcor, Destroyer of the Monolith APIs | JS.LA May 2016](https://youtu.be/rPsWfajxQnw)
 - :tv: [Sam L'ecuyer: Code without Keywords | JS.LA May 2016](https://youtu.be/LG-ozmTnhdI)
+- [JavaScript Design Patterns](https://carldanley.com/javascript-design-patterns/)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -76,9 +77,13 @@
 - [Advanced Redux Action Types](https://medium.com/@zackargyle/advanced-redux-action-types-d5a71ed44e16#.dg36mkapy)
 - [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 
-## webpack
+## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
 - [Reduce Your bundle.js File Size By Doing This One Thing](https://lacke.mn/reduce-your-bundle-js-file-size/)
 - [A production-ready realtime SaaS with webpack](https://medium.com/@matt.krick/a-production-ready-realtime-saas-with-webpack-7b11ba2fa5b0#.ece52uvp4)
 - [Webpack & The Hot Module Replacement](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.h1sm7u8pc)
 - [Webpack’s HMR & React-Hot-Loader — The Missing Manual](https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96#.vhn47u6rb)
+
+
+## GraphQL
+- [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
