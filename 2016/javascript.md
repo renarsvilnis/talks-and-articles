@@ -42,6 +42,8 @@
 - :tv: [JavaScript Air Episode 021: On site at ng-conf](https://youtu.be/Q9aL9kmdmIE)
 - [Understanding ASTs by Building Your Own Babel Plugin](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)
 - :tv: [JavaScript Air Episode 024: Progressive Web Apps](JavaScript Air Episode 024: Progressive Web Apps)
+- :tv: [David Slone: Falcor, Destroyer of the Monolith APIs | JS.LA May 2016](https://youtu.be/rPsWfajxQnw)
+- :tv: [Sam L'ecuyer: Code without Keywords | JS.LA May 2016](https://youtu.be/LG-ozmTnhdI)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
