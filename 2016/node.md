@@ -21,3 +21,4 @@
 - [How to Become a Better Node.js Developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
 - [Dependency Injection in Node.js](https://blog.risingstack.com/dependency-injection-in-node-js/)
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
+- :tv: [Adam Baldwin - Node.js Security Live [Thunder plains 2014]](https://youtu.be/4vccPZcq08w)

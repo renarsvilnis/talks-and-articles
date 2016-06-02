@@ -1,7 +1,7 @@
 - [How to send server email with Node.js - sendgrid, mandrill, mailgun, etc.](https://youtu.be/zrXOjWICmGw?list=PLoYCgNOIyGAApoDfJHjmMgGNlYenKg5jO)
 - :notebook: [Continuous Delivery](https://medium.com/continuous-delivery/continuous-delivery-3a4a55baa58a#.zdbnne30w)
 - :tv: [Ole Michaelis: Whirlwind Tour through the HTTP2 Spec - JSUnconf 2016](https://youtu.be/UBtU606qWOI)
-- [](https://blog.risingstack.com/web-authentication-methods-explained/)
+- [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/)
 
 ## Microservices
 - [Introduction into Microservices](https://specify.io/concepts/microservices)
