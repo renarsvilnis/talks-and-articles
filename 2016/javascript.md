@@ -72,6 +72,7 @@
 - :tv: [React.js Conf 2016 - Isaac Salier-Hellendag - Rich Text Editing with React](https://youtu.be/feUYwoLhE_4)
 - :tv: [Patrick Kettner - BUILDING GRAPHICAL COMMAND LINE APPLICATIONS IN JAVASCRIPT](https://youtu.be/yUpmf8ZD5UQ)
 - [Advanced Redux Action Types](https://medium.com/@zackargyle/advanced-redux-action-types-d5a71ed44e16#.dg36mkapy)
+- [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 
 ## webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)

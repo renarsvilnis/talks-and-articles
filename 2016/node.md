@@ -17,3 +17,7 @@
   - Use [Supervisord](http://supervisord.org/) for multiprocess restart infavour of forever
 - :notebook: [10 Habits of a Happy Node Hacker (2016)](https://blog.heroku.com/archives/2015/11/10/node-habits-2016)
   - Optimize garbage collection on a low memory server: `node --optimize_for_size --max_old_space_size=460 --gc_interval=100 server.js`
+- [Setting up a Node.js Cluster](http://stackabuse.com/setting-up-a-node-js-cluster/)
+- [How to Become a Better Node.js Developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/)
+- [Dependency Injection in Node.js](https://blog.risingstack.com/dependency-injection-in-node-js/)
+- [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
