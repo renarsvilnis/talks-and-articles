@@ -9,3 +9,11 @@
 - [Node.js Security Tips](https://blog.risingstack.com/node-js-security-tips/)
 - [Node.js Best Practices](https://blog.risingstack.com/node-js-best-practices/)
 - [Node.js Best Practices - Part 2](https://blog.risingstack.com/node-js-best-practices-part-2/)
+- [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
+- [Node.js Production Checklist](https://blog.risingstack.com/node-js-production-checklist/)
+- [Node.js Production Environment - a Step-By-Step Guide for Startups](https://blog.risingstack.com/nodejs-production-environment-for-startups/)
+- [Continuous Deployment of Node.js Applications](https://blog.risingstack.com/continuous-deployment-of-node-js-applications/)
+- [Operating Node.js in Production](https://blog.risingstack.com/operating-node-in-production/)
+  - Use [Supervisord](http://supervisord.org/) for multiprocess restart infavour of forever
+- :notebook: [10 Habits of a Happy Node Hacker (2016)](https://blog.heroku.com/archives/2015/11/10/node-habits-2016)
+  - Optimize garbage collection on a low memory server: `node --optimize_for_size --max_old_space_size=460 --gc_interval=100 server.js`
