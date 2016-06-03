@@ -26,8 +26,6 @@
 - :tv: [JavaScript Air Episode 011: Live at React Conf](https://youtu.be/rgoyT95ce2U)
 - :tv: [JavaScript Air Episode 012: Lodash & Open Source](https://youtu.be/pqZGVV35BPU)
 - :tv: [JavaScript Air Episode 013: Live at Fluent Conf](https://youtu.be/R0eIlOvo5Js)
-- :tv: [JavaScript Air Episode 014: End-to-End Testing](https://youtu.be/yoPIsrhaNGU)
-- :tv: [JavaScript Air Episode 015: AVA: Futuristic test runner 🚀](https://youtu.be/YRvrPkXBwdo)
 - :tv: [JavaScript Air Episode 016: JavaScript Frameworks: Vue.js](https://youtu.be/i3ET71ZCW_E)
 - :tv: [JavaScript Air Episode 017: JavaScript Frameworks: Angular](https://youtu.be/naDNy5VBQuA)
 - :tv: [JavaScript Air Episode 018: Reactive Programming in JavaScript](https://youtu.be/RFvwLifhxDg)
@@ -46,7 +44,6 @@
 - :tv: [Sam L'ecuyer: Code without Keywords | JS.LA May 2016](https://youtu.be/LG-ozmTnhdI)
 - [JavaScript Design Patterns](https://carldanley.com/javascript-design-patterns/)
 - [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
-- [Nested Unit Tests: An Anti-Pattern](https://www.briefs.fm/3-minutes-with-kent/27)
 - [Swagger Node.js](https://blog.risingstack.com/swagger-nodejs/)
 
 ## ES6+
@@ -90,3 +87,9 @@
 
 ## GraphQL
 - [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
+
+## Testing
+- :tv: [JavaScript Air Episode 014: End-to-End Testing](https://youtu.be/yoPIsrhaNGU)
+- :tv: [JavaScript Air Episode 015: AVA: Futuristic test runner 🚀](https://youtu.be/YRvrPkXBwdo)
+- [Nested Unit Tests: An Anti-Pattern](https://www.briefs.fm/3-minutes-with-kent/27)
+- :tv: [AVA Tutorial](https://youtu.be/RxLW6-3dk5A)
