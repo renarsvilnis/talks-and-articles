@@ -61,7 +61,7 @@
 - :tv: [JavaScript Air Episode 023: Transitioning from REST to GraphQL](https://www.youtube.com/watch?v=ENqDNIp1Nd8)
 - :tv: [Generators in JavaScript - What, Why and How - FunFunFunction #34](https://www.youtube.com/watch?v=ategZqxHkz4)
 
-## React.js
+## React.js + Flux*
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
 - [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.ybrh3frlf)
 - [Flux in Depth. Overview and Components.](http://blog.mgechev.com/2015/05/15/flux-in-depth-overview-components/)
@@ -78,6 +78,7 @@
 - :tv: [Patrick Kettner - BUILDING GRAPHICAL COMMAND LINE APPLICATIONS IN JAVASCRIPT](https://youtu.be/yUpmf8ZD5UQ)
 - [Advanced Redux Action Types](https://medium.com/@zackargyle/advanced-redux-action-types-d5a71ed44e16#.dg36mkapy)
 - [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+- :notebook: :tv: [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
