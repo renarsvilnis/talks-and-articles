@@ -100,3 +100,4 @@
 - :tv: [JavaScript Air Episode 015: AVA: Futuristic test runner 🚀](https://youtu.be/YRvrPkXBwdo)
 - [Nested Unit Tests: An Anti-Pattern](https://www.briefs.fm/3-minutes-with-kent/27)
 - :tv: [AVA Tutorial](https://youtu.be/RxLW6-3dk5A)
+- [Node Hero - Node.js Unit Testing Tutorial](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
