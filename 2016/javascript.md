@@ -79,6 +79,10 @@
 - [Advanced Redux Action Types](https://medium.com/@zackargyle/advanced-redux-action-types-d5a71ed44e16#.dg36mkapy)
 - [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 - :notebook: :tv: [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+- [A Better File Structure For React/Redux Applications](http://marmelab.com/blog/2015/12/17/react-directory-structure.html)
+- [Organizing Large React Applications](http://engineering.kapost.com/2016/01/organizing-large-react-applications/)
+- [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/)
+- [Dan Abramov - The Redux Journey at react-europe 2016](https://youtu.be/uvAXVMwHJXU)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
