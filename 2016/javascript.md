@@ -106,3 +106,4 @@
 - [MAKE YOUR NODE.JS API BULLETPROOF: HOW TO TEST WITH MOCHA, CHAI, AND SUPERTEST](https://developmentnow.com/2015/02/05/make-your-node-js-api-bulletproof-how-to-test-with-mocha-chai-and-supertest/)
 - [How to Test an API with Node.js](https://strongloop.com/strongblog/how-to-test-an-api-with-node-js/)
 - [HOW TO BUILD AND TEST YOUR REST API WITH NODE.JS, EXPRESS AND MOCHA](https://thewayofcode.wordpress.com/2013/04/21/how-to-build-and-test-rest-api-with-nodejs-express-mocha/)
+- [Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
