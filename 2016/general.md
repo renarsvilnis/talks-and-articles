@@ -8,9 +8,12 @@
 - :tv: [First Timers Only - A suggestion to Open Source project maintainers…](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.itxzd7ki6)
 - :tv: [Is Programming Art? - MPJ's Musings - FunFunFunction #33](https://youtu.be/MdlHgIJrQn0)
 - :tv: [JavaScript Air Episode 022: The Science of People in Tech](https://youtu.be/-rH-W483sUg)
+- :tv: [Christopher Chedeau - Being Successful at Open Source at react-europe 2016](https://youtu.be/nRF0OVQL9Nw)
+  - **Be out there** Talk to People
+  - **What did you struggle with?** Find out about the issues and fix them
+  - **What cool stuff did you build?** Promote their projects
 
 ## Tech related
-- :tv: [JavaScript Air Episode 004: Unit Testing JavaScript](https://www.youtube.com/watch?v=tfkUN8Jr9zY)
 - [Why We Integrated With Braintree and How It Helps Our Users](https://medium.com/@jackiemjensen/why-we-integrated-with-braintree-and-how-it-helps-our-users-3a203fb588ef#.sulsb08po)
 - [Why I hate your Single Page App](https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134#.3l7qcsld3)
 - :tv: [Entitled and angry - FunFunFunction #15](https://youtu.be/LyQU1sdnAtM)

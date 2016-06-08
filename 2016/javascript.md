@@ -96,8 +96,13 @@
 - [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
 
 ## Testing
+- :tv: [JavaScript Air Episode 004: Unit Testing JavaScript](https://www.youtube.com/watch?v=tfkUN8Jr9zY)
 - :tv: [JavaScript Air Episode 014: End-to-End Testing](https://youtu.be/yoPIsrhaNGU)
 - :tv: [JavaScript Air Episode 015: AVA: Futuristic test runner 🚀](https://youtu.be/YRvrPkXBwdo)
 - [Nested Unit Tests: An Anti-Pattern](https://www.briefs.fm/3-minutes-with-kent/27)
 - :tv: [AVA Tutorial](https://youtu.be/RxLW6-3dk5A)
 - [Node Hero - Node.js Unit Testing Tutorial](https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/)
+- [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+- [MAKE YOUR NODE.JS API BULLETPROOF: HOW TO TEST WITH MOCHA, CHAI, AND SUPERTEST](https://developmentnow.com/2015/02/05/make-your-node-js-api-bulletproof-how-to-test-with-mocha-chai-and-supertest/)
+- [How to Test an API with Node.js](https://strongloop.com/strongblog/how-to-test-an-api-with-node-js/)
+- [HOW TO BUILD AND TEST YOUR REST API WITH NODE.JS, EXPRESS AND MOCHA](https://thewayofcode.wordpress.com/2013/04/21/how-to-build-and-test-rest-api-with-nodejs-express-mocha/)
