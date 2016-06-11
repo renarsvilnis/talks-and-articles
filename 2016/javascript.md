@@ -48,6 +48,7 @@
 - [Stop Bringing Strong Typing To JavaScript](https://medium.com/@jamesseanwright/stop-bringing-strong-typing-to-javascript-4da0666cba6e#.aqgk2dr36)
 - [FLOW VS TYPESCRIPT](http://djcordhose.github.io/flow-vs-typescript/2016_hhjs.html#/)
 - :tv: [dotJS - Nicolas Grenié - Serverless Microservices in JavaScript](https://youtu.be/2kXYUlG1eXA)
+- :tv: [Tim Oxley: The Structure of Node.JS Applications - JSConf.Asia 2015](https://youtu.be/yD2lMmmjB2E)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
