@@ -52,6 +52,7 @@
 - :tv: [Progressive Web App DevTools , Totally Tooling Tips (S3 Mini Tip)](https://youtu.be/IWgNn1kqrsA)
 - [Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)
 - :tv: [Making Javascript Initialize Faster by Sebastian McKenzie at react-europe 2016](https://youtu.be/xbZzahWakGs)
+- :tv: [Nuclide as a React IDE by Jonas Gebhardt at react-europe 2016](https://youtu.be/IyB7T5MJ1Jw)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -92,6 +93,7 @@
 - [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/)
 - [Dan Abramov - The Redux Journey at react-europe 2016](https://youtu.be/uvAXVMwHJXU)
 - [How to use Immutable.js Records with React and Redux](https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676#.gh9pxgose)
+- :tv: [Shallow Rendering All The Way Down by Nicole Rauch at react-europe 2016](https://youtu.be/EJDqzTKllFA)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
@@ -117,3 +119,4 @@
 - [HOW TO BUILD AND TEST YOUR REST API WITH NODE.JS, EXPRESS AND MOCHA](https://thewayofcode.wordpress.com/2013/04/21/how-to-build-and-test-rest-api-with-nodejs-express-mocha/)
 - [Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
 - [Testing is not the same as TDD.](https://medium.com/@_ericelliott/testing-is-not-the-same-as-tdd-784bcc271133#.lj1pgdy7z)
+- :tv: [JavaScript Air Episode 026: webpack: JavaScript bundler](https://youtu.be/admLV6V2eDg)
