@@ -51,6 +51,7 @@
 - :tv: [Tim Oxley: The Structure of Node.JS Applications - JSConf.Asia 2015](https://youtu.be/yD2lMmmjB2E)
 - :tv: [Progressive Web App DevTools , Totally Tooling Tips (S3 Mini Tip)](https://youtu.be/IWgNn1kqrsA)
 - [Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)
+- :tv: [Making Javascript Initialize Faster by Sebastian McKenzie at react-europe 2016](https://youtu.be/xbZzahWakGs)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
