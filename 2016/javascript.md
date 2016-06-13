@@ -64,6 +64,9 @@
 - [Why I’m Not Waiting On ‘await’ (part 2)](https://blog.getify.com/not-awaiting-2/)
 - :tv: [JavaScript Air Episode 023: Transitioning from REST to GraphQL](https://www.youtube.com/watch?v=ENqDNIp1Nd8)
 - :tv: [Generators in JavaScript - What, Why and How - FunFunFunction #34](https://www.youtube.com/watch?v=ategZqxHkz4)
+- [Are JavaScript Promises swallowing your errors?](http://jamesknelson.com/are-es6-promises-swallowing-your-errors/)
+- [The Problem With ES6 Promises](http://blog.soareschen.com/the-problem-with-es6-promises)
+- [Handling multiple catches in promise chain](http://stackoverflow.com/questions/26076511/handling-multiple-catches-in-promise-chain)
 
 ## React.js + Flux*
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
