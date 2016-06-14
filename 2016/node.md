@@ -22,3 +22,4 @@
 - [Dependency Injection in Node.js](https://blog.risingstack.com/dependency-injection-in-node-js/)
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
 - :tv: [Adam Baldwin - Node.js Security Live [Thunder plains 2014]](https://youtu.be/4vccPZcq08w)
+- :tv: [Node.js Live (Paris) - Igor Soarez, Anti-patterns in Node.js](https://youtu.be/pGFQ02qtJ7w)
