@@ -23,3 +23,7 @@
 - [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions/)
 - :tv: [Adam Baldwin - Node.js Security Live [Thunder plains 2014]](https://youtu.be/4vccPZcq08w)
 - :tv: [Node.js Live (Paris) - Igor Soarez, Anti-patterns in Node.js](https://youtu.be/pGFQ02qtJ7w)
+- [The Node.js Way - Designing Singletons](http://fredkschott.com/post/2013/12/node-js-cookbook---designing-singletons/)
+- [The Node.js Way - Designing Factories](http://fredkschott.com/post/2015/01/the-node-way-designing-factories/)
+- [The Node.js Way - Testing Essentials](http://fredkschott.com/post/2014/05/nodejs-testing-essentials/)
+- [ES Modules and Node.js: Hard Choices](https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.otc9weg0m)
