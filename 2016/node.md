@@ -27,3 +27,6 @@
 - [The Node.js Way - Designing Factories](http://fredkschott.com/post/2015/01/the-node-way-designing-factories/)
 - [The Node.js Way - Testing Essentials](http://fredkschott.com/post/2014/05/nodejs-testing-essentials/)
 - [ES Modules and Node.js: Hard Choices](https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.otc9weg0m)
+- :notebook: [Checklist: Best Practices of Node.JS Error Handling](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
+- [10 tips for coding with node.js #3: how to know when (not) to throw](http://www.nearform.com/nodecrunch/10-tips-coding-node-js-3-know-throw-2/)
+- [Promise-based functions should not throw exceptions](http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html)
