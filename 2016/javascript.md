@@ -94,6 +94,7 @@
 - [Dan Abramov - The Redux Journey at react-europe 2016](https://youtu.be/uvAXVMwHJXU)
 - [How to use Immutable.js Records with React and Redux](https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676#.gh9pxgose)
 - :tv: [Shallow Rendering All The Way Down by Nicole Rauch at react-europe 2016](https://youtu.be/EJDqzTKllFA)
+- [Testing React Components by Dave Brotherstone at react-europe 2016](https://youtu.be/TEbL0thki3c)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
