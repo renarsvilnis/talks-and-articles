@@ -12,6 +12,7 @@
   - **Be out there** Talk to People
   - **What did you struggle with?** Find out about the issues and fix them
   - **What cool stuff did you build?** Promote their projects
+- [One does not simply learn to code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.fh562981u)
 
 ## Tech related
 - [Why We Integrated With Braintree and How It Helps Our Users](https://medium.com/@jackiemjensen/why-we-integrated-with-braintree-and-how-it-helps-our-users-3a203fb588ef#.sulsb08po)
