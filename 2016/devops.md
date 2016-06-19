@@ -14,3 +14,7 @@
 
 ## Docker
 - [10 things to avoid in docker containers](http://developerblog.redhat.com/2016/02/24/10-things-to-avoid-in-docker-containers/)
+
+## Security
+- [Keeping Web Users Safe By Sanitizing Input Data](https://www.smashingmagazine.com/2011/01/keeping-web-users-safe-by-sanitizing-input-data/)
+- [Web Security: Are You Part Of The Problem?](https://www.smashingmagazine.com/2010/01/web-security-primer-are-you-part-of-the-problem/)

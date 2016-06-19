@@ -102,7 +102,7 @@
 - [A production-ready realtime SaaS with webpack](https://medium.com/@matt.krick/a-production-ready-realtime-saas-with-webpack-7b11ba2fa5b0#.ece52uvp4)
 - [Webpack & The Hot Module Replacement](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.h1sm7u8pc)
 - [Webpack’s HMR & React-Hot-Loader — The Missing Manual](https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96#.vhn47u6rb)
-
+- :tv: [https://egghead.io/lessons/tools-intro-to-the-production-webpack-course](Using Webpack for Production JavaScript Applications)
 
 ## GraphQL
 - [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
