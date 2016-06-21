@@ -53,6 +53,7 @@
 - [Making your JavaScript Pure](http://alistapart.com/article/making-your-javascript-pure)
 - :tv: [Making Javascript Initialize Faster by Sebastian McKenzie at react-europe 2016](https://youtu.be/xbZzahWakGs)
 - :tv: [Nuclide as a React IDE by Jonas Gebhardt at react-europe 2016](https://youtu.be/IyB7T5MJ1Jw)
+- [Autofill: What web devs should know, but don’t](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -105,7 +106,8 @@
 - :tv: [https://egghead.io/lessons/tools-intro-to-the-production-webpack-course](Using Webpack for Production JavaScript Applications)
 
 ## GraphQL
-- [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
+- :tv: [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
+- [Why GraphQL is the future](https://medium.com/apollo-stack/why-graphql-is-the-future-3bec28193807#.xzx2ucox9)
 
 ## Testing
 - :tv: [JavaScript Air Episode 004: Unit Testing JavaScript](https://www.youtube.com/watch?v=tfkUN8Jr9zY)
