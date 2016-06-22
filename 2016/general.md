@@ -26,6 +26,8 @@
 - :tv: [DevTools Device Mode: Totally Tooling Tips (S3, E5)](https://www.youtube.com/watch?v=M482RhQ8i1Q)
 - [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - :tv: [Rangle.io session at react-europe 2016](https://youtu.be/REYHHaoJyfw)
+- [Programming Best Practices Tidbits](https://github.com/timoxley/best-practices)
+
 
 ## Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)

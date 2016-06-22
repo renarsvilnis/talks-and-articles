@@ -30,3 +30,4 @@
 - :notebook: [Checklist: Best Practices of Node.JS Error Handling](http://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/)
 - [10 tips for coding with node.js #3: how to know when (not) to throw](http://www.nearform.com/nodecrunch/10-tips-coding-node-js-3-know-throw-2/)
 - [Promise-based functions should not throw exceptions](http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html)
+- [5 steps to making a Node.js frontend app 10x faster](https://engineering.gosquared.com/making-dashboard-faster)

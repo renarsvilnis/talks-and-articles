@@ -54,6 +54,8 @@
 - :tv: [Making Javascript Initialize Faster by Sebastian McKenzie at react-europe 2016](https://youtu.be/xbZzahWakGs)
 - :tv: [Nuclide as a React IDE by Jonas Gebhardt at react-europe 2016](https://youtu.be/IyB7T5MJ1Jw)
 - [Autofill: What web devs should know, but don’t](http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/)
+- [The [real] problem with JavaScript](https://medium.com/unhandled-exception/the-real-problem-with-javascript-6b78cad97b6e#.44j2knj7s)
+- [How to Create and Publish Your First Node.js Module](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738#.qbzvd5zaw)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`

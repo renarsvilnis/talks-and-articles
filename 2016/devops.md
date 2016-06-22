@@ -3,6 +3,7 @@
 - :tv: [Ole Michaelis: Whirlwind Tour through the HTTP2 Spec - JSUnconf 2016](https://youtu.be/UBtU606qWOI)
 - [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/)
 - [Monitorama EU 2013 - Dylan Richard](https://vimeo.com/75176595)
+- [How to set up a node.js production server](https://dennisbeatty.com/how-to-set-up-a-node-js-production-server/)
 
 ## Microservices
 - [Introduction into Microservices](https://specify.io/concepts/microservices)
@@ -11,6 +12,7 @@
 
 ## nginx
 - :tv: [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://youtu.be/FJrs0Ar9asY)
+- [10 Tips for 10x Application Performance](https://www.nginx.com/blog/10-tips-for-10x-application-performance/)
 
 ## Docker
 - [10 things to avoid in docker containers](http://developerblog.redhat.com/2016/02/24/10-things-to-avoid-in-docker-containers/)
