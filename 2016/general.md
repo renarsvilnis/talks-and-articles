@@ -14,6 +14,7 @@
   - **What cool stuff did you build?** Promote their projects
 - [One does not simply learn to code](https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62#.fh562981u)
 - :tv: [JavaScript Air Episode 027: For the Beginners](https://youtu.be/1glcyvhf5yY)
+- :tv: [How much are you allowed to Google? - Q&A Part 2 - FunFunFunction #38](https://youtu.be/mIoKRyLcIjo)
 
 ## Tech related
 - [Why We Integrated With Braintree and How It Helps Our Users](https://medium.com/@jackiemjensen/why-we-integrated-with-braintree-and-how-it-helps-our-users-3a203fb588ef#.sulsb08po)
