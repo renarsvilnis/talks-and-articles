@@ -32,3 +32,4 @@
 
 ## Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
