@@ -28,6 +28,7 @@
 - [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 - :tv: [Rangle.io session at react-europe 2016](https://youtu.be/REYHHaoJyfw)
 - [Programming Best Practices Tidbits](https://github.com/timoxley/best-practices)
+- :tv: [More DevTools Tips, Totally Tooling Tips (S3, E7)](https://www.youtube.com/watch?v=YEbtvKPvTYE)
 
 
 ## Git
