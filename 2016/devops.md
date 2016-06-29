@@ -9,6 +9,7 @@
 - [Introduction into Microservices](https://specify.io/concepts/microservices)
 - [Why You Should Start Using Microservices](https://blog.risingstack.com/why-you-should-start-using-microservices/)
 - [Killing the Monolith](https://blog.risingstack.com/killing-the-monolithic-architecture/)
+- :tv: [Yunong Xiao - Slaying Monoliths with Docker and Node.js, a Netflix Original](https://youtu.be/B90OabhYJpA)
 
 ## nginx
 - :tv: [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://youtu.be/FJrs0Ar9asY)
