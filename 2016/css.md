@@ -17,3 +17,4 @@
 - [dotCSS 2014 - Estelle Weyl - CSS? WTF!](https://youtu.be/IvhIupbJrKc)
 - [Battling BEM (Extended Edition) 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 - [Molten Leading in CSS](https://css-tricks.com/molten-leading-css/)
+- [-webkit-font-smoothing](http://maxvoltar.com/archive/-webkit-font-smoothing)
