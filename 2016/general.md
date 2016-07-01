@@ -30,6 +30,8 @@
 - [Programming Best Practices Tidbits](https://github.com/timoxley/best-practices)
 - :tv: [More DevTools Tips, Totally Tooling Tips (S3, E7)](https://www.youtube.com/watch?v=YEbtvKPvTYE)
 
+## Useless/Hilarous
+- :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)
 
 ## Git
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)

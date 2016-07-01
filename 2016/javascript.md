@@ -59,6 +59,7 @@
 - :tv: [Service Worker Libraries, Totally Tooling Tips (S3,E6)](https://www.youtube.com/watch?v=IIRj8DftkqE)
 - [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/)
 - [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.m8wzti7kq)
+- :tv: [JavaScript Air Episode 029: Web Animations](https://www.youtube.com/watch?v=5JpsSC_gumk)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
