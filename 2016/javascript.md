@@ -60,6 +60,7 @@
 - [15 Ways to Write Self-documenting JavaScript](https://www.sitepoint.com/self-documenting-javascript/)
 - [JavaScript Factory Functions vs Constructor Functions vs Classes](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.m8wzti7kq)
 - :tv: [JavaScript Air Episode 029: Web Animations](https://www.youtube.com/watch?v=5JpsSC_gumk)
+- :tv: [Jeff Morrison - A Deepdive Into Flow at react-europe 2016](https://youtu.be/VEaDsKyDxkY)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -110,6 +111,8 @@
 - [Webpack & The Hot Module Replacement](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.h1sm7u8pc)
 - [Webpack’s HMR & React-Hot-Loader — The Missing Manual](https://medium.com/@rajaraodv/webpacks-hmr-react-hot-loader-the-missing-manual-232336dc0d96#.vhn47u6rb)
 - :tv: [https://egghead.io/lessons/tools-intro-to-the-production-webpack-course](Using Webpack for Production JavaScript Applications)
+- [Webpack Plugins we been keepin on the DLL](https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7#.6rhke935f)
+- :tv: [Webpack HMR](https://youtu.be/PthDwpgrhmQ)
 
 ## GraphQL
 - :tv: [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
@@ -129,3 +132,5 @@
 - [Just Say No to More End-to-End Tests](http://googletesting.blogspot.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
 - [Testing is not the same as TDD.](https://medium.com/@_ericelliott/testing-is-not-the-same-as-tdd-784bcc271133#.lj1pgdy7z)
 - :tv: [JavaScript Air Episode 026: webpack: JavaScript bundler](https://youtu.be/admLV6V2eDg)
+- [How to Unit Test Private Functions in JavaScript](https://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/)
+- [Why I Test Private Functions In JavaScript](https://philipwalton.com/articles/why-i-test-private-functions-in-javascript/)
