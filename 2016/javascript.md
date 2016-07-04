@@ -77,6 +77,7 @@
 - [Are JavaScript Promises swallowing your errors?](http://jamesknelson.com/are-es6-promises-swallowing-your-errors/)
 - [The Problem With ES6 Promises](http://blog.soareschen.com/the-problem-with-es6-promises)
 - [Handling multiple catches in promise chain](http://stackoverflow.com/questions/26076511/handling-multiple-catches-in-promise-chain)
+- [ES5 Objects vs. ES6 Maps – The differences and similarities](http://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/)
 
 ## React.js + Flux*
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
