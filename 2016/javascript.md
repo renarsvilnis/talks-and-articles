@@ -62,6 +62,7 @@
 - :tv: [JavaScript Air Episode 029: Web Animations](https://www.youtube.com/watch?v=5JpsSC_gumk)
 - :tv: [Jeff Morrison - A Deepdive Into Flow at react-europe 2016](https://youtu.be/VEaDsKyDxkY)
 - :tv: [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://youtu.be/e-5obm1G_FY)
+- :tv: [JavaScript Air Episode 030: Electron Apps](https://youtu.be/y4S5eiWMYsI)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
