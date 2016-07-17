@@ -63,6 +63,8 @@
 - :tv: [Jeff Morrison - A Deepdive Into Flow at react-europe 2016](https://youtu.be/VEaDsKyDxkY)
 - :tv: [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf 2016](https://youtu.be/e-5obm1G_FY)
 - :tv: [JavaScript Air Episode 030: Electron Apps](https://youtu.be/y4S5eiWMYsI)
+- [ES Modules and Node.js: Hard Choices](https://medium.com/@nodesource/es-modules-and-node-js-hard-choices-2b6995e4d491#.2pd9hypcc)
+
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -106,6 +108,7 @@
 - [How to use Immutable.js Records with React and Redux](https://medium.com/azendoo-team/immutable-record-react-redux-99f389ed676#.gh9pxgose)
 - :tv: [Shallow Rendering All The Way Down by Nicole Rauch at react-europe 2016](https://youtu.be/EJDqzTKllFA)
 - [Testing React Components by Dave Brotherstone at react-europe 2016](https://youtu.be/TEbL0thki3c)
+- :tv: [Contributing to React JS](https://youtu.be/wUpPsEcGsg8)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)

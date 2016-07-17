@@ -18,3 +18,4 @@
 - [Battling BEM (Extended Edition) 10 Common Problems And How To Avoid Them](https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/)
 - [Molten Leading in CSS](https://css-tricks.com/molten-leading-css/)
 - [-webkit-font-smoothing](http://maxvoltar.com/archive/-webkit-font-smoothing)
+- :tv: [Render 2016 - Sara Soueidan](https://vimeo.com/album/3953264/video/166790778) - svg techniques
