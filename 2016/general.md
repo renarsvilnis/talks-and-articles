@@ -29,6 +29,7 @@
 - :tv: [Rangle.io session at react-europe 2016](https://youtu.be/REYHHaoJyfw)
 - [Programming Best Practices Tidbits](https://github.com/timoxley/best-practices)
 - :tv: [More DevTools Tips, Totally Tooling Tips (S3, E7)](https://www.youtube.com/watch?v=YEbtvKPvTYE)
+- [What code comments can teach us about scaling a codebase](https://medium.com/@kentcdodds/what-code-comments-can-teach-us-about-scaling-a-codebase-90bbfad8d70d#.wqyv1h738)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)

@@ -17,3 +17,4 @@
 - [Your design portfolio is in a pile with hundreds of other ones and the reviewer is in a hurry. How does it look?](https://medium.com/@bryanlanders/your-design-portfolio-is-in-a-pile-with-hundreds-of-other-ones-and-the-reviewer-is-in-a-hurry-4b707dbffd3b#.qtsw2w43e)
 - [Infinite Scrolling Best Practices](https://uxplanet.org/infinite-scrolling-best-practices-c7f24c9af1d#.tizxmxpti)
 - [Designing for Adventures at GoPro](https://medium.com/in-progress/designing-for-adventures-at-gopro-b18fdba311c7#.3j2rqvu3o)
+- [From an Engineer to a Designer](https://byrslf.co/from-an-engineer-to-a-designer-9a8e154afcd0#.14e69opwd)
