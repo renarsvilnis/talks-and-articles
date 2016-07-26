@@ -67,6 +67,7 @@
 - [Isomorphic Javascript, let’s make it easier.](https://medium.com/@pierceydylan/isomorphic-javascript-it-just-has-to-work-b9da5b0c8035#.hqooctk56)
 - :tv: [Coding Challenge #27: Fireworks!](https://youtu.be/CKeyIbT3vXI)
 - :tv: [Accessibility, Totally Tooling Tips (S3, E8)](https://youtu.be/pBJZsp5LsOE)
+- [requestAnimationFrame Scheduling For Nerds](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.v7e0zzf40)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
