@@ -147,3 +147,4 @@
 - :tv: [JavaScript Air Episode 026: webpack: JavaScript bundler](https://youtu.be/admLV6V2eDg)
 - [How to Unit Test Private Functions in JavaScript](https://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/)
 - [Why I Test Private Functions In JavaScript](https://philipwalton.com/articles/why-i-test-private-functions-in-javascript/)
+- :tv: [Testing: Mocha, Totally Tooling Tips (S3, E11)](https://youtu.be/L48AjLVgXS4)
