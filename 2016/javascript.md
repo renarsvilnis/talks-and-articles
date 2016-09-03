@@ -70,6 +70,8 @@
 - :tv: [Travis & AppVeyor, Totally Tooling Tips (S3, E4)](https://youtu.be/8EgbcRzerTE)
 - [requestAnimationFrame Scheduling For Nerds](https://medium.com/@paul_irish/requestanimationframe-scheduling-for-nerds-9c57f7438ef4#.v7e0zzf40)
 - :tv: [First Paint, Totally Tooling Tips (S3, E9)](https://youtu.be/wFwogd4CdwY)
+- :tv: [3D Card Flip: TL;DW - Supercharged](https://youtu.be/e9UXt8P9XKU)
+- :tv: [JS Module Bundlers, Totally Tooling Tips (S3, E11)](https://youtu.be/OhPUaEuEaXk)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
