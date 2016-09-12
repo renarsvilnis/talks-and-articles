@@ -118,6 +118,7 @@
 - :tv: [Contributing to React JS](https://youtu.be/wUpPsEcGsg8)
 - [Component Rendering Performance in React](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.hqlukku7u)
 - [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
+- [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
