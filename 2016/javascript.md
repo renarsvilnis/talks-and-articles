@@ -72,6 +72,7 @@
 - :tv: [First Paint, Totally Tooling Tips (S3, E9)](https://youtu.be/wFwogd4CdwY)
 - :tv: [3D Card Flip: TL;DW - Supercharged](https://youtu.be/e9UXt8P9XKU)
 - :tv: [JS Module Bundlers, Totally Tooling Tips (S3, E11)](https://youtu.be/OhPUaEuEaXk)
+- :notebook: [15 Essential Packages to Get Started With Electron](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -119,6 +120,7 @@
 - [Component Rendering Performance in React](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.hqlukku7u)
 - [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
 - [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications)
+- [Improve React performance with Babel](https://medium.com/doctolib-engineering/improve-react-performance-with-babel-16f1becfaa25)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
