@@ -10,6 +10,7 @@
 - [Why You Should Start Using Microservices](https://blog.risingstack.com/why-you-should-start-using-microservices/)
 - [Killing the Monolith](https://blog.risingstack.com/killing-the-monolithic-architecture/)
 - :tv: [Yunong Xiao - Slaying Monoliths with Docker and Node.js, a Netflix Original](https://youtu.be/B90OabhYJpA)
+- :notebook: [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/)
 
 ## nginx
 - :tv: [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://youtu.be/FJrs0Ar9asY)
