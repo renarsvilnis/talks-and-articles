@@ -4,6 +4,7 @@
 - [Web Authentication Methods Explained](https://blog.risingstack.com/web-authentication-methods-explained/)
 - [Monitorama EU 2013 - Dylan Richard](https://vimeo.com/75176595)
 - [How to set up a node.js production server](https://dennisbeatty.com/how-to-set-up-a-node-js-production-server/)
+- :tv: [The Cost of Logging - Matteo Collina, nearForm](https://youtu.be/Dnx2SPdcDSU)
 
 ## Microservices
 - [Introduction into Microservices](https://specify.io/concepts/microservices)
@@ -11,6 +12,7 @@
 - [Killing the Monolith](https://blog.risingstack.com/killing-the-monolithic-architecture/)
 - :tv: [Yunong Xiao - Slaying Monoliths with Docker and Node.js, a Netflix Original](https://youtu.be/B90OabhYJpA)
 - :notebook: [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/)
+- :tv: [Breaking Down the Monolith - Peter Marton, RisingStack](https://youtu.be/k9QZ4oIOHnk)
 
 ## nginx
 - :tv: [Nginx Tutorial - Proxy to Express Application, Load Balancer, Static Cache Files](https://youtu.be/FJrs0Ar9asY)
