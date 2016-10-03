@@ -20,3 +20,4 @@
 - [-webkit-font-smoothing](http://maxvoltar.com/archive/-webkit-font-smoothing)
 - :tv: [Render 2016 - Sara Soueidan](https://vimeo.com/album/3953264/video/166790778) - svg techniques
 - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
+- :tv: [Keith J. Grant - Stop Thinking in Pixels](https://youtu.be/XanhwddQ-PM)
