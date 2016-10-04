@@ -81,6 +81,7 @@
 - :tv: [bind and this - Object Creation in JavaScript P1 - FunFunFunction #43](https://youtu.be/GhbhD1HR5vk)
 - :tv: [Examples of this and bind - Object Creation in JavaScript P2 - FunFunFunction #44](https://youtu.be/PIkA60I0dKU)
 - :tv: [__proto__ vs prototype - Object Creation in JavaScript P5 - FunFunFunction #52](https://youtu.be/DqGwxR_0d1M)
+- :tv: [JavaScript Air Episode 034: Typed Functional Programming in JavaScript](https://youtu.be/mwdXBFtRl0o)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
