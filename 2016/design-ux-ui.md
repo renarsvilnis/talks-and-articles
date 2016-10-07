@@ -18,3 +18,4 @@
 - [Infinite Scrolling Best Practices](https://uxplanet.org/infinite-scrolling-best-practices-c7f24c9af1d#.tizxmxpti)
 - [Designing for Adventures at GoPro](https://medium.com/in-progress/designing-for-adventures-at-gopro-b18fdba311c7#.3j2rqvu3o)
 - [From an Engineer to a Designer](https://byrslf.co/from-an-engineer-to-a-designer-9a8e154afcd0#.14e69opwd)
+- [Technical Web Typography: Guidelines and Techniques](https://www.smashingmagazine.com/2011/03/technical-web-typography-guidelines-and-techniques/)
