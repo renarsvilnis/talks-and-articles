@@ -166,3 +166,4 @@
 - [How to Unit Test Private Functions in JavaScript](https://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/)
 - [Why I Test Private Functions In JavaScript](https://philipwalton.com/articles/why-i-test-private-functions-in-javascript/)
 - :tv: [Testing: Mocha, Totally Tooling Tips (S3, E11)](https://youtu.be/L48AjLVgXS4)
+- :tv: [Lighthouse, Totally Tooling Tips (S3 Mini Tip)](https://youtu.be/6LQJtH90-aA)
