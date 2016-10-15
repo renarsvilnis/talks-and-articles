@@ -86,6 +86,7 @@
 - [The State of JavaScript 2016](http://stateofjs.com/)
 - :tv: [JavaScript Air Episode 035: How to be a mentor](https://youtu.be/lA8mo8oQ9J0)
 - :tv: [JavaScript Air Episode 036: Managing Dependencies like a boss 😎](https://youtu.be/_dnDzmhxlZM)
+- [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`

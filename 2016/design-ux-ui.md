@@ -19,3 +19,4 @@
 - [Designing for Adventures at GoPro](https://medium.com/in-progress/designing-for-adventures-at-gopro-b18fdba311c7#.3j2rqvu3o)
 - [From an Engineer to a Designer](https://byrslf.co/from-an-engineer-to-a-designer-9a8e154afcd0#.14e69opwd)
 - [Technical Web Typography: Guidelines and Techniques](https://www.smashingmagazine.com/2011/03/technical-web-typography-guidelines-and-techniques/)
+- [How to find your perfect color pairings.](http://www.vanschneider.com/how-i-find-my-perfect-color-pairings/)
