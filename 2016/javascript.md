@@ -136,6 +136,7 @@
 - [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)
 - [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications)
 - [Improve React performance with Babel](https://medium.com/doctolib-engineering/improve-react-performance-with-babel-16f1becfaa25)
+- :tv: [Netflix JavaScript Talks - RxJS + Redux + React = Amazing!](https://youtu.be/AslncyG8whg)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)

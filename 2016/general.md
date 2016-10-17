@@ -38,6 +38,7 @@
 - [How I built an app with 500,000 users in 5 days on a $100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83#.73zd863t1)
 - :tv: [JavaScript Air Episode 031: Automated Accessibility Testing with aXe-core](https://youtu.be/KSUBrO48k5M)
 - :tv: [Resizing Images - Computerphile](https://youtu.be/AqscP7rc8_M)
+- :tv: [Throw out your tools - MPJ's Musings - FunFunFunction #54](https://youtu.be/hlYiWznhhzw)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)
