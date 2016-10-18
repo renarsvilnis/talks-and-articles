@@ -147,6 +147,9 @@
 - :tv: [https://egghead.io/lessons/tools-intro-to-the-production-webpack-course](Using Webpack for Production JavaScript Applications)
 - [Webpack Plugins we been keepin on the DLL](https://medium.com/@soederpop/webpack-plugins-been-we-been-keepin-on-the-dll-cdfdd6cb8cd7#.6rhke935f)
 - :tv: [Webpack HMR](https://youtu.be/PthDwpgrhmQ)
+- [Webpack devtool source map](http://cheng.logdown.com/posts/2016/03/25/679045) -
+  - `cheap-module-eval-source-map` - development
+  - `cheap-module-source-map` - production
 
 ## GraphQL
 - :tv: [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
