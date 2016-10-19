@@ -88,6 +88,7 @@
 - :tv: [JavaScript Air Episode 036: Managing Dependencies like a boss 😎](https://youtu.be/_dnDzmhxlZM)
 - [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 - :notebook: [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc)
+- :tv: [See the data flowing through your app (André Staltz) - Full Stack Fest 2016](https://youtu.be/R-GzJgEccEQ)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
