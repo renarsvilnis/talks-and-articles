@@ -22,3 +22,4 @@
 - [Why there is no CSS4 - explaining CSS Levels](https://rachelandrew.co.uk/archives/2016/09/13/why-there-is-no-css4-explaining-css-levels/)
 - :tv: [Keith J. Grant - Stop Thinking in Pixels](https://youtu.be/XanhwddQ-PM)
 - :tv: [Will Boyd - Silky Smooth Animation with CSS](https://youtu.be/bEoLCZzWZX8)
+- [Sass Color Variables That Don’t Suck](https://davidwalsh.name/sass-color-variables-dont-suck)
