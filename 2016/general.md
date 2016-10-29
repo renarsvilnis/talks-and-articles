@@ -20,6 +20,7 @@
 - :tv: [Berglind Ósk Bergsdóttir: Feeling like a fake - the Impostor Syndrome - JSConf Iceland 2016](https://youtu.be/KlozcD5pmPw)
 - :tv: [The problem with focus - MPJ's Musings - FunFunFunction #51](https://youtu.be/_CVfNpg8TrI)
 - :tv: [Sarah Drasner - Creativity in Programming for Fun and Profit](https://youtu.be/HVtYasAhsY0)
+- :tv: [Linus Torvalds: The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux#t-344632)
 
 ## Tech related
 - [Why We Integrated With Braintree and How It Helps Our Users](https://medium.com/@jackiemjensen/why-we-integrated-with-braintree-and-how-it-helps-our-users-3a203fb588ef#.sulsb08po)
