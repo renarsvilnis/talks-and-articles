@@ -89,6 +89,7 @@
 - [Yarn: A new package manager for JavaScript](https://code.facebook.com/posts/1840075619545360)
 - :notebook: [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc)
 - :tv: [See the data flowing through your app (André Staltz) - Full Stack Fest 2016](https://youtu.be/R-GzJgEccEQ)
+- [Faster, More Reliable CI Builds with Yarn](https://medium.com/javascript-scene/faster-more-reliable-ci-builds-with-yarn-7dbc0ef31580#.b6os8dm1k)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -139,6 +140,9 @@
 - [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications)
 - [Improve React performance with Babel](https://medium.com/doctolib-engineering/improve-react-performance-with-babel-16f1becfaa25)
 - :tv: [Netflix JavaScript Talks - RxJS + Redux + React = Amazing!](https://youtu.be/AslncyG8whg)
+- [Animations with ReactTransitionGroup](https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.3kqobhve4)
+- [Reusing ReactTransitionGroup animations with Higher-order Components](https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.n83gsmqeg)
+- :tv: [Using TweenMax with React](https://egghead.io/lessons/react-using-tweenmax-with-react)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
@@ -152,6 +156,7 @@
 - [Webpack devtool source map](http://cheng.logdown.com/posts/2016/03/25/679045) -
   - `cheap-module-eval-source-map` - development
   - `cheap-module-source-map` - production
+- [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.l9jtcuz80)
 
 ## GraphQL
 - :tv: [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
