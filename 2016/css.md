@@ -23,3 +23,8 @@
 - :tv: [Keith J. Grant - Stop Thinking in Pixels](https://youtu.be/XanhwddQ-PM)
 - :tv: [Will Boyd - Silky Smooth Animation with CSS](https://youtu.be/bEoLCZzWZX8)
 - [Sass Color Variables That Don’t Suck](https://davidwalsh.name/sass-color-variables-dont-suck)
+
+## SVG
+- [Understanding SVG Coordinate Systems and Transformations (Part 1) — The viewport, viewBox, and preserveAspectRatio](https://sarasoueidan.com/blog/svg-coordinate-systems/)
+ - [Understanding SVG Coordinate Systems and Transformations (Part 2) — The transform Attribute](https://sarasoueidan.com/blog/svg-transformations/)
+ - [Understanding SVG Coordinate Systems and Transformations (Part 3) — Establishing New Viewports](https://sarasoueidan.com/blog/nesting-svgs/)
