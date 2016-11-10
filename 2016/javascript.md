@@ -143,6 +143,7 @@
 - [Animations with ReactTransitionGroup](https://medium.com/@cheapsteak/animations-with-reacttransitiongroup-4972ad7da286#.3kqobhve4)
 - [Reusing ReactTransitionGroup animations with Higher-order Components](https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.n83gsmqeg)
 - :tv: [Using TweenMax with React](https://egghead.io/lessons/react-using-tweenmax-with-react)
+- [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
