@@ -23,6 +23,7 @@
 - :tv: [Keith J. Grant - Stop Thinking in Pixels](https://youtu.be/XanhwddQ-PM)
 - :tv: [Will Boyd - Silky Smooth Animation with CSS](https://youtu.be/bEoLCZzWZX8)
 - [Sass Color Variables That Don’t Suck](https://davidwalsh.name/sass-color-variables-dont-suck)
+- [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.cjyapia36)
 
 ## SVG
 - [Understanding SVG Coordinate Systems and Transformations (Part 1) — The viewport, viewBox, and preserveAspectRatio](https://sarasoueidan.com/blog/svg-coordinate-systems/)
