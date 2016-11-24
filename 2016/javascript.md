@@ -91,6 +91,7 @@
 - :tv: [See the data flowing through your app (André Staltz) - Full Stack Fest 2016](https://youtu.be/R-GzJgEccEQ)
 - [Faster, More Reliable CI Builds with Yarn](https://medium.com/javascript-scene/faster-more-reliable-ci-builds-with-yarn-7dbc0ef31580#.b6os8dm1k)
 - [HTML5 Video: Synchronizing Playback of Two Videos](https://bocoup.com/weblog/html5-video-synchronizing-playback-of-two-videos)
+- :tv: [Source Map Explorer, Totally Tooling Tips (S3, E13)](https://youtu.be/7aY9BoMEpG8)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
