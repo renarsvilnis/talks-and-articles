@@ -40,6 +40,7 @@
 - :tv: [JavaScript Air Episode 031: Automated Accessibility Testing with aXe-core](https://youtu.be/KSUBrO48k5M)
 - :tv: [Resizing Images - Computerphile](https://youtu.be/AqscP7rc8_M)
 - :tv: [Throw out your tools - MPJ's Musings - FunFunFunction #54](https://youtu.be/hlYiWznhhzw)
+- :tv: [Leaky abstractions - MPJ's Musings - FunFunFunction #58](https://youtu.be/gRsyY0kzXfw)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)

@@ -92,6 +92,8 @@
 - [Faster, More Reliable CI Builds with Yarn](https://medium.com/javascript-scene/faster-more-reliable-ci-builds-with-yarn-7dbc0ef31580#.b6os8dm1k)
 - [HTML5 Video: Synchronizing Playback of Two Videos](https://bocoup.com/weblog/html5-video-synchronizing-playback-of-two-videos)
 - :tv: [Source Map Explorer, Totally Tooling Tips (S3, E13)](https://youtu.be/7aY9BoMEpG8)
+- :tv: [ReactiveConf 2016 - Michael Glukhovsky: Speed up app development...](https://youtu.be/uaDYba7-U2c)
+- :tv: [Object.create - Object Creation in JavaScript P6 - FunFunFunction #57](https://www.youtube.com/watch?v=CDFN1VatiJA)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -146,6 +148,9 @@
 - [Reusing ReactTransitionGroup animations with Higher-order Components](https://medium.com/@cheapsteak/reusing-reacttransitiongroup-animations-with-higher-order-components-1e7043451f91#.n83gsmqeg)
 - :tv: [Using TweenMax with React](https://egghead.io/lessons/react-using-tweenmax-with-react)
 - [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+- :tv: [ReactiveConf 2016 - Michel Weststrate: Immer-mutable state management](https://youtu.be/Ql8KUUUOHNc)
+- :tv: [ReactiveConf 2016 LT - Javi Velasco: Styling in React](https://youtu.be/Ibr3bNIcr_M)
+- :tv: [ReactiveConf 2016 LT - Kristjian Ristovski: Markdown + React = 💙](https://youtu.be/MM0XgD89Tr8)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
@@ -183,3 +188,4 @@
 - [Why I Test Private Functions In JavaScript](https://philipwalton.com/articles/why-i-test-private-functions-in-javascript/)
 - :tv: [Testing: Mocha, Totally Tooling Tips (S3, E11)](https://youtu.be/L48AjLVgXS4)
 - :tv: [Lighthouse, Totally Tooling Tips (S3 Mini Tip)](https://youtu.be/6LQJtH90-aA)
+- :tv: [ReactiveConf 2016 - Brian Mann: Testing the way it should be](https://youtu.be/lK_ihqnQQEM)
