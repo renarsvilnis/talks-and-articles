@@ -94,6 +94,7 @@
 - :tv: [Source Map Explorer, Totally Tooling Tips (S3, E13)](https://youtu.be/7aY9BoMEpG8)
 - :tv: [ReactiveConf 2016 - Michael Glukhovsky: Speed up app development...](https://youtu.be/uaDYba7-U2c)
 - :tv: [Object.create - Object Creation in JavaScript P6 - FunFunFunction #57](https://www.youtube.com/watch?v=CDFN1VatiJA)
+- [Short functions considered harmful: Staircase code](http://codeutopia.net/blog/2016/09/25/javascript-stumbling-blocks-staircase-code/)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
