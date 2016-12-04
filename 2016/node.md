@@ -40,4 +40,4 @@
 - [Understanding the Node.js Event Loop - Node.js at Scale](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 - [Node.js Garbage Collection Explained - Node.js at Scale](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
 - [Writing Native Node.js Modules - Node.js at Scale](https://blog.risingstack.com/writing-native-node-js-modules/)
-- [2013.12.12 MNUG - How streams help to raise Node.js performance](https://youtu.be/QgEuZ52OZtU)
+- :tv: [2013.12.12 MNUG - How streams help to raise Node.js performance](https://youtu.be/QgEuZ52OZtU)
