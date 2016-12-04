@@ -97,6 +97,8 @@
 - [Short functions considered harmful: Staircase code](http://codeutopia.net/blog/2016/09/25/javascript-stumbling-blocks-staircase-code/)
 - :tv: [Jan Jongboom: Run Your JS App For Years On A Single Coin Cell - JSConf.Asia 2016](https://youtu.be/3HLRwcVqgFE)
 - :tv: [Reasonable JavaScript](https://youtu.be/cqK18_rHt9w)
+- :tv: [How to avoid JavaScript fatigue and sleep well at night](https://youtu.be/T8Qb2fVE0rU)
+- :tv: [Sebastiaan Deckers: Bundling With H2 Server Push - JSConf.Asia 2016](https://youtu.be/BPcjN_1qsdA)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
