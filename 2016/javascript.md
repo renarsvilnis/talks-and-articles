@@ -99,6 +99,9 @@
 - :tv: [Reasonable JavaScript](https://youtu.be/cqK18_rHt9w)
 - :tv: [How to avoid JavaScript fatigue and sleep well at night](https://youtu.be/T8Qb2fVE0rU)
 - :tv: [Sebastiaan Deckers: Bundling With H2 Server Push - JSConf.Asia 2016](https://youtu.be/BPcjN_1qsdA)
+- :tv: [David Valdman: Functional Layout - Updating the DOM at 60FPS | JSConf EU 2015](https://youtu.be/biJXpv-6XVY)
+- :tv: [Marija Selakovic: Let’s make JavaScript programs faster | JSConf EU 2015](https://youtu.be/Sq4havIoQOo)
+- :tv: [Zell Liew: Animating SVGs - CSSConf.Asia 2015](https://youtu.be/6fdIva47wZE)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
