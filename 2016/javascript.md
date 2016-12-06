@@ -102,6 +102,8 @@
 - :tv: [David Valdman: Functional Layout - Updating the DOM at 60FPS | JSConf EU 2015](https://youtu.be/biJXpv-6XVY)
 - :tv: [Marija Selakovic: Let’s make JavaScript programs faster | JSConf EU 2015](https://youtu.be/Sq4havIoQOo)
 - :tv: [Zell Liew: Animating SVGs - CSSConf.Asia 2015](https://youtu.be/6fdIva47wZE)
+- :tv: [Angelina Fabbro - OSX Automation Using JavaScript - JSConfUY 2015](https://youtu.be/z1dVoqUOQpM)
+- :tv: [RAIL in the real world (Chrome Dev Summit 2015)](https://youtu.be/iIV1xPFXmBs)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`

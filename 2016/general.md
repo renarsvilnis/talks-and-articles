@@ -21,6 +21,7 @@
 - :tv: [The problem with focus - MPJ's Musings - FunFunFunction #51](https://youtu.be/_CVfNpg8TrI)
 - :tv: [Sarah Drasner - Creativity in Programming for Fun and Profit](https://youtu.be/HVtYasAhsY0)
 - :tv: [Linus Torvalds: The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux#t-344632)
+- :tv: [Chris Ward – Geek Health [Reject.JS 2015]](https://youtu.be/-AlmhhnfJ-E)
 
 ## Tech related
 - [Why We Integrated With Braintree and How It Helps Our Users](https://medium.com/@jackiemjensen/why-we-integrated-with-braintree-and-how-it-helps-our-users-3a203fb588ef#.sulsb08po)
@@ -41,6 +42,9 @@
 - :tv: [Resizing Images - Computerphile](https://youtu.be/AqscP7rc8_M)
 - :tv: [Throw out your tools - MPJ's Musings - FunFunFunction #54](https://youtu.be/hlYiWznhhzw)
 - :tv: [Leaky abstractions - MPJ's Musings - FunFunFunction #58](https://youtu.be/gRsyY0kzXfw)
+- :tv: [Soledad Penadés: Make Websites, Not Apps - CSSConf.Asia 2016](https://youtu.be/nARgq17LmBM)
+- :tv: ["Building and maintaining messenger.com" - Horia Dragomir](https://youtu.be/eWIwQFqjVxU)
+- :tv: ["Game Dev for Web Designers" - Werther Azevedo](https://youtu.be/tjnk1zjsWUY)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)
