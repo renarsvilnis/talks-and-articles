@@ -104,6 +104,9 @@
 - :tv: [Zell Liew: Animating SVGs - CSSConf.Asia 2015](https://youtu.be/6fdIva47wZE)
 - :tv: [Angelina Fabbro - OSX Automation Using JavaScript - JSConfUY 2015](https://youtu.be/z1dVoqUOQpM)
 - :tv: [RAIL in the real world (Chrome Dev Summit 2015)](https://youtu.be/iIV1xPFXmBs)
+- [TweenMax tips and tricks](https://medium.com/@nicolasdesle/tweenmax-tips-and-tricks-bbfff2d71b21)
+- :tv: ["Alice in Web Animations API Land" - Rachel Nabors](https://youtu.be/q6F-2t4mv6U)
+- :tv: ["Practical Blend Modes" - Una Kravets](https://youtu.be/4opL0dLJMGA)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
