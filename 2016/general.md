@@ -45,6 +45,8 @@
 - :tv: [Soledad Penadés: Make Websites, Not Apps - CSSConf.Asia 2016](https://youtu.be/nARgq17LmBM)
 - :tv: ["Building and maintaining messenger.com" - Horia Dragomir](https://youtu.be/eWIwQFqjVxU)
 - :tv: ["Game Dev for Web Designers" - Werther Azevedo](https://youtu.be/tjnk1zjsWUY)
+- :tv: [Sarah Drasner: Functional Animation - CSSConf.Asia 2016](https://youtu.be/HaD5z2KqcGk)
+- :tv: [Settings are evil - MPJ's Musings - FunFunFunction #62](https://youtu.be/glZ1C-Yu5tw)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)
