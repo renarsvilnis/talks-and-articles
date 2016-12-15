@@ -25,8 +25,10 @@
 - [Sass Color Variables That Don’t Suck](https://davidwalsh.name/sass-color-variables-dont-suck)
 - [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.cjyapia36)
 - [What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
+- [border-image](https://css-tricks.com/almanac/properties/b/border-image/)
 
 ## SVG
 - [Understanding SVG Coordinate Systems and Transformations (Part 1) — The viewport, viewBox, and preserveAspectRatio](https://sarasoueidan.com/blog/svg-coordinate-systems/)
  - [Understanding SVG Coordinate Systems and Transformations (Part 2) — The transform Attribute](https://sarasoueidan.com/blog/svg-transformations/)
  - [Understanding SVG Coordinate Systems and Transformations (Part 3) — Establishing New Viewports](https://sarasoueidan.com/blog/nesting-svgs/)
+- [Slicing SVG 9 Ways](https://aerotwist.com/blog/slicing-svg-9-ways/)

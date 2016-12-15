@@ -21,3 +21,4 @@
 - [Technical Web Typography: Guidelines and Techniques](https://www.smashingmagazine.com/2011/03/technical-web-typography-guidelines-and-techniques/)
 - [How to find your perfect color pairings.](http://www.vanschneider.com/how-i-find-my-perfect-color-pairings/)
 - [How To Brutalize The Web](https://medium.com/attack-the-front/how-to-brutalize-the-web-e06b22f7de57#.ooenqbiwo)
+- [How to make a logo, for free, in about 5 minutes.](https://journal.designinc.com/how-to-make-a-logo-for-free-in-about-5-minutes-a4f409176a8e)
