@@ -22,6 +22,7 @@
 - :tv: [Sarah Drasner - Creativity in Programming for Fun and Profit](https://youtu.be/HVtYasAhsY0)
 - :tv: [Linus Torvalds: The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux#t-344632)
 - :tv: [Chris Ward – Geek Health [Reject.JS 2015](https://youtu.be/-AlmhhnfJ-E)
+- [Feross Aboukhadijeh - Standard, WebTorrent, Study Notes](https://theinitialcommit.com/2016/12/13/feross-aboukhadijeh/)
 
 ## Tech related
 - [Why We Integrated With Braintree and How It Helps Our Users](https://medium.com/@jackiemjensen/why-we-integrated-with-braintree-and-how-it-helps-our-users-3a203fb588ef#.sulsb08po)

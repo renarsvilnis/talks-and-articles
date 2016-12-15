@@ -107,6 +107,9 @@
 - [TweenMax tips and tricks](https://medium.com/@nicolasdesle/tweenmax-tips-and-tricks-bbfff2d71b21)
 - :tv: ["Alice in Web Animations API Land" - Rachel Nabors](https://youtu.be/q6F-2t4mv6U)
 - :tv: ["Practical Blend Modes" - Una Kravets](https://youtu.be/4opL0dLJMGA)
+- [webpack 2.2: The Release Candidate](https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f)
+- :tv: [Kelsey Bresemann: How To Talk To Hardware - JSConf.Asia 2016](https://youtu.be/H52HezWtmm4)
+- :tv: [Raquel Vélez: Wombat-Driven Understanding - An Interactive Guide To Using npm - JSConf.Asia 2016](https://youtu.be/7MbXsRS-ZLg)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -164,6 +167,7 @@
 - :tv: [ReactiveConf 2016 - Michel Weststrate: Immer-mutable state management](https://youtu.be/Ql8KUUUOHNc)
 - :tv: [ReactiveConf 2016 LT - Javi Velasco: Styling in React](https://youtu.be/Ibr3bNIcr_M)
 - :tv: [ReactiveConf 2016 LT - Kristjian Ristovski: Markdown + React = 💙](https://youtu.be/MM0XgD89Tr8)
+- :tv: [Andrew Clark: What's Next for React — ReactNext 2016](https://youtu.be/aV1271hd9ew)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
