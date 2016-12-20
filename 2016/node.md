@@ -41,3 +41,5 @@
 - [Node.js Garbage Collection Explained - Node.js at Scale](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
 - [Writing Native Node.js Modules - Node.js at Scale](https://blog.risingstack.com/writing-native-node-js-modules/)
 - :tv: [2013.12.12 MNUG - How streams help to raise Node.js performance](https://youtu.be/QgEuZ52OZtU)
+- :tv: [ReactiveConf 2016 LT - Kristjian Ristovski: Markdown + React = 💙](https://youtu.be/MM0XgD89Tr8)
+- :tv: [Hitchhiker's Guide to"'Serverless" Javascript by Steven Faulkner, Bustle](https://youtu.be/c4rvh_Iq6LE)

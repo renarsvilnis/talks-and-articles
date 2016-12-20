@@ -111,6 +111,7 @@
 - :tv: [Kelsey Bresemann: How To Talk To Hardware - JSConf.Asia 2016](https://youtu.be/H52HezWtmm4)
 - :tv: [Raquel Vélez: Wombat-Driven Understanding - An Interactive Guide To Using npm - JSConf.Asia 2016](https://youtu.be/7MbXsRS-ZLg)
 - [The State of Babel](https://babeljs.io/blog/2016/12/07/the-state-of-babel)
+- :tv: [The Path to ES Modules by Bradley Meck, GoDaddy](https://youtu.be/kntHoKixObU)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -170,6 +171,8 @@
 - :tv: [ReactiveConf 2016 LT - Kristjian Ristovski: Markdown + React = 💙](https://youtu.be/MM0XgD89Tr8)
 - :tv: [Andrew Clark: What's Next for React — ReactNext 2016](https://youtu.be/aV1271hd9ew)
 - :tv: [Kateryna Porshnieva: ReactJS Worst Practices — ReactNext 2016](https://youtu.be/DM38Y1N_1Vc)
+- :tv: [Chengxi Li: Bootstrapping A Live Streaming React Web App - JSConf.Asia 2016](https://youtu.be/RHq6bEgeZD4)
+- :tv: [Boris Dinkevich: ReactJS: Under The Hood — ReactNext 2016](https://youtu.be/xsKYAa1ZXpQ)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
