@@ -112,6 +112,9 @@
 - :tv: [Raquel Vélez: Wombat-Driven Understanding - An Interactive Guide To Using npm - JSConf.Asia 2016](https://youtu.be/7MbXsRS-ZLg)
 - [The State of Babel](https://babeljs.io/blog/2016/12/07/the-state-of-babel)
 - :tv: [The Path to ES Modules by Bradley Meck, GoDaddy](https://youtu.be/kntHoKixObU)
+- :tv: [Khang Hoang: Vision - Improve Your Workflow - JSConf.Asia 2016](https://youtu.be/-EdJzB0O23U)
+- :tv: [Fazli Sapuan & Eugene Cheah: GPU.JS - GPU Accelerated JavaScript - JSConf.Asia 2016](https://youtu.be/nUAZxpE9s9w)
+- :tv: [James Kyle: From Zero To Binary Search Tree - JSConf.Asia 2016](https://youtu.be/bM5Wfmh9i5k)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`
@@ -130,6 +133,7 @@
 - [Handling multiple catches in promise chain](http://stackoverflow.com/questions/26076511/handling-multiple-catches-in-promise-chain)
 - [ES5 Objects vs. ES6 Maps – The differences and similarities](http://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/)
 - [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
+- [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 ## React.js + Flux*
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
