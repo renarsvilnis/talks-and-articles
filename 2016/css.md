@@ -26,6 +26,7 @@
 - [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.cjyapia36)
 - [What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
 - [border-image](https://css-tricks.com/almanac/properties/b/border-image/)
+- :tv: [dotCSS 2016 - Tim Carry - dotCSS logo in only one div](https://youtu.be/3z6JhjoG7nA)
 
 ## SVG
 - [Understanding SVG Coordinate Systems and Transformations (Part 1) — The viewport, viewBox, and preserveAspectRatio](https://sarasoueidan.com/blog/svg-coordinate-systems/)
