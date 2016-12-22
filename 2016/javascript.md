@@ -191,6 +191,7 @@
   - `cheap-module-eval-source-map` - development
   - `cheap-module-source-map` - production
 - [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.l9jtcuz80)
+- :tv: [Code-splitting your way to better perf with Webpack in Totally Tooling Tips (S3, E15)](https://youtu.be/QH94CXVv3UE)
 
 ## GraphQL
 - :tv: [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
@@ -215,3 +216,4 @@
 - :tv: [Testing: Mocha, Totally Tooling Tips (S3, E11)](https://youtu.be/L48AjLVgXS4)
 - :tv: [Lighthouse, Totally Tooling Tips (S3 Mini Tip)](https://youtu.be/6LQJtH90-aA)
 - :tv: [ReactiveConf 2016 - Brian Mann: Testing the way it should be](https://youtu.be/lK_ihqnQQEM)
+- :tv: [Selenium, Totally Tooling Tips (S3, E14)](https://youtu.be/M6VcneC2pI0)
