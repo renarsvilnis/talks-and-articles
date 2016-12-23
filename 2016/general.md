@@ -52,6 +52,7 @@
 - :tv: [Michael Mifsud: Real World HTTP/2 - CSSConf.Asia 2016](https://youtu.be/3WIDa5-bPDs)
 - :tv: [HTTP/2 is Here, Let's Optimize! Ilya Grigorik 20150715](https://youtu.be/ouIK1S0KdJE)
 - :tv: [Marco Cecconi: High Performance Architecture Of Stack Overflow - JSConf.Asia 2016](https://youtu.be/uNVlQ1yPsto)
+- [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)

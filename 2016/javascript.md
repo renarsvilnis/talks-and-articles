@@ -177,6 +177,7 @@
 - :tv: [Kateryna Porshnieva: ReactJS Worst Practices — ReactNext 2016](https://youtu.be/DM38Y1N_1Vc)
 - :tv: [Chengxi Li: Bootstrapping A Live Streaming React Web App - JSConf.Asia 2016](https://youtu.be/RHq6bEgeZD4)
 - :tv: [Boris Dinkevich: ReactJS: Under The Hood — ReactNext 2016](https://youtu.be/xsKYAa1ZXpQ)
+- :tv: [ReactNL 2016 Max Stoiber - Styling React.JS applications](https://youtu.be/19gqsBc_Cx0)
 
 ## Webpack
 - [Why Can’t Anyone Write a Simple Webpack Tutorial?](https://medium.com/@dtothefp/why-can-t-anyone-write-a-simple-webpack-tutorial-d0b075db35ed#.z57dia63q)
@@ -217,3 +218,4 @@
 - :tv: [Lighthouse, Totally Tooling Tips (S3 Mini Tip)](https://youtu.be/6LQJtH90-aA)
 - :tv: [ReactiveConf 2016 - Brian Mann: Testing the way it should be](https://youtu.be/lK_ihqnQQEM)
 - :tv: [Selenium, Totally Tooling Tips (S3, E14)](https://youtu.be/M6VcneC2pI0)
+- :tv: ["Testing React Applications" with Max Stoiber](https://youtu.be/59Ndb3YkLKA)
