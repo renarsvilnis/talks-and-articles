@@ -23,6 +23,7 @@
 - :tv: [Linus Torvalds: The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux#t-344632)
 - :tv: [Chris Ward – Geek Health [Reject.JS 2015](https://youtu.be/-AlmhhnfJ-E)
 - [Feross Aboukhadijeh - Standard, WebTorrent, Study Notes](https://theinitialcommit.com/2016/12/13/feross-aboukhadijeh/)
+- :tv: [Alex Gouaillard & Daniel Burnett: Evolution Of The Web - JSConf.Asia 2016](https://youtu.be/KfDuDfXsZCs)
 
 ## Tech related
 - [Why We Integrated With Braintree and How It Helps Our Users](https://medium.com/@jackiemjensen/why-we-integrated-with-braintree-and-how-it-helps-our-users-3a203fb588ef#.sulsb08po)
@@ -49,6 +50,8 @@
 - :tv: [Sarah Drasner: Functional Animation - CSSConf.Asia 2016](https://youtu.be/HaD5z2KqcGk)
 - :tv: [Settings are evil - MPJ's Musings - FunFunFunction #62](https://youtu.be/glZ1C-Yu5tw)
 - :tv: [Michael Mifsud: Real World HTTP/2 - CSSConf.Asia 2016](https://youtu.be/3WIDa5-bPDs)
+- :tv: [HTTP/2 is Here, Let's Optimize! Ilya Grigorik 20150715](https://youtu.be/ouIK1S0KdJE)
+- :tv: [Marco Cecconi: High Performance Architecture Of Stack Overflow - JSConf.Asia 2016](https://youtu.be/uNVlQ1yPsto)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)
