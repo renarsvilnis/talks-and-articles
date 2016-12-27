@@ -194,6 +194,9 @@
   - `cheap-module-source-map` - production
 - [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.l9jtcuz80)
 - :tv: [Code-splitting your way to better perf with Webpack in Totally Tooling Tips (S3, E15)](https://youtu.be/QH94CXVv3UE)
+- [Progressive Web Apps with React.js: Part I — Introduction](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
+- [Progressive Web Apps with React.js: Part 2 — Page Load Performance](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2)
+- [Code Splitting for React Router with ES6 Imports](http://moduscreate.com/code-splitting-for-react-router-with-es6-imports/)
 
 ## GraphQL
 - :tv: [Zero to GraphQL in 30 Minutes – Steven Luscher](https://youtu.be/UBGzsb2UkeY)
