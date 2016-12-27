@@ -27,6 +27,8 @@
 - [What You Should Know About Collapsing Margins](https://css-tricks.com/what-you-should-know-about-collapsing-margins/)
 - [border-image](https://css-tricks.com/almanac/properties/b/border-image/)
 - :tv: [dotCSS 2016 - Tim Carry - dotCSS logo in only one div](https://youtu.be/3z6JhjoG7nA)
+- [Background Segment Effect](https://tympanus.net/codrops/2016/09/21/background-segment-effect-with-css-clip/)
+- [Transition Effect with CSS Masks](https://tympanus.net/codrops/2016/09/29/transition-effect-with-css-masks/)
 
 ## SVG
 - [Understanding SVG Coordinate Systems and Transformations (Part 1) — The viewport, viewBox, and preserveAspectRatio](https://sarasoueidan.com/blog/svg-coordinate-systems/)
