@@ -115,6 +115,7 @@
 - :tv: [Khang Hoang: Vision - Improve Your Workflow - JSConf.Asia 2016](https://youtu.be/-EdJzB0O23U)
 - :tv: [Fazli Sapuan & Eugene Cheah: GPU.JS - GPU Accelerated JavaScript - JSConf.Asia 2016](https://youtu.be/nUAZxpE9s9w)
 - :tv: [James Kyle: From Zero To Binary Search Tree - JSConf.Asia 2016](https://youtu.be/bM5Wfmh9i5k)
+- :tv: [Lian Li: Applying The Magic Of Neural Networks - JSConf.Asia 2016](https://youtu.be/rZ_8xTX1LU4)
 
 ## ES6+
 - [How to escape Promise Hell](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513#.mi0yt7vvz) - `This is a key thing to understand about Promises, they are only ever resolved once per creation.`

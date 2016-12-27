@@ -53,6 +53,9 @@
 - :tv: [HTTP/2 is Here, Let's Optimize! Ilya Grigorik 20150715](https://youtu.be/ouIK1S0KdJE)
 - :tv: [Marco Cecconi: High Performance Architecture Of Stack Overflow - JSConf.Asia 2016](https://youtu.be/uNVlQ1yPsto)
 - [Learn to Code: 13 Tips that Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
+- [Getting Started with HTTP/2: Part 1](https://www.viget.com/articles/getting-started-with-http-2-part-1)
+- [Getting Started with HTTP/2: Part 2](https://www.viget.com/articles/getting-started-with-http-2-part-2)
+- :notebook: [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.8a6th09ey)
 
 ## Useless/Hilarous
 - :tv: [Here's What Happens When an 18 Year Old Buys a Mainframe](https://youtu.be/45X4VP8CGtk)
