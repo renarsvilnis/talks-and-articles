@@ -1,6 +1,3 @@
-## JavaScript
-All Javascript related articles.
-
 - [MVC Architecture](https://developer.chrome.com/apps/app_frameworks)
 - [Building a desktop application with Electron](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) - fundementals behind building an electron app, structuring files, communicating between windows and processes.
 - [DevTools Tips For Sublime Text Users](https://medium.com/@addyosmani/devtools-tips-for-sublime-text-users-cdd559ee80f8) - usefull keyboard shortcuts or less known features of Chrome dev tools.
@@ -60,7 +57,7 @@ All Javascript related articles.
 - [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.le3jzsine)
 - [Why semver ranges are literally the worst…](https://medium.com/@kentcdodds/why-semver-ranges-are-literally-the-worst-817cdcb09277#.9sk236lr1)
 
-### ES6 (ES2015)
+### ES2015+
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) - about es2015 modules.
 - :tv: [Javascript ES6 Cheatsheet #1 - the best of JS ES6](https://www.youtube.com/watch?v=AfWYO8t7ed4) - an authors thoughts on usefull ES6 features. Very usefull about destructing function variables in fucntions `funcion calcDim({width, heigth, max:25}){...}` that can be called by `calcDim({width: 10, height: 240})` or `calcDim({width: 10, height: 240, max: 14})` and template strings.
 - :tv: [Javascript ES6 Cheatsheet #2 - the best of JS ES6](https://youtu.be/LmL0Gh193M0) - about `let`, `const`, `class`, arrow functions and modules. Great tutorial, but nothing new for me.
@@ -74,11 +71,9 @@ All Javascript related articles.
 - [JavaScript ES6+: var, let, or const?](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 - [Configuring Babel 6](http://www.2ality.com/2015/11/configuring-babel6.html)
 - [ES6 Workshop](http://slides.com/kentcdodds/es6-workshop) - `Set` - solution for "unique items in an array" problem, `Map` - like objects + non-string keys, `WeakMap` - liek object + non-string keys, but no `(let i of l)` and less functions.
-
-### ES2016
 - :notebook: [Exploring ES2016 Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) - wrapper functions that can go on classe methods on class itselfs. It is possible to use multiple decorators for a single class, class-method.
 
-### React and Flux*
+### React
 - [Stop Using React for EVERYTHING!](https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644)
 - [React Native In Production](https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad)
 - [Smart and Dumb Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
@@ -145,7 +140,7 @@ All Javascript related articles.
 - :tv: [Google: What's next for WebRTC?](https://youtu.be/HCE3S1E5UwY) - about future of WebRTC - defining open codes, `getUserMedia` only on https, massive performance increase on mobile devices and desktop.
 - :tv: [Decisions & considerations in building your WebRTC app](https://youtu.be/HJU15kH5z3k) - about regular automated tests that check system availability, debugging WebRTC apps.
 
-### WebPack
+### Webpack
 - [Backend Apps with Webpack (Part I)](http://jlongster.com/Backend-Apps-with-Webpack--Part-I) - part 1 on a guide for using WebPack for backend apps. Goes a little on how webpack works. Don't get it why you should webpack backend apps and so does [hackernews](https://news.ycombinator.com/item?id=9212088)
 - [Beginner’s guide to Webpack](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460) - things the author wished he knew when started with WebPack. Writes about defining configs, watching files, using `webpack-dev-server`, loads (*allow you to preprocess files as you require() or “load” them, example ES6 to ES5 transpile*) and preloaders (*they run before loaders, example linting*). Writes also about bundling ES6 files and adding react into the mix.
 - [Browserify VS Webpack - JS Drama](http://blog.namangoel.com/browserify-vs-webpack-js-drama) - writes about differences and philosophies of Browserify and WebPack. Mentions how adding CSS, [`urify-emitter`](https://www.npmjs.com/package/urify-emitter), bundle splitting and react hot-loading is done withing each of the tools.

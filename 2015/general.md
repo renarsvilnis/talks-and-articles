@@ -1,4 +1,5 @@
 ## Non-Tech related
+
 - [How to Pair Program](https://medium.com/@dickeyxxx/how-to-pair-program-d6741077e513) - a guide about getting into pair programming, what to look for or avoid
 - :tv: [dotJS 2012 - Fat - What Is Open Source & Why Do I Feel So Guilty?](https://www.youtube.com/watch?v=UIDb6VBO9os) - about the history of open source
 - [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017) - developers quickly jump from firm to firm due to salary race, most engineers are terrible at interviewing candidates. For a identifying good coders before interview look up their portfolio and accomplishments, github and stackoverflow profile and their resume (show don't tell, links for proof).
@@ -11,7 +12,7 @@
 - [Don’t Sign That Contract! Developer Job Deal Breakers](https://medium.com/javascript-scene/don-t-sign-that-contract-developer-job-deal-breakers-346c2685a109#.r9rndvi3v) - you have leverage to alter the employment agreement, try to avoid  non compete clauses or let them be very specific, take a look at IP ownership.
 - [Four phrases NOT to use on your startup job application](https://medium.com/jobbatical-blog/four-phrases-not-to-use-on-your-startup-job-application-506cfecdcf46#.uvfqp5geg) - Be personal `Dear [Founder’s Name]` or `Hello [Startup Name] Team`, be specific why them or why that city, understand their vision.
 - [The Single Biggest Mistake Programmers Make Every Day](https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308#.a36yulwlx) - Keep It Stupid Simple (KISS), Make it work, make it right, make it fast, Understand the problem. (Know what “make it work” means.), Begin at the beginning, Start with tests, Do One Thing (DOT), Start small and iterate, Pure function > Function > Factory > Class.
-- [Why is it so hard to find a good front end developer?](https://medium.com/creative-business/why-is-it-so-hard-to-find-a-front-end-developer-cb92848a7c6f?ref=webdesignernews.com) 
+- [Why is it so hard to find a good front end developer?](https://medium.com/creative-business/why-is-it-so-hard-to-find-a-front-end-developer-cb92848a7c6f?ref=webdesignernews.com)
 - :tv: [Nobody Wants Junior Engineers](https://youtu.be/ccxrFmIEAmQ) - market yourself in a upcoming technology as you can become a senior in it in a very short time and with very we comptetition can increase salaries.
 - [Love Your Haters](https://medium.com/@vanschneider/love-your-haters-505506f71161#.k4ff4i4cc)
 - [How getting into Open Source has been awesome for me](https://medium.com/@kentcdodds/how-getting-into-open-source-has-been-awesome-for-me-8480cd756a80#.gm5efw7rs)
@@ -22,6 +23,7 @@
 - [Charlie Robbins - JSConf changed my life - JSConf US 2015](https://youtu.be/NrmUU_Dzqqo)
 
 ## Tech related
+
 - :tv: [Sebastian Markbage: Minimal API Surface Area | JSConf EU 2014](https://youtu.be/4anAwXYqLG8) - about writing manageable code by using less libraries in favour of pollyfills and standarts, only use abstractions when it would help solve bugs. He talks about writing explicitly repetitive code, which I don't agree 100%.
 - [File Caching: Query string vs Last-Modified?](http://stackoverflow.com/a/23604412) - comparing 3 methods - no caching or disabled, using validation (Last-Modified), caching forever (Query string)
 - [Signing in to Medium by email](https://medium.com/the-story/signing-in-to-medium-by-email-aacc21134fcd) - aobut how and why medium created email only login.

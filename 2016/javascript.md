@@ -136,7 +136,7 @@
 - [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
 - [How to write async await without try-catch blocks in Javascript](http://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
-## React.js + Flux*
+## React
 - [Welcome to Future of Web Application Delivery](https://medium.com/@ryanflorence/welcome-to-future-of-web-application-delivery-9750b7564d9f#.k1uu0mpuo)
 - [Angular 2 versus React: There Will Be Blood](https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.ybrh3frlf)
 - [Flux in Depth. Overview and Components.](http://blog.mgechev.com/2015/05/15/flux-in-depth-overview-components/)
