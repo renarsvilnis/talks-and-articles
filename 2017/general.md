@@ -8,3 +8,6 @@
 - :tv: [Code duplication vs generalisation - Q&A P3 - Fun Fun Function](https://youtu.be/H5FdjjEjdZ4)
 
 ## Useless/Hilarous
+
+## Algorithms
+- :tv: [Dijkstra's Algorithm - Computerphile](https://youtu.be/GazC3A4OQTE)
