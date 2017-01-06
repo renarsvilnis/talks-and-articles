@@ -7,6 +7,7 @@
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
 - :tv: [The best framework - Q&A P2 - Fun Fun Function](https://youtu.be/Bua8k_CcnuI)
 - :tv: [Code duplication vs generalisation - Q&A P3 - Fun Fun Function](https://youtu.be/H5FdjjEjdZ4)
+- :tv: [Introduction to Operating Systems](https://youtu.be/MzVGL44eq9w)
 
 ## Useless/Hilarous
 

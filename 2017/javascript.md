@@ -4,6 +4,7 @@
 - [The top rising JavaScript trends to watch in 2017](https://medium.com/commit-push/the-top-rising-javascript-trends-to-watch-in-2017-86d8e87db3b3)
 - [Promise Cancellation Is Dead — Long Live Promise Cancellation!](https://medium.com/@benlesh/promise-cancellation-is-dead-long-live-promise-cancellation-c6601f1f5082)
 - [LazyDOM — an experiment to bring virtual DOM to the browser natively](https://medium.com/@jayphelps/lazydom-an-experiment-to-bring-virtual-dom-to-the-browser-natively-6a2f47096aca)
+- :tv: [Gabe Hollombe: Let's Make a Game With Phaser - JSConf.Asia 2014](https://youtu.be/6rQROhVeIQE)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
