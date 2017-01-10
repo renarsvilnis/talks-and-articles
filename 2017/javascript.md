@@ -9,3 +9,6 @@
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
 - [🌟 When everything's important, nothing is! 🌟](https://aerotwist.com/blog/when-everything-is-important-nothing-is/)
+- :tv: [Patrick Stapfer - Manage side-effects efficiently with Redux Saga at react-europe 2016](https://youtu.be/QJVdcIlqGwc)
+- :tv: [Phoenix ReactJS - Redux Saga with Eric McKay](https://youtu.be/hfrnlxIZm3E)
+- [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
