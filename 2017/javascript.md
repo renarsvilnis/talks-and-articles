@@ -12,3 +12,7 @@
 - :tv: [Patrick Stapfer - Manage side-effects efficiently with Redux Saga at react-europe 2016](https://youtu.be/QJVdcIlqGwc)
 - :tv: [Phoenix ReactJS - Redux Saga with Eric McKay](https://youtu.be/hfrnlxIZm3E)
 - [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
+- [React at 60fps](https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c#.6utpst2e2)
+
+## Webpack
+- [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
