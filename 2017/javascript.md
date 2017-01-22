@@ -5,6 +5,7 @@
 - [Promise Cancellation Is Dead — Long Live Promise Cancellation!](https://medium.com/@benlesh/promise-cancellation-is-dead-long-live-promise-cancellation-c6601f1f5082)
 - [LazyDOM — an experiment to bring virtual DOM to the browser natively](https://medium.com/@jayphelps/lazydom-an-experiment-to-bring-virtual-dom-to-the-browser-natively-6a2f47096aca)
 - :tv: [Gabe Hollombe: Let's Make a Game With Phaser - JSConf.Asia 2014](https://youtu.be/6rQROhVeIQE)
+- :tv: [dotJS 2016 - Christophe Porteneuve - Tuning Babel to your runtimes](https://youtu.be/fb_1cqg8TKc)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
@@ -20,3 +21,4 @@
 ## Testing
 - :tv: [The BEST way to do mocking - FunFunFunction #8](https://youtu.be/fgqh-OZjpYY)
 - :tv: [Unit tests vs. Integration tests - MPJ's Musings - FunFunFunction #55](https://youtu.be/vqAaMVoKz1c)
+- :tv: [Gil Tayar: An Ode to Node: Testing Frontend the Backend Way — ReactNext 2016](https://youtu.be/hRVD78I3Fo0)
