@@ -16,3 +16,7 @@
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
+
+## Testing
+- :tv: [The BEST way to do mocking - FunFunFunction #8](https://youtu.be/fgqh-OZjpYY)
+- :tv: [Unit tests vs. Integration tests - MPJ's Musings - FunFunFunction #55](https://youtu.be/vqAaMVoKz1c)
