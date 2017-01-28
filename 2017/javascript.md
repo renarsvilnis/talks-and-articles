@@ -14,6 +14,7 @@
 - :tv: [Phoenix ReactJS - Redux Saga with Eric McKay](https://youtu.be/hfrnlxIZm3E)
 - [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
 - [React at 60fps](https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c#.6utpst2e2)
+- [React Elements VS React Components](https://medium.freecodecamp.com/react-elements-vs-react-components-fdc776705880#.vgu0hz4nf)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
@@ -22,3 +23,5 @@
 - :tv: [The BEST way to do mocking - FunFunFunction #8](https://youtu.be/fgqh-OZjpYY)
 - :tv: [Unit tests vs. Integration tests - MPJ's Musings - FunFunFunction #55](https://youtu.be/vqAaMVoKz1c)
 - :tv: [Gil Tayar: An Ode to Node: Testing Frontend the Backend Way — ReactNext 2016](https://youtu.be/hRVD78I3Fo0)
+- [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.70k1zvhmv)
+- [BDD is a subclass of TDD](https://medium.com/@_ericelliott/bdd-is-a-subclass-of-tdd-and-is-more-similar-to-atdd-acceptance-test-driven-development-where-16a2dee95116#.v5fkucaq8)
