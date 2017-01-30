@@ -6,6 +6,7 @@
 - [LazyDOM — an experiment to bring virtual DOM to the browser natively](https://medium.com/@jayphelps/lazydom-an-experiment-to-bring-virtual-dom-to-the-browser-natively-6a2f47096aca)
 - :tv: [Gabe Hollombe: Let's Make a Game With Phaser - JSConf.Asia 2014](https://youtu.be/6rQROhVeIQE)
 - :tv: [dotJS 2016 - Christophe Porteneuve - Tuning Babel to your runtimes](https://youtu.be/fb_1cqg8TKc)
+- :tv: [Inversion of Control - Fun Fun Function](https://youtu.be/-kpEP4JeEdc)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
