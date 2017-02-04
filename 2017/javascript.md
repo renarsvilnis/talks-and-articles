@@ -7,6 +7,8 @@
 - :tv: [Gabe Hollombe: Let's Make a Game With Phaser - JSConf.Asia 2014](https://youtu.be/6rQROhVeIQE)
 - :tv: [dotJS 2016 - Christophe Porteneuve - Tuning Babel to your runtimes](https://youtu.be/fb_1cqg8TKc)
 - :tv: [Inversion of Control - Fun Fun Function](https://youtu.be/-kpEP4JeEdc)
+- :tv: [Media Player #1](https://youtu.be/--KA2VrPDao)
+- :tv: [Media Player #2](https://youtu.be/Q6iXH4obXKY)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
@@ -16,6 +18,7 @@
 - [Server-Side Rendering With React, Node And Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
 - [React at 60fps](https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c#.6utpst2e2)
 - [React Elements VS React Components](https://medium.freecodecamp.com/react-elements-vs-react-components-fdc776705880#.vgu0hz4nf)
+- [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/blob/master/react/README.md)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
