@@ -9,6 +9,7 @@
 - :tv: [Inversion of Control - Fun Fun Function](https://youtu.be/-kpEP4JeEdc)
 - :tv: [Media Player #1](https://youtu.be/--KA2VrPDao)
 - :tv: [Media Player #2](https://youtu.be/Q6iXH4obXKY)
+- [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
@@ -19,6 +20,10 @@
 - [React at 60fps](https://medium.com/@okonetchnikov/react-at-60fps-4e36b8189a4c#.6utpst2e2)
 - [React Elements VS React Components](https://medium.freecodecamp.com/react-elements-vs-react-components-fdc776705880#.vgu0hz4nf)
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/blob/master/react/README.md)
+- :tv: [17. React Redux with Dan Abramov](https://youtu.be/VJ38wSFbM3A)
+- [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.y6zl2vjv1)
+- [Fractal Project Structure](https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure)
+- [Folder Structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
