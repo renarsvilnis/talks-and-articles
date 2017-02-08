@@ -4,6 +4,7 @@
 - [What Apple gives you for $100 as a Safari Extension Developer — and why Reddit Enhancement Suite may cease support for Safari](https://medium.com/@honestbleeps/what-apple-gives-you-for-100-as-a-safari-extension-developer-and-why-reddit-enhancement-suite-6e2d829c2e52#.hj117n7z6)
 - :tv: [Open Source lacks accountability - MPJ's Musings - FunFunFunction](https://youtu.be/fGqUzrs09vs)
 - :tv: [Self-discipline is a fraud - MPJ's Musings - Fun Fun Function](https://youtu.be/kI5FYpwZMXU)
+- :tv: [Mission Clarity when leading software teams - MPJ's Musings - Fun Fun Function](https://youtu.be/XQCsOymE2mE)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
