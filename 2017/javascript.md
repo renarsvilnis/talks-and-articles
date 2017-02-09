@@ -10,6 +10,7 @@
 - :tv: [Media Player #1](https://youtu.be/--KA2VrPDao)
 - :tv: [Media Player #2](https://youtu.be/Q6iXH4obXKY)
 - [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
+- :tv: [Media Player #3](https://youtu.be/P95ZDIzjg0Q)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)

@@ -15,5 +15,6 @@
 
 ## Useless/Hilarous
 
-## Algorithms
+## Algorithms/Computer Science
 - :tv: [Dijkstra's Algorithm - Computerphile](https://youtu.be/GazC3A4OQTE)
+- :tv: [Multiple Dimension Error Correction](https://youtu.be/1_X-7BgHbE0)
