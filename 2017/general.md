@@ -12,6 +12,8 @@
 - :tv: [Code duplication vs generalisation - Q&A P3 - Fun Fun Function](https://youtu.be/H5FdjjEjdZ4)
 - :tv: [Introduction to Operating Systems](https://youtu.be/MzVGL44eq9w)
 - :tv: [Dependency Injection basics- Fun Fun Function](https://youtu.be/0X1Ns2NRfks)
+- [DOOM (2016) - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
+- [Concurrency and Parallelism: Understanding I/O](https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/)
 
 ## Useless/Hilarous
 

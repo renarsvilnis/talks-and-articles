@@ -11,6 +11,15 @@
 - :tv: [Media Player #2](https://youtu.be/Q6iXH4obXKY)
 - [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 - :tv: [Media Player #3](https://youtu.be/P95ZDIzjg0Q)
+- [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html)
+
+## Node
+- [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
+- [When node.js is the wrong tool for the job](https://medium.com/@jongleberry/when-node-js-is-the-wrong-tool-for-the-job-6d3325fac85c#.xmthr8tl0)
+- [Node.js Best Practices - How to Become a Better Developer in 2017](https://blog.risingstack.com/node-js-best-practices-2017/)
+- :tv: [Surviving Web Security Using Node.js by Gergely Nemeth, RisingStack](https://youtu.be/80LbyikAUqI)
+- [The 21 Most Awesome Awesome Lists for Node.js Developers](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developerscrea)
+- [An Update on ES6 Modules in Node.js](https://medium.com/@jasnell/an-update-on-es6-modules-in-node-js-42c958b890c#.lb8n588l1)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
@@ -25,6 +34,7 @@
 - [How to better organize your React applications?](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.y6zl2vjv1)
 - [Fractal Project Structure](https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure)
 - [Folder Structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
+- [Handling outside events with the Redux Listener Pattern](https://community.risingstack.com/handling-outside-events-with-the-redux-listener-pattern)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
@@ -35,3 +45,4 @@
 - :tv: [Gil Tayar: An Ode to Node: Testing Frontend the Backend Way — ReactNext 2016](https://youtu.be/hRVD78I3Fo0)
 - [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.70k1zvhmv)
 - [BDD is a subclass of TDD](https://medium.com/@_ericelliott/bdd-is-a-subclass-of-tdd-and-is-more-similar-to-atdd-acceptance-test-driven-development-where-16a2dee95116#.v5fkucaq8)
+- [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
