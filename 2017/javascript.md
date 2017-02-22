@@ -12,6 +12,7 @@
 - [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
 - :tv: [Media Player #3](https://youtu.be/P95ZDIzjg0Q)
 - [JavaScript in parallel](http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html)
+- :tv: [9.16: Prototypes in Javascript - p5.js Tutorial](https://youtu.be/hS_WqkyUah8)
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
