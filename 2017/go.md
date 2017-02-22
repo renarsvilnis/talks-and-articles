@@ -1,0 +1,1 @@
+- :tv: [dotGo 2016 - Simone Carletti - Using Go to Guide API Design Decisions](https://youtu.be/NWNEjC4Y4X4)

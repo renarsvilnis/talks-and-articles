@@ -5,6 +5,7 @@
 - :tv: [Open Source lacks accountability - MPJ's Musings - FunFunFunction](https://youtu.be/fGqUzrs09vs)
 - :tv: [Self-discipline is a fraud - MPJ's Musings - Fun Fun Function](https://youtu.be/kI5FYpwZMXU)
 - :tv: [Mission Clarity when leading software teams - MPJ's Musings - Fun Fun Function](https://youtu.be/XQCsOymE2mE)
+:tv: [https://youtu.be/Jxp0UcT_T68](https://youtu.be/Jxp0UcT_T68)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
@@ -14,6 +15,7 @@
 - :tv: [Dependency Injection basics- Fun Fun Function](https://youtu.be/0X1Ns2NRfks)
 - [DOOM (2016) - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [Concurrency and Parallelism: Understanding I/O](https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/)
+- :tv: [Under the Hood of Blizzard's Internal Build System](https://youtu.be/Jxp0UcT_T68)
 
 ## Useless/Hilarous
 
