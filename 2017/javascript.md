@@ -22,6 +22,8 @@
 - :tv: [Surviving Web Security Using Node.js by Gergely Nemeth, RisingStack](https://youtu.be/80LbyikAUqI)
 - [The 21 Most Awesome Awesome Lists for Node.js Developers](https://nodesource.com/blog/the-21-most-awesome-awesome-lists-for-node-js-developerscrea)
 - [An Update on ES6 Modules in Node.js](https://medium.com/@jasnell/an-update-on-es6-modules-in-node-js-42c958b890c#.lb8n588l1)
+- [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis)
+- [Node 6 at Wikimedia: Stability and substantial memory savings](https://blog.wikimedia.org/2017/02/17/node-6-wikimedia/)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
