@@ -5,7 +5,7 @@
 - :tv: [Open Source lacks accountability - MPJ's Musings - FunFunFunction](https://youtu.be/fGqUzrs09vs)
 - :tv: [Self-discipline is a fraud - MPJ's Musings - Fun Fun Function](https://youtu.be/kI5FYpwZMXU)
 - :tv: [Mission Clarity when leading software teams - MPJ's Musings - Fun Fun Function](https://youtu.be/XQCsOymE2mE)
-:tv: [https://youtu.be/Jxp0UcT_T68](https://youtu.be/Jxp0UcT_T68)
+- :tv: [Staying Productive - MPJ's Musings - Fun Fun Function](https://youtu.be/Q-rKO2q8BGg)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
@@ -22,3 +22,5 @@
 ## Algorithms/Computer Science
 - :tv: [Dijkstra's Algorithm - Computerphile](https://youtu.be/GazC3A4OQTE)
 - :tv: [Multiple Dimension Error Correction](https://youtu.be/1_X-7BgHbE0)
+- :tv: [Maze Solving - Computerphile](https://youtu.be/rop0W4QDOUI)
+- :tv: [A* (A Star) Search Algorithm - Computerphile](https://youtu.be/ySN5Wnu88nE)
