@@ -21,6 +21,7 @@
 - [JavaScript Start-up Performance](https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201#.y789eeojy)
 - :tv: [Building a Media Player #6](https://youtu.be/YEJBmmqXUQs)
 - :tv: [Building a Media Player #7](https://youtu.be/kLlPYtQeQQ8)
+- :tv: [Building a Media Player #8](https://youtu.be/dqAar3pCZBQ)
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -46,6 +47,8 @@
 - [Fractal Project Structure](https://github.com/davezuko/react-redux-starter-kit/wiki/Fractal-Project-Structure)
 - [Folder Structure](https://gist.github.com/ryanflorence/daafb1e3cb8ad740b346)
 - [Handling outside events with the Redux Listener Pattern](https://community.risingstack.com/handling-outside-events-with-the-redux-listener-pattern)
+- [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.3unfc68dy)
+- [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8#.3kdbvrpaw)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)

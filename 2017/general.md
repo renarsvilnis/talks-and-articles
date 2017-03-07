@@ -6,6 +6,7 @@
 - :tv: [Self-discipline is a fraud - MPJ's Musings - Fun Fun Function](https://youtu.be/kI5FYpwZMXU)
 - :tv: [Mission Clarity when leading software teams - MPJ's Musings - Fun Fun Function](https://youtu.be/XQCsOymE2mE)
 - :tv: [Staying Productive - MPJ's Musings - Fun Fun Function](https://youtu.be/Q-rKO2q8BGg)
+- :tv: [Coding and Cooking - MPJ's Musings - Fun Fun Function](https://youtu.be/FSbImq-uzFk)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
