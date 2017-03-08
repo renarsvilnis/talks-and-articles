@@ -17,6 +17,7 @@
 - [DOOM (2016) - Graphics Study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [Concurrency and Parallelism: Understanding I/O](https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/)
 - :tv: [Under the Hood of Blizzard's Internal Build System](https://youtu.be/Jxp0UcT_T68)
+- :tv: [Reducing Slack’s memory footprint](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
 
 ## Useless/Hilarous
 

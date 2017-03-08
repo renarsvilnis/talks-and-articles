@@ -49,6 +49,8 @@
 - [Handling outside events with the Redux Listener Pattern](https://community.risingstack.com/handling-outside-events-with-the-redux-listener-pattern)
 - [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.3unfc68dy)
 - [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8#.3kdbvrpaw)
+- :notepad: [Optimizing the Performance of Your React Application](https://auth0.com/blog/optimizing-react/)
+- [Testing React Components Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.iutut6rp2)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
