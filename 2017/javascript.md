@@ -22,6 +22,8 @@
 - :tv: [Building a Media Player #6](https://youtu.be/YEJBmmqXUQs)
 - :tv: [Building a Media Player #7](https://youtu.be/kLlPYtQeQQ8)
 - :tv: [Building a Media Player #8](https://youtu.be/dqAar3pCZBQ)
+- [Building Google Maps on WebGL](https://docs.google.com/presentation/d/1-48rrT5PdUwCdTPuznmRT49nZkTJDhciZ0nLrLMOwtg/preview?slide=id.gc6f73a04f_0_0)
+- [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.xjjv3hs3b)
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
