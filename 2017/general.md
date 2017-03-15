@@ -7,6 +7,7 @@
 - :tv: [Mission Clarity when leading software teams - MPJ's Musings - Fun Fun Function](https://youtu.be/XQCsOymE2mE)
 - :tv: [Staying Productive - MPJ's Musings - Fun Fun Function](https://youtu.be/Q-rKO2q8BGg)
 - :tv: [Coding and Cooking - MPJ's Musings - Fun Fun Function](https://youtu.be/FSbImq-uzFk)
+- :tv: [Declarative programming - Fun Fun Function](https://youtu.be/yGh0bjzj4IQ)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
