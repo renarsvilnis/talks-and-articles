@@ -53,6 +53,7 @@
 - [Our Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8#.3kdbvrpaw)
 - :notepad: [Optimizing the Performance of Your React Application](https://auth0.com/blog/optimizing-react/)
 - [Testing React Components Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.iutut6rp2)
+- :tv: [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
