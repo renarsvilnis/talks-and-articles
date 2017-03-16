@@ -24,6 +24,9 @@
 - :tv: [Building a Media Player #8](https://youtu.be/dqAar3pCZBQ)
 - [Building Google Maps on WebGL](https://docs.google.com/presentation/d/1-48rrT5PdUwCdTPuznmRT49nZkTJDhciZ0nLrLMOwtg/preview?slide=id.gc6f73a04f_0_0)
 - [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.xjjv3hs3b)
+- :tv: [Jared Forsyth - Type Systems Will Make You a Better JavaScript Developer - React Conf 2017](https://youtu.be/V1po0BT7kac)
+- :tv: [⚡️ - Andres Suarez - Moving Fast with Nuclide and Flow - React Conf 2017](https://youtu.be/WRyk5ZVklFs)
+- :tv: [Chrome 57: Grid based layouts, Media Session API and more](https://youtu.be/57Scec2XPd0)
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -54,6 +57,9 @@
 - :notepad: [Optimizing the Performance of Your React Application](https://auth0.com/blog/optimizing-react/)
 - [Testing React Components Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.iutut6rp2)
 - :tv: [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
+- :tv: [Neehar Venugopal - A Beginner's Guide to Code Splitting Your React App - React Conf 2017](https://youtu.be/bb6RCrDaxhw)
+- :tv: [⚡️ - Samer Buna - You Don't Need a Fancy Framework to Use GraphQL w/ React - React Conf 2017](https://youtu.be/M4JqfZ-WaI0)
+- :tv: [⚡️ - Sophia Shoemaker - AWS Lambda + AWS Gateway + React = AWEsome - React Conf 2017](https://youtu.be/GuItxBkpIAQ)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
