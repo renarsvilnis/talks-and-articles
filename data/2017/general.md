@@ -27,3 +27,4 @@
 - :tv: [Multiple Dimension Error Correction](https://youtu.be/1_X-7BgHbE0)
 - :tv: [Maze Solving - Computerphile](https://youtu.be/rop0W4QDOUI)
 - :tv: [A* (A Star) Search Algorithm - Computerphile](https://youtu.be/ySN5Wnu88nE)
+- :tv: [The Four Color Map Theorem - Numberphile](https://youtu.be/NgbK43jB4rQ)

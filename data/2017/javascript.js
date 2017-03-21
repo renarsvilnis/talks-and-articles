@@ -29,5 +29,43 @@ module.exports = [
     video: true,
     title: 'Inversion of Control - Fun Fun Function',
     href: 'https://youtu.be/-kpEP4JeEdc'
+  },
+  {
+    video: true,
+    title: 'Building a Media Player #1',
+    href: 'https://youtu.be/--KA2VrPDao'
+  },
+  {
+    video: true,
+    title: 'Building a Media Player #2',
+    href: 'https://youtu.be/Q6iXH4obXKY'
+  },
+  {
+    title: 'Airbnb CSS-in-JavaScript Style Guide',
+    href: 'https://github.com/airbnb/javascript/tree/master/css-in-javascript)'
+  },
+  {
+    video: true,
+    title: 'Building a Media Player #3',
+    href: 'https://youtu.be/P95ZDIzjg0Q'
+  },
+  {
+    video: true,
+    title: 'Building a Media Player #4',
+    href: 'https://youtu.be/CPFE34ngysU'
+  },
+  {
+    video: true,
+    mark: true,
+    title: 'Building a Media Player #5',
+    href: 'https://youtu.be/dPGfRKNEhd8',
+    comments: [
+      'Shows method of adding/removing hash for static files for versioning',
+      'Shows method how to invalidate service workers'
+    ]
+  },
+  {
+    title: 'JavaScript in parallel',
+    href: 'http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer.html'
   }
 ]
