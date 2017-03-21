@@ -27,6 +27,10 @@
 - :tv: [Jared Forsyth - Type Systems Will Make You a Better JavaScript Developer - React Conf 2017](https://youtu.be/V1po0BT7kac)
 - :tv: [⚡️ - Andres Suarez - Moving Fast with Nuclide and Flow - React Conf 2017](https://youtu.be/WRyk5ZVklFs)
 - :tv: [Chrome 57: Grid based layouts, Media Session API and more](https://youtu.be/57Scec2XPd0)
+- :tv: :notebook: [Building a Media Player #9](https://youtu.be/ncYQkOrKTaI)
+  - Shows how to lazy laod images using [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+- :tv: [Building a Media Player #10](https://youtu.be/grRBG6GMQNE)
+- :tv: [ASTs for Beginners at Clevertech (February 2017)](https://youtu.be/CFQBHy8RCpg)
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -62,6 +66,8 @@
 - :tv: [⚡️ - Samer Buna - You Don't Need a Fancy Framework to Use GraphQL w/ React - React Conf 2017](https://youtu.be/M4JqfZ-WaI0)
 - :tv: [⚡️ - Sophia Shoemaker - AWS Lambda + AWS Gateway + React = AWEsome - React Conf 2017](https://youtu.be/GuItxBkpIAQ)
 - :tv: [Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://youtu.be/76FRrbY18Bs)
+- :tv: [Sebastian Markbåge - React Performance End to End (React Fiber) - Keynote Part 3 - React Conf 2017](https://youtu.be/bvFpe5j9-zQ)
+- :tv: [Robert Zhu - Realtime React Apps with GraphQL - React Conf 2017](https://youtu.be/AYbVMNtO-ro)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
