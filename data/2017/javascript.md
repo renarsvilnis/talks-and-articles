@@ -51,6 +51,9 @@
 - :tv: [Preethi Kasireddy - MobX vs Redux: Comparing the Opposing Paradigms - React Conf 2017](https://youtu.be/76FRrbY18Bs)
 - :tv: [Sebastian Markbåge - React Performance End to End (React Fiber) - Keynote Part 3 - React Conf 2017](https://youtu.be/bvFpe5j9-zQ)
 - :tv: [Robert Zhu - Realtime React Apps with GraphQL - React Conf 2017](https://youtu.be/AYbVMNtO-ro)
+- :tv: [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://youtu.be/ZCuYPiUIONs)
+- :tv: [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
+- [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba#.s2i85s1uk)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
@@ -62,3 +65,4 @@
 - [The Outrageous Cost of Skipping TDD & Code Reviews](https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.70k1zvhmv)
 - [BDD is a subclass of TDD](https://medium.com/@_ericelliott/bdd-is-a-subclass-of-tdd-and-is-more-similar-to-atdd-acceptance-test-driven-development-where-16a2dee95116#.v5fkucaq8)
 - [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+- [Structure Your JavaScript Code for Testability](https://medium.com/@sdeleon28/structure-your-javascript-code-for-testability-9bc93d9c72dc#.q9ofjm8rr)
