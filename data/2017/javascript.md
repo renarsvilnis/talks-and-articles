@@ -14,6 +14,7 @@
   - Shows how to lazy laod images using [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 - :tv: [Building a Media Player #10](https://youtu.be/grRBG6GMQNE)
 - :tv: [ASTs for Beginners at Clevertech (February 2017)](https://youtu.be/CFQBHy8RCpg)
+- :tv: [Guillermo Rauch - Next.js: Universal React Made Easy and Simple - React Conf 2017](https://youtu.be/evaMpdSiZKk)
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
