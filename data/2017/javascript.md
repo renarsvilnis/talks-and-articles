@@ -55,6 +55,8 @@
 - :tv: [Lin Clark - A Cartoon Intro to Fiber - React Conf 2017](https://youtu.be/ZCuYPiUIONs)
 - :tv: [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 - [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba#.s2i85s1uk)
+- [A Redux Enthusiast tried MobX](https://medium.com/@adamrackis/a-redux-enthusiast-tries-mobx-af675f468c11)
+- [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
