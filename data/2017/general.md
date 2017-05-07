@@ -8,6 +8,7 @@
 - :tv: [Staying Productive - MPJ's Musings - Fun Fun Function](https://youtu.be/Q-rKO2q8BGg)
 - :tv: [Coding and Cooking - MPJ's Musings - Fun Fun Function](https://youtu.be/FSbImq-uzFk)
 - :tv: [Declarative programming - Fun Fun Function](https://youtu.be/yGh0bjzj4IQ)
+- :tv: [Balancing League of Legends for Every Player, from Bronze to Bengi](https://youtu.be/ii_Q4OCoHvU)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
@@ -19,6 +20,8 @@
 - [Concurrency and Parallelism: Understanding I/O](https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/)
 - :tv: [Under the Hood of Blizzard's Internal Build System](https://youtu.be/Jxp0UcT_T68)
 - :tv: [Reducing Slack’s memory footprint](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
+- :tv: [Building Worlds in No Man's Sky Using Math(s)](https://youtu.be/C9RyEiEzMiU)
+- :tv: [Deformable Snow Rendering in Batman: Arkham Origins](https://youtu.be/87rg95XBalE)
 
 ## Useless/Hilarous
 

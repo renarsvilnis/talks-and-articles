@@ -15,6 +15,8 @@
 - :tv: [Building a Media Player #10](https://youtu.be/grRBG6GMQNE)
 - :tv: [ASTs for Beginners at Clevertech (February 2017)](https://youtu.be/CFQBHy8RCpg)
 - :tv: [Guillermo Rauch - Next.js: Universal React Made Easy and Simple - React Conf 2017](https://youtu.be/evaMpdSiZKk)
+- [Put your Electron app on a diet with Electrino](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297)
+
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -57,6 +59,7 @@
 - [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba#.s2i85s1uk)
 - [A Redux Enthusiast tried MobX](https://medium.com/@adamrackis/a-redux-enthusiast-tries-mobx-af675f468c11)
 - [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
+- [45% Faster React Functional Components, Now](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
