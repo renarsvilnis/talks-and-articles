@@ -9,6 +9,8 @@
 - :tv: [Coding and Cooking - MPJ's Musings - Fun Fun Function](https://youtu.be/FSbImq-uzFk)
 - :tv: [Declarative programming - Fun Fun Function](https://youtu.be/yGh0bjzj4IQ)
 - :tv: [Balancing League of Legends for Every Player, from Bronze to Bengi](https://youtu.be/ii_Q4OCoHvU)
+- :tv: [Top 8 developer habits: Teaching - Fun Fun Function](https://youtu.be/RleN-6uMF04)
+- :tv: [Top 8 developer habits: Getting shit done - Fun Fun Function](https://youtu.be/mZNXkQxu9Rw)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)

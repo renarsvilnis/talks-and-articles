@@ -16,7 +16,7 @@
 - :tv: [ASTs for Beginners at Clevertech (February 2017)](https://youtu.be/CFQBHy8RCpg)
 - :tv: [Guillermo Rauch - Next.js: Universal React Made Easy and Simple - React Conf 2017](https://youtu.be/evaMpdSiZKk)
 - [Put your Electron app on a diet with Electrino](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297)
-
+- [JavaScript: What excites me in 2017](https://hackernoon.com/javascript-what-excites-me-in-2017-7681766b7d79)
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -28,6 +28,7 @@
 - [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis)
 - [Node 6 at Wikimedia: Stability and substantial memory savings](https://blog.wikimedia.org/2017/02/17/node-6-wikimedia/)
 - :tv: [Deploying Node](https://www.youtube.com/playlist?list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh)
+- [Mastering the Node.js Core Modules - The File System & fs Module](https://blog.risingstack.com/mastering-the-nodejs-core-modules-file-system-fs-module/)
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
@@ -60,9 +61,14 @@
 - [A Redux Enthusiast tried MobX](https://medium.com/@adamrackis/a-redux-enthusiast-tries-mobx-af675f468c11)
 - [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 - [45% Faster React Functional Components, Now](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f)
+- [Painting with Code - Introducing our new open source library React Sketch.app](https://airbnb.design/painting-with-code/)
+- [Changing Old Habits in React Router 4](https://medium.com/@ivanmontiel/changing-old-habits-in-react-router-4-8483ee5e087c)
+- [Things nobody will tell you about React.js](https://medium.com/@gianluca.guarini/things-nobody-will-tell-you-about-react-js-3a373c1b03b4)
+- :tv: [Comparing Redux and MobX with two CTO's and React experts - state management using reactjs](https://www.youtube.com/watch?v=ZGVwMkrL2n0)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
+- [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
 
 ## Testing
 - :tv: [The BEST way to do mocking - FunFunFunction #8](https://youtu.be/fgqh-OZjpYY)
