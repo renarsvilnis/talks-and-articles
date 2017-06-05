@@ -65,6 +65,7 @@
 - [Changing Old Habits in React Router 4](https://medium.com/@ivanmontiel/changing-old-habits-in-react-router-4-8483ee5e087c)
 - [Things nobody will tell you about React.js](https://medium.com/@gianluca.guarini/things-nobody-will-tell-you-about-react-js-3a373c1b03b4)
 - :tv: [Comparing Redux and MobX with two CTO's and React experts - state management using reactjs](https://www.youtube.com/watch?v=ZGVwMkrL2n0)
+- [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
