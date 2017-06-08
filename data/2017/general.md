@@ -11,6 +11,7 @@
 - :tv: [Balancing League of Legends for Every Player, from Bronze to Bengi](https://youtu.be/ii_Q4OCoHvU)
 - :tv: [Top 8 developer habits: Teaching - Fun Fun Function](https://youtu.be/RleN-6uMF04)
 - :tv: [Top 8 developer habits: Getting shit done - Fun Fun Function](https://youtu.be/mZNXkQxu9Rw)
+- :tv: [Emily Gorcenski: The Ethics of the Internet of Things | JSConf EU 2017](https://youtu.be/xLL7Fo_em2E)
 
 ## Tech related
 - :tv: [Debating the observable pattern - Q&A P1 - Fun Fun Function](https://youtu.be/OQqouBWgpDA)
