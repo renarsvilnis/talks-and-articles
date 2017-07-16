@@ -25,6 +25,10 @@
 - :tv: [Reducing Slack’s memory footprint](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
 - :tv: [Building Worlds in No Man's Sky Using Math(s)](https://youtu.be/C9RyEiEzMiU)
 - :tv: [Deformable Snow Rendering in Batman: Arkham Origins](https://youtu.be/87rg95XBalE)
+[
+  title: 'UUID or GUID as Primary Keys? Be Careful!',
+  href: 'https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439'
+]
 
 ## Useless/Hilarous
 

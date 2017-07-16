@@ -17,6 +17,15 @@
 - :tv: [Guillermo Rauch - Next.js: Universal React Made Easy and Simple - React Conf 2017](https://youtu.be/evaMpdSiZKk)
 - [Put your Electron app on a diet with Electrino](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297)
 - [JavaScript: What excites me in 2017](https://hackernoon.com/javascript-what-excites-me-in-2017-7681766b7d79)
+[
+  title: 'Building High-Quality JavaScript Tools - Christoph Pojer aka @cpojer at @ReactEurope 2017',
+  href: 'https://youtu.be/qAZ3_xCHe48'
+],
+[
+  title: 'Mastering Async Await in Node.js',
+  href: 'https://blog.risingstack.com/mastering-async-await-in-nodejs/'
+]
+
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -66,6 +75,15 @@
 - [Things nobody will tell you about React.js](https://medium.com/@gianluca.guarini/things-nobody-will-tell-you-about-react-js-3a373c1b03b4)
 - :tv: [Comparing Redux and MobX with two CTO's and React experts - state management using reactjs](https://www.youtube.com/watch?v=ZGVwMkrL2n0)
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
+- []()
+[
+  title: 'React Pattern: Extract Child Components to Avoid Binding',
+  href: 'https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e'
+]
+[
+  title: 'Reducing our Redux code with React Apollo',
+  href: 'https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a'
+]
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
