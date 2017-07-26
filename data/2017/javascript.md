@@ -19,13 +19,18 @@
 - [JavaScript: What excites me in 2017](https://hackernoon.com/javascript-what-excites-me-in-2017-7681766b7d79)
 [
   title: 'Building High-Quality JavaScript Tools - Christoph Pojer aka @cpojer at @ReactEurope 2017',
-  href: 'https://youtu.be/qAZ3_xCHe48'
+  href: 'https://youtu.be/qAZ3_xCHe48',
+  video: true
 ],
 [
   title: 'Mastering Async Await in Node.js',
   href: 'https://blog.risingstack.com/mastering-async-await-in-nodejs/'
+],
+[
+  title: 'Maggie Pint: Sharing is Caring - Patterns for JavaScript Library Design | JSConf EU 2017',
+  href: 'https://youtu.be/RdKT70ktaeo',
+  video: true
 ]
-
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -75,7 +80,6 @@
 - [Things nobody will tell you about React.js](https://medium.com/@gianluca.guarini/things-nobody-will-tell-you-about-react-js-3a373c1b03b4)
 - :tv: [Comparing Redux and MobX with two CTO's and React experts - state management using reactjs](https://www.youtube.com/watch?v=ZGVwMkrL2n0)
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
-- []()
 [
   title: 'React Pattern: Extract Child Components to Avoid Binding',
   href: 'https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e'
@@ -83,6 +87,26 @@
 [
   title: 'Reducing our Redux code with React Apollo',
   href: 'https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a'
+],
+[
+  title: 'Maintainable CSS in React (JS@PayPal Summer 2017)',
+  href: 'https://youtu.be/3-4KsXPO2Q4',
+  video: true
+],
+[
+  title: 'Concerning CSS in JS',
+  href: 'https://youtu.be/R1_nGU0x3Wk',
+  video: true
+],
+[
+  title: 'What I Learned Benchmarking React - Dominic Gannaway aka @trueadm at @ReactEurope 2017',
+  href: 'https://youtu.be/djOc1EK07Tk',
+  video: true
+],
+[
+  title: 'Leveraging code-splitting in React - Glenn Reyes aka @glnnrys at @ReactEurope 2017',
+  href: 'https://youtu.be/lj1WTv1Qq1c',
+  video: true
 ]
 
 ## Webpack
