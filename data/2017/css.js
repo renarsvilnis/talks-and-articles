@@ -6,5 +6,9 @@ module.exports = [
   {
     title: 'Getting started with CSS Grid Layout',
     href: 'https://hackernoon.com/getting-started-with-css-grid-layout-8e00de547daf'
+  },
+  {
+    title: 'Touch Action Options',
+    href: 'https://developers.google.com/web/updates/2016/10/touch-action'
   }
 ]

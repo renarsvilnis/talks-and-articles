@@ -30,6 +30,10 @@
   title: 'Maggie Pint: Sharing is Caring - Patterns for JavaScript Library Design | JSConf EU 2017',
   href: 'https://youtu.be/RdKT70ktaeo',
   video: true
+],
+[
+  title: 'Aligned Input Events',
+  href: 'https://developers.google.com/web/updates/2017/06/aligning-input-events'
 ]
 
 ## Node
