@@ -34,7 +34,16 @@
 [
   title: 'Aligned Input Events',
   href: 'https://developers.google.com/web/updates/2017/06/aligning-input-events'
+],
+[
+  title: 'GET READY: A NEW V8 IS COMING, NODE.JS PERFORMANCE IS CHANGING.',
+  href: 'https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/'
+],
+[
+  title: 'Building performant expand & collapse animations',
+  href: 'https://developers.google.com/web/updates/2017/03/performant-expand-and-collapse'
 ]
+
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
