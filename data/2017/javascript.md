@@ -125,7 +125,13 @@
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
 - [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
-
+[
+  {
+    title: "Totally Tooling Tips: Webpack Tips",
+    href: 'https://www.youtube.com/watch?v=zFoBYfMLUCM',
+    video: true
+  }
+]
 ## Testing
 - :tv: [The BEST way to do mocking - FunFunFunction #8](https://youtu.be/fgqh-OZjpYY)
 - :tv: [Unit tests vs. Integration tests - MPJ's Musings - FunFunFunction #55](https://youtu.be/vqAaMVoKz1c)

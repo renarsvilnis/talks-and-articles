@@ -1,3 +1,0 @@
-- :tv: [Animation Style and Process for Broken Age](https://youtu.be/iWEVY4ujyI4)
-- :tv: [The Best Animation Tricks of the Trade (For 2016)](https://youtu.be/_1j5Tf6ulII)
-- :tv: [The Art of Overwatch: Evolving a Legacy](https://youtu.be/Ql4kIxGBBi0)
