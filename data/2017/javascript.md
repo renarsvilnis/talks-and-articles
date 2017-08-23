@@ -42,6 +42,11 @@
 [
   title: 'Building performant expand & collapse animations',
   href: 'https://developers.google.com/web/updates/2017/03/performant-expand-and-collapse'
+],
+[
+  title: 'Tools of Modern JavaScript Projects',
+  href: 'https://youtu.be/M0v4Iizcw6c',
+  video: true
 ]
 
 

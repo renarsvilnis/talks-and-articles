@@ -28,6 +28,10 @@
 [
   title: 'UUID or GUID as Primary Keys? Be Careful!',
   href: 'https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439'
+],
+[
+  title: 'Afraid of Makefiles? Don't be!',
+  href: 'https://matthias-endler.de/2017/makefiles/'
 ]
 
 ## Useless/Hilarous
