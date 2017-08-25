@@ -47,6 +47,11 @@
   title: 'Tools of Modern JavaScript Projects',
   href: 'https://youtu.be/M0v4Iizcw6c',
   video: true
+],
+[
+  title: 'Error handling Promises in JavaScript - Fun Fun Function',
+  href: 'https://youtu.be/f8IgdnYIwOU',
+  video: true
 ]
 
 
