@@ -17,43 +17,28 @@
 - :tv: [Guillermo Rauch - Next.js: Universal React Made Easy and Simple - React Conf 2017](https://youtu.be/evaMpdSiZKk)
 - [Put your Electron app on a diet with Electrino](https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297)
 - [JavaScript: What excites me in 2017](https://hackernoon.com/javascript-what-excites-me-in-2017-7681766b7d79)
-[
+{
   title: 'Building High-Quality JavaScript Tools - Christoph Pojer aka @cpojer at @ReactEurope 2017',
   href: 'https://youtu.be/qAZ3_xCHe48',
   video: true
-],
-[
+},
+{
   title: 'Mastering Async Await in Node.js',
   href: 'https://blog.risingstack.com/mastering-async-await-in-nodejs/'
-],
-[
+},
+{
   title: 'Maggie Pint: Sharing is Caring - Patterns for JavaScript Library Design | JSConf EU 2017',
   href: 'https://youtu.be/RdKT70ktaeo',
   video: true
-],
-[
+},
+{
   title: 'Aligned Input Events',
   href: 'https://developers.google.com/web/updates/2017/06/aligning-input-events'
-],
-[
-  title: 'GET READY: A NEW V8 IS COMING, NODE.JS PERFORMANCE IS CHANGING.',
-  href: 'https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/'
-],
-[
-  title: 'Building performant expand & collapse animations',
-  href: 'https://developers.google.com/web/updates/2017/03/performant-expand-and-collapse'
-],
-[
-  title: 'Tools of Modern JavaScript Projects',
-  href: 'https://youtu.be/M0v4Iizcw6c',
-  video: true
-],
-[
-  title: 'Error handling Promises in JavaScript - Fun Fun Function',
-  href: 'https://youtu.be/f8IgdnYIwOU',
-  video: true
-]
-
+},
+{
+  title: '6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)',
+  href: 'https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9'
+}
 
 ## Node
 - [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017)
@@ -135,13 +120,7 @@
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
 - [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
-[
-  {
-    title: "Totally Tooling Tips: Webpack Tips",
-    href: 'https://www.youtube.com/watch?v=zFoBYfMLUCM',
-    video: true
-  }
-]
+
 ## Testing
 - :tv: [The BEST way to do mocking - FunFunFunction #8](https://youtu.be/fgqh-OZjpYY)
 - :tv: [Unit tests vs. Integration tests - MPJ's Musings - FunFunFunction #55](https://youtu.be/vqAaMVoKz1c)
