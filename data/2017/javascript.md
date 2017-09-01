@@ -38,6 +38,28 @@
 {
   title: '6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)',
   href: 'https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9'
+},
+{
+  title: '60fps scrolling using pointer-events: none',
+  href: 'https://www.thecssninja.com/css/pointer-events-60fps'
+  status: 'discounted'
+},
+{
+  title: 'A follow up to obtaining 60fps scrolling performance',
+  href: 'https://www.thecssninja.com/css/follow-up-60fps-scroll'
+},
+{
+  title: 'Architecting Electron Applications for 60fps',
+  href: 'https://www.nearform.com/blog/architecting-electron-applications-for-60fps/',
+  comments: [
+    'Use "DOMContentLoaded" event for non UI critical code using [document-ready](https://github.com/bendrucker/document-ready) library',
+    'Do static prerender',
+    'Explicitly schedule background tasks using requestIdleCallback or [on-idle](https://github.com/yoshuawuyts/on-idle)'
+  ]
+},
+{
+  title: 'Rethinking drag and drop',
+  href: 'https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b'
 }
 
 ## Node
@@ -51,6 +73,10 @@
 - [Node 6 at Wikimedia: Stability and substantial memory savings](https://blog.wikimedia.org/2017/02/17/node-6-wikimedia/)
 - :tv: [Deploying Node](https://www.youtube.com/playlist?list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh)
 - [Mastering the Node.js Core Modules - The File System & fs Module](https://blog.risingstack.com/mastering-the-nodejs-core-modules-file-system-fs-module/)
+{
+  title: 'Introducing npx: an npm package runner',
+  href: 'https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b'
+}
 
 ## React
 - [I’m Sticking With React (For Now)](https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d)
@@ -115,11 +141,24 @@
   title: 'Leveraging code-splitting in React - Glenn Reyes aka @glnnrys at @ReactEurope 2017',
   href: 'https://youtu.be/lj1WTv1Qq1c',
   video: true
-]
+],
+{
+  title: 'What WebAssembly means for React - Lin Clark aka @linclark at @ReactEurope 2017',
+  href: 'https://youtu.be/3GHJ4cbxsVQ',
+  video: true
+}
 
 ## Webpack
 - [Advanced Webpack](https://presentations.survivejs.com/advanced-webpack/)
 - [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
+{
+  title: 'Webpack 3 + React — Production build tips',
+  href: 'https://medium.com/netscape/webpack-3-react-production-build-tips-d20507dba99a'
+},
+{
+  title: 'Brief introduction to scope hoisting in Webpack',
+  href: 'https://medium.com/webpack/brief-introduction-to-scope-hoisting-in-webpack-8435084c171f'
+}
 
 ## Testing
 - :tv: [The BEST way to do mocking - FunFunFunction #8](https://youtu.be/fgqh-OZjpYY)
