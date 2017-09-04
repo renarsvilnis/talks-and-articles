@@ -76,6 +76,14 @@
 {
   title: 'Introducing npx: an npm package runner',
   href: 'https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b'
+},
+{
+  title: 'NodeJS and Good Practices',
+  href: 'https://blog.codeminer42.com/nodejs-and-good-practices-354e7d763626'
+},
+{
+  title: 'Upgrading from Node 6 to Node 8: a real-world performance comparison',
+  href: 'https://hackernoon.com/upgrading-from-node-6-to-node-8-a-real-world-performance-comparison-3dfe1fbc92a3'
 }
 
 ## React
