@@ -60,6 +60,20 @@
 {
   title: 'Rethinking drag and drop',
   href: 'https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b'
+},
+{
+  title: 'Chrome 61: JavaScript Modules, WebUSB, WebShare and more',
+  href: 'https://youtu.be/2vJm1Gfn0ng',
+  tags: ['javascript', 'chrome', 'youtube']
+  type: 'video',
+  addedAt: 1504645505796
+},
+{
+  title: 'ECMAScript modules in browsers',
+  href: 'https://jakearchibald.com/2017/es-modules-in-browsers/',
+  tags: ['javascript', 'es-modules'],
+  type: 'article'
+  addedAt: 1504645581458
 }
 
 ## Node
