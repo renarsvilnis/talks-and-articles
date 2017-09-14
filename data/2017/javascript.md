@@ -59,7 +59,9 @@
 },
 {
   title: 'Rethinking drag and drop',
-  href: 'https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b'
+  href: 'https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b',
+  tags: ['javascript', 'ux']
+  type: 'article'
 },
 {
   title: 'Chrome 61: JavaScript Modules, WebUSB, WebShare and more',
@@ -74,6 +76,9 @@
   tags: ['javascript', 'es-modules'],
   type: 'article'
   addedAt: 1504645581458
+},
+{
+
 }
 
 ## Node
