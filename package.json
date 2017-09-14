@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "push": "git pull && git add -A && git commit -m 'New items' && git push",
-    "lint": "standard --fix"
+    "lint": "eslint --fix"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,12 @@
   },
   "homepage": "https://github.com/renarsvilnis/talks-and-articles#readme",
   "devDependencies": {
-    "fs-promise": "2.0.0",
-    "standard": "9.0.2"
+    "eslint": "^4.6.1",
+    "eslint-config-renarsvilnis": "^4.0.1",
+    "fs-promise": "2.0.0"
+  },
+  "dependencies": {
+    "mkdirp-promise": "^5.0.1",
+    "valid-url": "^1.0.9"
   }
 }
