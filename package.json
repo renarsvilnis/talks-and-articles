@@ -26,6 +26,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "cheerio": "^1.0.0-rc.2",
+    "cli-highlight": "^1.1.4",
     "mkdirp-promise": "^5.0.1",
     "param-case": "^2.1.1",
     "valid-url": "^1.0.9"
