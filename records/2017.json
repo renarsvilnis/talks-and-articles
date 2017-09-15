@@ -1,2 +1,72 @@
 [
+  {
+    "href": "https://www.youtube.com/watch?v=sD94szvFqGw",
+    "title": "Dependency Injection without classes - Fun Fun Function",
+    "addedAt": 1505466111420,
+    "tags": [
+      "www-youtube-com",
+      "fun-fun-function",
+      "javascript"
+    ],
+    "type": "video"
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=6YBV1cKRqzU",
+    "title": "Advanced Dependency Injection without classes - Fun Fun Function",
+    "addedAt": 1505466143900,
+    "tags": [
+      "www-youtube-com",
+      "fun-fun-function",
+      "javascript"
+    ],
+    "type": "video"
+  },
+  {
+    "href": "http://2ality.com/2017/09/native-esm-node.html",
+    "title": "Using ES modules natively in Node.js",
+    "addedAt": 1505467400178,
+    "tags": [
+      "2ality-com",
+      "javascript",
+      "node.js"
+    ],
+    "type": "article",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=d98CAgQNeaM",
+    "title": "Totally Tooling Tips: Lighthouse",
+    "addedAt": 1505468854020,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "browser"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=-lPTshDcr7o",
+    "title": "Font-Display: Micro Tip #14 - Supercharged",
+    "addedAt": 1505468887369,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "css"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.codementor.io/johnnyb/how-to-write-a-web-scraper-in-nodejs-du108266t",
+    "title": "How to Write a Web Scraper in Node.js | Codementor",
+    "addedAt": 1505469065356,
+    "tags": [
+      "www-codementor-io",
+      "javascript",
+      "node-js"
+    ],
+    "type": "article",
+    "comments": []
+  }
 ]

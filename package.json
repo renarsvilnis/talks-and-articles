@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "talks-and-articles",
   "version": "1.0.0",
   "description": "List of all tech related articles, talks, tutorials etc. that I have seen and read.",
@@ -6,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "push": "git pull && git add -A && git commit -m 'New items' && git push",
-    "lint": "eslint --fix"
+    "lint": "eslint --fix ./lib"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
     "cli-highlight": "^1.1.4",
     "mkdirp-promise": "^5.0.1",
     "param-case": "^2.1.1",
-    "valid-url": "^1.0.9"
+    "valid-url": "^1.0.9",
+    "youtube-video-id": "^0.0.2"
   }
 }
