@@ -3,6 +3,9 @@
   "name": "talks-and-articles",
   "version": "1.0.0",
   "description": "List of all tech related articles, talks, tutorials etc. that I have seen and read.",
+  "bin": {
+    "taa": "./bin/taa.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,6 +31,7 @@
     "axios": "^0.16.2",
     "cheerio": "^1.0.0-rc.2",
     "cli-highlight": "^1.1.4",
+    "commander": "^2.11.0",
     "mkdirp-promise": "^5.0.1",
     "param-case": "^2.1.1",
     "valid-url": "^1.0.9",
