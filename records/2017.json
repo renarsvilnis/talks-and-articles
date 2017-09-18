@@ -82,5 +82,18 @@
     ],
     "type": "video",
     "comments": []
+  },
+  {
+    "href": "https://philipwalton.com/articles/deploying-es2015-code-in-production-today/",
+    "title": "Deploying ES2015+ Code in Production Today — Philip Walton",
+    "addedAt": 1505720824810,
+    "tags": [
+      "philipwalton-com",
+      "javascript",
+      "es2016",
+      "es-modules"
+    ],
+    "type": "article",
+    "comments": []
   }
 ]
