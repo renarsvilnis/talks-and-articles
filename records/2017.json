@@ -120,5 +120,20 @@
     ],
     "type": "article",
     "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=06pkOtDLpmI",
+    "title": "Dockerize your app: Micro Tip #16 - Supercharged",
+    "addedAt": 1506031849234,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "supercharged",
+      "docker",
+      "deployment",
+      "ops"
+    ],
+    "type": "video",
+    "comments": []
   }
 ]
