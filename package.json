@@ -10,7 +10,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "push": "git pull && git add -A && git commit -m 'New items' && git push",
-    "lint": "eslint --fix ./lib"
+    "lint": "eslint --fix ./lib",
+    "add": "./bin/taa.js taa-add"
   },
   "repository": {
     "type": "git",

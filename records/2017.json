@@ -135,5 +135,20 @@
     ],
     "type": "video",
     "comments": []
+  },
+  {
+    "href": "https://buddy.works/guides/how-dockerize-node-application",
+    "title": "How to Dockerize a Node.js application | Buddy Guide",
+    "addedAt": 1506110527294,
+    "tags": [
+      "buddy-works",
+      "javascript",
+      "node-js",
+      "docker",
+      "ops",
+      "deployment"
+    ],
+    "type": "article",
+    "comments": []
   }
 ]
