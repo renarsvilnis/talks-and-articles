@@ -13,10 +13,7 @@ module.exports = {
     modules: [
       path.resolve('./src/'),
       'node_modules'
-    ],
-    alias: {
-      modernizr: path.resolve(__dirname, './.modernizrrc')
-    }
+    ]
   },
   module: {
     rules: [
@@ -27,11 +24,6 @@ module.exports = {
       {
         test: /\.(mp4|ico)$/i,
         use: 'file-loader'
-      },
-      {
-        test: /\.modernizrrc$/,
-        // use: 'modernizr-loader'
-        use: ['modernizr-loader', 'json-loader']
       },
       {
         test: /images\/ubnt-icons\/.+\.svg$/i,

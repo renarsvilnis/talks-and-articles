@@ -4,7 +4,6 @@ const webpack = require('webpack');
 const webpackMerge = require('webpack-merge');
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const StyleLintPlugin = require('stylelint-webpack-plugin');
 
 const pkg = require('./package.json');
 const baseConfig = require('./webpack.config.base.js');
@@ -50,7 +49,7 @@ module.exports = webpackMerge(baseConfig, {
           {
             loader: 'css-loader',
             options: {
-              importLoaders: 4,
+              importLoaders: 3,
               sourceMap: true
             }
           },
@@ -74,8 +73,7 @@ module.exports = webpackMerge(baseConfig, {
             options: {
               sourceMap: true
             }
-          },
-          {loader: 'stylefmt-loader'}
+          }
         ]
       },
       {
@@ -101,20 +99,7 @@ module.exports = webpackMerge(baseConfig, {
     new webpack.HotModuleReplacementPlugin(),
     new webpack.DefinePlugin({
       'process.env.NODE_ENV': JSON.stringify('development'),
-      'process.env.ENV': JSON.stringify(process.env.ENV) || null,
-      // process: {
-      //   env: {
-      //     NODE_ENV: JSON.stringify('development'),
-      //     ENV: JSON.stringify(process.env.ENV || 'local')
-      //   }
-      // },
-      __VERSION__: JSON.stringify(pkg.version),
-      __LANG__: JSON.stringify('en'),
-      __ROLLBAR_ACCESS_TOKEN__: JSON.stringify('NO_ROLLBAR_ACCESS'),
-      __GIT_SHA__: JSON.stringify(process.env.GIT_SHA_SHORT)
-    }),
-    new StyleLintPlugin({
-      // fix: false
+      __VERSION__: JSON.stringify(pkg.version)
     }),
     new HtmlWebpackPlugin({
       template: 'src/index.html',

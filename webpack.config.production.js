@@ -6,55 +6,23 @@ const path = require('path');
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const PreloadWebpackPlugin = require('preload-webpack-plugin');
-const StyleLintPlugin = require('stylelint-webpack-plugin');
-const RollbarSourceMapPlugin = require('rollbar-sourcemap-webpack-plugin');
-// const InlineManifestWebpackPlugin = require('inline-manifest-webpack-plugin');
-// const WebpackChunkHash = require('webpack-chunk-hash');
-// const StatsPlugin = require('stats-webpack-plugin');
 
 const ENV = process.env.ENV || 'local';
 
 const pkg = require('./package.json');
 const baseConfig = require('./webpack.config.base.js');
 
-const publicPath = (() => {
-  const baseUrl = 'controller.amplifi.com';
-  switch (ENV) {
-    case 'dev':
-      return `https://dev-${baseUrl}`;
-    case 'stg':
-      return `https://stg-${baseUrl}`;
-    case 'prd':
-      return `https://${baseUrl}`;
-    default:
-      return 'http://local.amplifi.com:8080';
-  }
-})();
-
 const config = webpackMerge(baseConfig, {
   devtool: 'source-map',
   // devtool: 'cheap-module-source-map',
-  // profile: false,
   output: {
     path: path.join(__dirname, `dist`),
     filename: '[name].[chunkhash].js',
     chunkFilename: '[name].[chunkhash].js'
   },
   entry: {
-    // bundle: [
-    //   path.join(__dirname, 'src/index.js')
-    // ],
-    // vendor: [
-    //   'babel-polyfill',
-    //   'whatwg-fetch',
-    //   'react',
-    //   'react-dom',
-    //   'redux',
-    //   'react-redux'
-    // ]
     bundle: [
       'babel-polyfill',
-      'whatwg-fetch',
       path.join(__dirname, 'src/index.js')
     ]
   },
@@ -84,7 +52,7 @@ const config = webpackMerge(baseConfig, {
             {
               loader: 'css-loader',
               options: {
-                importLoaders: 4,
+                importLoaders: 3,
                 minimize: true,
                 sourceMap: true
               }
@@ -114,8 +82,7 @@ const config = webpackMerge(baseConfig, {
               options: {
                 sourceMap: true
               }
-            },
-            {loader: 'stylefmt-loader'}
+            }
           ]
         })
       },
@@ -153,27 +120,14 @@ const config = webpackMerge(baseConfig, {
   plugins: [
     new webpack.DefinePlugin({
       'process.env.NODE_ENV': JSON.stringify('production'),
-      'process.env.ENV': JSON.stringify(ENV),
-      __VERSION__: JSON.stringify(pkg.version),
-      __LANG__: JSON.stringify('en'),
-      __ROLLBAR_ACCESS_TOKEN__: JSON.stringify(process.env.ROLLBAR_CLIENT_ACCESS_TOKEN),
-      __GIT_SHA__: JSON.stringify(process.env.GIT_SHA_SHORT)
+      __VERSION__: JSON.stringify(pkg.version)
     }),
     new webpack.optimize.ModuleConcatenationPlugin(),
-    // new webpack.optimize.CommonsChunkPlugin({
-    //   name: ['vendor', 'manifest'],
-    //   minChunks: 15
-    // }),
-    // new WebpackChunkHash(),
-    new StyleLintPlugin({
-      // fix: false
-    }),
     new ExtractTextPlugin({
       filename: '[name].[chunkhash].css',
       allChunks: true
     }),
     new webpack.optimize.UglifyJsPlugin({
-      // comments: false,
       sourceMap: true,
       compress: {
         warnings: false,
@@ -192,9 +146,6 @@ const config = webpackMerge(baseConfig, {
       }
     }),
     new webpack.HashedModuleIdsPlugin(),
-    // new InlineManifestWebpackPlugin({
-    //   name: 'webpackManifest'
-    // }),
     new HtmlWebpackPlugin({
       template: 'src/index.html',
       hash: false, // We do it manually
@@ -210,13 +161,7 @@ const config = webpackMerge(baseConfig, {
     }),
     new PreloadWebpackPlugin({
       rel: 'prefetch'
-    }),
-    process.env.ROLLBAR_SERVER_ACCESS_TOKEN && new RollbarSourceMapPlugin({
-      accessToken: process.env.ROLLBAR_SERVER_ACCESS_TOKEN,
-      version: pkg.version,
-      publicPath: publicPath
     })
-    // new StatsPlugin('webpack.stats.json')
   ]
 });
 
