@@ -241,5 +241,71 @@
     ],
     "type": "article",
     "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=YXo4YOLDK1k",
+    "title": "Nordic.js 2017 • Tomasz Ducin - 5 architectures of asynchronous JavaScript",
+    "addedAt": 1507294177896,
+    "tags": [
+      "www-youtube-com",
+      "nordic-js",
+      "javascript",
+      "design-patterns"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=ht5oFxpADt4",
+    "title": "Aspect Ratio Hack: Micro Tip #17 - Supercharged",
+    "addedAt": 1507298261887,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "tip"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=7ukHDpAqYe0",
+    "title": "Nordic.js 2017 • Rachel Andrew - Solving layout problems with CSS Grid and friends",
+    "addedAt": 1507298281370,
+    "tags": [
+      "www-youtube-com",
+      "nordic-js",
+      "css",
+      "grid"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=0dgmeTy7X3I",
+    "title": "Worst JavaScript Flaws That Hackers Love To Abuse",
+    "addedAt": 1507298307751,
+    "tags": [
+      "www-youtube-com",
+      "coding-tech",
+      "javascript",
+      "node-js",
+      "security"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=hnHsZQ1JDII",
+    "title": "React license drama - Talking Open Source Licenses - Fun Fun Function",
+    "addedAt": 1507298336210,
+    "tags": [
+      "www-youtube-com",
+      "fun-fun-function",
+      "react",
+      "licences",
+      "non-tech"
+    ],
+    "type": "video",
+    "comments": []
   }
 ]
