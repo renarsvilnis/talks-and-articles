@@ -307,5 +307,43 @@
     ],
     "type": "video",
     "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=x2o-oy0o5Mo",
+    "title": "How the Web Competes with Native -- Designer vs. Developer #12",
+    "addedAt": 1508184033639,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "native"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://medium.com/netscape/how-to-hot-load-react-component-in-7-days-part-1-webpack-d8b77eea61eb",
+    "title": "How to Hot-Load React Component in 7 days. Part 1 (Webpack)",
+    "addedAt": 1508184739391,
+    "tags": [
+      "medium-com",
+      "javascript",
+      "webpack",
+      "react"
+    ],
+    "type": "article",
+    "comments": []
+  },
+  {
+    "href": "https://codeburst.io/how-to-hot-load-react-component-in-7-days-part-2-react-28ce2b61d0c7",
+    "title": "How to Hot-Load React Component in 7 days. Part 2(React)",
+    "addedAt": 1508185843457,
+    "tags": [
+      "medium-com",
+      "javascript",
+      "webpack",
+      "react"
+    ],
+    "type": "article",
+    "comments": []
   }
 ]
