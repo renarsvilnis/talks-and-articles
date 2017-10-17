@@ -262,7 +262,7 @@
     "tags": [
       "www-youtube-com",
       "google-chrome-developers",
-      "tip"
+      "tips"
     ],
     "type": "video",
     "comments": []
@@ -344,6 +344,150 @@
       "react"
     ],
     "type": "article",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=g4PVnm-Ho8c",
+    "title": "Beating Your Imposter Syndrome -- Designer vs. Developer #9",
+    "addedAt": 1508272523842,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "non-tech"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=VNr1Kb07aME",
+    "title": "Imposter Syndrome - HTTP203",
+    "addedAt": 1508272561850,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "non-tech"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=rwqwwn_46kA",
+    "title": "Next generation state management - Michel Weststrate aka @mweststrate at @ReactEurope 2017",
+    "addedAt": 1508272646936,
+    "tags": [
+      "www-youtube-com",
+      "react-europe",
+      "react",
+      "redux",
+      "mobx",
+      "mobx-state-tree"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=5l6hecmxYwk",
+    "title": "Uploading an Image - Developer Diary #Day1",
+    "addedAt": 1508272701786,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "javascript",
+      "fileupload"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Da6VxdGU2Ig",
+    "title": "Totally Tooling Tips: Managing Your Bundle Size",
+    "addedAt": 1508272780460,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "webpack",
+      "javascript"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=RmGb-jU3uVQ",
+    "title": "Cuphead's Animation Process and Philosophy",
+    "addedAt": 1508272815455,
+    "tags": [
+      "www-youtube-com",
+      "gdc",
+      "game-dev",
+      "non-tech",
+      "design"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=ND4VNkb4J3o",
+    "title": "Graphic Design Typography Critique for Multi-page Gourmet Goods Brochure",
+    "addedAt": 1508272925322,
+    "tags": [
+      "www-youtube-com",
+      "the-futur",
+      "design"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578",
+    "title": "React, Inline Functions, and Performance",
+    "addedAt": 1508273190503,
+    "tags": [
+      "cdb-reacttraining-com",
+      "react",
+      "performance"
+    ],
+    "type": "article",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=jO8iVc4hEe8",
+    "title": "Chrome 62: Improved Network Information API, Support for OpenType Variable Fonts and more!",
+    "addedAt": 1508274629575,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "google-chrome"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=7vUs5yOuv-o",
+    "title": "Addy Osmani: The Browser Hackers Guide To Instantly Loading Everything | JSConf EU 2017",
+    "addedAt": 1508276146610,
+    "tags": [
+      "www-youtube-com",
+      "js-conf",
+      "frontend",
+      "performance",
+      "pwa",
+      "javascript",
+      "html"
+    ],
+    "type": "video",
+    "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=Qj1FK8n7WgY",
+    "title": "Understanding Color",
+    "addedAt": 1508283224459,
+    "tags": [
+      "www-youtube-com",
+      "blender-guru",
+      "design",
+      "color-theory"
+    ],
+    "type": "video",
     "comments": []
   }
 ]
