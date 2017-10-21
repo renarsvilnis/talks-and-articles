@@ -502,5 +502,18 @@
     ],
     "type": "video",
     "comments": []
+  },
+  {
+    "href": "https://www.youtube.com/watch?v=TtXvE814SQA",
+    "title": "Caching Strategies: Micro Tip #19 - Supercharged",
+    "addedAt": 1508618026587,
+    "tags": [
+      "www-youtube-com",
+      "google-chrome-developers",
+      "tips"
+    ],
+    "type": "video",
+    "comments": [],
+    "id": "3757dd90-b69f-11e7-93fd-4d7ca8cd7dfe"
   }
 ]
