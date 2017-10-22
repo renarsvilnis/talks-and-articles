@@ -8,7 +8,9 @@
       "fun-fun-function",
       "javascript"
     ],
-    "type": "video"
+    "type": "video",
+    "comments": [],
+    "id": "a0822d80-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=6YBV1cKRqzU",
@@ -19,7 +21,9 @@
       "fun-fun-function",
       "javascript"
     ],
-    "type": "video"
+    "type": "video",
+    "comments": [],
+    "id": "a0822d81-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "http://2ality.com/2017/09/native-esm-node.html",
@@ -31,7 +35,8 @@
       "node.js"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d82-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=d98CAgQNeaM",
@@ -43,7 +48,8 @@
       "browser"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d83-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=-lPTshDcr7o",
@@ -55,7 +61,8 @@
       "css"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d84-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.codementor.io/johnnyb/how-to-write-a-web-scraper-in-nodejs-du108266t",
@@ -67,7 +74,8 @@
       "node-js"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d85-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=IJgAUkjsomA",
@@ -81,7 +89,8 @@
       "after-effects"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d86-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=pddnbECfpR0",
@@ -94,7 +103,8 @@
       "3d"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d87-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=2hS6hO0AqIg",
@@ -106,7 +116,8 @@
       "design"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d88-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://philipwalton.com/articles/deploying-es2015-code-in-production-today/",
@@ -119,7 +130,8 @@
       "es-modules"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d89-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=06pkOtDLpmI",
@@ -134,7 +146,8 @@
       "ops"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d8a-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://buddy.works/guides/how-dockerize-node-application",
@@ -149,7 +162,8 @@
       "deployment"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d8b-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md#non-root-user",
@@ -164,7 +178,8 @@
       "deployment"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d8c-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://nodejs.org/en/docs/guides/nodejs-docker-webapp/",
@@ -179,7 +194,8 @@
       "deployment"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d8d-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html",
@@ -191,7 +207,8 @@
       "react"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d8e-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://facebook.github.io/react/docs/portals.html",
@@ -203,7 +220,8 @@
       "react"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d8f-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://facebook.github.io/react/blog/2017/09/08/dom-attributes-in-react-16.html",
@@ -215,7 +233,8 @@
       "react"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d90-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html",
@@ -227,7 +246,8 @@
       "react"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d91-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://survivejs.com/blog/kea-interview/",
@@ -240,7 +260,8 @@
       "redux"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0822d92-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=YXo4YOLDK1k",
@@ -253,7 +274,8 @@
       "design-patterns"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d93-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=ht5oFxpADt4",
@@ -265,7 +287,8 @@
       "tips"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d94-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=7ukHDpAqYe0",
@@ -278,7 +301,8 @@
       "grid"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d95-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=0dgmeTy7X3I",
@@ -292,7 +316,8 @@
       "security"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d96-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=hnHsZQ1JDII",
@@ -306,7 +331,8 @@
       "non-tech"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0822d97-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=x2o-oy0o5Mo",
@@ -318,7 +344,8 @@
       "native"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825490-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://medium.com/netscape/how-to-hot-load-react-component-in-7-days-part-1-webpack-d8b77eea61eb",
@@ -331,7 +358,8 @@
       "react"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0825491-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://codeburst.io/how-to-hot-load-react-component-in-7-days-part-2-react-28ce2b61d0c7",
@@ -344,7 +372,8 @@
       "react"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a0825492-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=g4PVnm-Ho8c",
@@ -356,7 +385,8 @@
       "non-tech"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825493-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=VNr1Kb07aME",
@@ -368,7 +398,8 @@
       "non-tech"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825494-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=rwqwwn_46kA",
@@ -383,7 +414,8 @@
       "mobx-state-tree"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825495-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=5l6hecmxYwk",
@@ -396,7 +428,8 @@
       "fileupload"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825496-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=Da6VxdGU2Ig",
@@ -409,7 +442,8 @@
       "javascript"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825497-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=RmGb-jU3uVQ",
@@ -423,7 +457,8 @@
       "design"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825498-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=ND4VNkb4J3o",
@@ -435,7 +470,8 @@
       "design"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a0825499-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578",
@@ -447,7 +483,8 @@
       "performance"
     ],
     "type": "article",
-    "comments": []
+    "comments": [],
+    "id": "a082549a-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=jO8iVc4hEe8",
@@ -459,7 +496,8 @@
       "google-chrome"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a082549b-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=7vUs5yOuv-o",
@@ -475,7 +513,8 @@
       "html"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a082549c-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=Qj1FK8n7WgY",
@@ -488,7 +527,8 @@
       "color-theory"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a082549d-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=RbbQl2sU-ag",
@@ -501,7 +541,8 @@
       "illustrator"
     ],
     "type": "video",
-    "comments": []
+    "comments": [],
+    "id": "a082549e-b6f8-11e7-8a56-b70b03846942"
   },
   {
     "href": "https://www.youtube.com/watch?v=TtXvE814SQA",
@@ -514,6 +555,6 @@
     ],
     "type": "video",
     "comments": [],
-    "id": "3757dd90-b69f-11e7-93fd-4d7ca8cd7dfe"
+    "id": "a082549f-b6f8-11e7-8a56-b70b03846942"
   }
 ]
