@@ -6,18 +6,14 @@
       },
       "useBuiltIns": true,
       "modules": false,
-      "debug": false
+      "debug": true
     }],
     "react"
   ],
   "plugins": [
     "transform-class-properties",
     "transform-object-rest-spread",
-    "syntax-dynamic-import",
-    "lodash",
-    ["babel-plugin-transform-builtin-extend", {
-      "globals": ["Error"]
-    }]
+    "lodash"
   ],
   "env": {
     "development": {

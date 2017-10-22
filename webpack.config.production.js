@@ -7,8 +7,6 @@ const ExtractTextPlugin = require('extract-text-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const PreloadWebpackPlugin = require('preload-webpack-plugin');
 
-const ENV = process.env.ENV || 'local';
-
 const pkg = require('./package.json');
 const baseConfig = require('./webpack.config.base.js');
 
@@ -23,12 +21,11 @@ const config = webpackMerge(baseConfig, {
   entry: {
     bundle: [
       'babel-polyfill',
-      path.join(__dirname, 'src/index.js')
+      path.join(__dirname, 'src/app.js')
     ]
   },
   module: {
     rules: [
-      // JavaScript
       {
         test: /\.js$/i,
         exclude: /node_modules/,
@@ -44,7 +41,6 @@ const config = webpackMerge(baseConfig, {
           }
         ]
       },
-      // CSS
       {
         test: /\.(scss)$/i,
         use: ExtractTextPlugin.extract({
@@ -86,7 +82,6 @@ const config = webpackMerge(baseConfig, {
           ]
         })
       },
-      // Images
       {
         test: /\.(png|jpg|gif)$/i,
         use: [

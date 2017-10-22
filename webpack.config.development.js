@@ -19,9 +19,8 @@ module.exports = webpackMerge(baseConfig, {
   entry: {
     bundle: [
       'babel-polyfill',
-      'whatwg-fetch',
       'react-hot-loader/patch',
-      path.join(__dirname, 'src/index.js'),
+      path.join(__dirname, 'src/app.js'),
       `webpack-hot-middleware/client?dynamicPublicPath=true&reload=true&path=__webpack_hmr`
     ]
   },
@@ -103,7 +102,7 @@ module.exports = webpackMerge(baseConfig, {
     }),
     new HtmlWebpackPlugin({
       template: 'src/index.html',
-      hash: false, // We do it manually
+      hash: false,
       minify: {
         collapseWhitespace: true,
         removeComments: true,
