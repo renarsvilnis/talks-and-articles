@@ -1,9 +1,9 @@
 import React, {PureComponent} from 'react';
 // import PropTypes from 'prop-types';
 import Fuse from 'fuse.js';
-import marked from 'marked';
-import ReactMarkdown from 'react-markdown';
-import highlight from 'highlight.js';
+import moment from 'moment';
+
+import MarkdownEditor from 'components/MarkdownEditor';
 
 function getRecords () {
   return new Promise((resolve) => {
@@ -50,13 +50,11 @@ export default class Root extends PureComponent {
     this.fuse = null;
 
     this.onSearchChange = this.onSearchChange.bind(this);
-    this.onMarkdownChange = this.onMarkdownChange.bind(this);
 
     this.state = {
       loaded: false,
       records: [],
-      filteredRecords: [],
-      markdown: ''
+      filteredRecords: []
     };
   }
 
@@ -84,35 +82,8 @@ export default class Root extends PureComponent {
       : this.fuse.search(searchStr);
   }
 
-  createMarkdown (markdownStr) {
-    // // Async highlighting with pygmentize-bundled
-    // marked.setOptions({
-    //   highlight: function (code, lang, callback) {
-    //     require('pygmentize-bundled')({lang: lang, format: 'html'}, code, function (err, result) {
-    //       callback(err, result.toString());
-    //     });
-    //   }
-    // });
-
-    // Using async version of marked
-    // marked(markdownStr, function (err, content) {
-    //   if (err) throw err;
-    //   console.log(content);
-    // });
-
-    // Synchronous highlighting with highlight.js
-    // marked.setOptions({
-    //   highlight: function (code) {
-    //     return require('highlight.js').highlightAuto(code).value;
-    //   }
-    // });
-
-    // Synchronous highlighting with highlight.js
-    marked.setOptions({
-      highlight: (code) => highlight.highlightAuto(code).value
-    });
-
-    return marked(markdownStr);
+  formatDate (epoch) {
+    return moment(epoch).format('MMMM D, YYYY, HH:MM');
   }
 
   // ###########################################################################
@@ -120,20 +91,12 @@ export default class Root extends PureComponent {
   // ###########################################################################
 
   onSearchChange (ev) {
-    // if (!this.state.loaded) {
-    //   return;
-    // }
-
-    console.log(this);
+    if (!this.state.loaded) {
+      return;
+    }
 
     this.setState({
       filteredRecords: this.filterRecords(ev.target.value)
-    });
-  }
-
-  onMarkdownChange (ev) {
-    this.setState({
-      markdown: this.createMarkdown(ev.target.value)
     });
   }
 
@@ -141,24 +104,11 @@ export default class Root extends PureComponent {
   // Render
   // ###########################################################################
 
-  renderMarkdownEditor () {
-    /* eslint-disable react/no-danger, react/jsx-no-bind */
-    return (
-      <div>
-        <textarea onChange={this.onMarkdownChange} />
-        {/* <div dangerouslySetInnerHTML={{__html: this.state.markdown}} /> */}
-        <ReactMarkdown source={this.state.markdown} />
-        <hr />
-      </div>
-    );
-    /* eslint-enable react/no-danger, react/jsx-no-bind */
-  }
-
   render () {
     return (
       <div>
 
-        {this.renderMarkdownEditor()}
+        <MarkdownEditor />
 
         <input
           type="text"
@@ -174,7 +124,8 @@ export default class Root extends PureComponent {
                 <div title={record.href}><a href={record.href} target="_blank">{record.title}</a></div>
                 <div>{`Tags: ${record.tags.join(', ')}`}</div>
                 <div>{`Type: ${record.type}`}</div>
-                <div>{`Added at: ${new Date(record.addedAt)}`}</div>
+                <div>{`Created: ${this.formatDate(record.addedAt)}`}</div>
+                <div>{`Modified: ${record.editedAt ? this.formatDate(record.editedAt) : 'Never'}`}</div>
                 {/* <div>{`Edited at: ${new Date(record.editedAt)}`}</div> */}
                 <hr />
               </div>

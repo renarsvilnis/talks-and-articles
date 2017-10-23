@@ -7,6 +7,8 @@ import {AppContainer} from 'react-hot-loader';
 // import configureStore from 'redux/store/configureStore';
 import Root from './routes/Root';
 
+import 'normalize.css';
+
 // const store = configureStore({});
 
 const renderApp = App => {

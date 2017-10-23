@@ -1,0 +1,74 @@
+
+.demo {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+
+.editor-pane {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+}
+
+.result-pane > div {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 50%;
+    bottom: 0;
+    overflow: auto;
+    padding: 10px;
+    padding-left: 20px;
+    color: #444;
+    font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    font-size: 16px;
+    line-height: 1.5em;
+}
+
+.editor textarea {
+  padding: 20px;
+}
+
+.editor-pane textarea {
+  min-height: 500px;
+}
+
+/*.CodeMirror {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+
+    font-size: 16px;
+}*/
+
+
+.CodeMirror {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+
+  /*width: 100%;
+  height: 100%;*/
+}
+
+pre {
+    border: 1px solid #ccc;
+}
+
+blockquote {
+    color: #666;
+    margin: 0;
+    padding-left: 3em;
+    border-left: 0.5em #eee solid;
+}
