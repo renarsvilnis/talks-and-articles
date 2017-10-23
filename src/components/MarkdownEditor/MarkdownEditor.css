@@ -30,13 +30,13 @@
     line-height: 1.5em;
 }
 
-.editor textarea {
+/*.editor textarea {
   padding: 20px;
-}
+}*/
 
-.editor-pane textarea {
+/*.editor-pane textarea {
   min-height: 500px;
-}
+}*/
 
 /*.CodeMirror {
     position: absolute;

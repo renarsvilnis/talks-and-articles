@@ -16,18 +16,18 @@ export default class Editor extends React.Component {
 
   render () {
     return (
-      <form className="editor pure-form">
-        <CodeMirror
-          options={{
-            mode: 'markdown',
-            // theme: 'monokai'
-            theme: 'material',
-            viewportMargin: Infinity
-          }}
-          value={this.props.value}
-          onChange={this.props.onChange}
-        />
-      </form>
+      // <form className="editor pure-form">
+      <CodeMirror
+        options={{
+          mode: 'markdown',
+          // theme: 'monokai'
+          theme: 'material',
+          viewportMargin: Infinity
+        }}
+        value={this.props.value}
+        onChange={this.props.onChange}
+      />
+      // </form>
     );
   }
 }

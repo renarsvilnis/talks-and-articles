@@ -1,8 +1,7 @@
 import React from 'react';
-import Markdown from 'react-markdown';
 
 import Editor from './components/Editor';
-import CodeBlock from './components/CodeBlock';
+import Preview from './components/Preview';
 
 import './MarkdownEditor.css';
 
@@ -24,23 +23,14 @@ export default class MarkdownEditor extends React.Component {
         'Read usage information and more on [GitHub](//github.com/rexxars/react-markdown)\n\n',
         '---------------\n\n',
         'A component by [VaffelNinja](http://vaffel.ninja) / Espen Hovlandsdal'
-      ].join(''),
-
-      htmlMode: 'raw'
+      ].join('')
     };
 
     this.onMarkdownChange = this.onMarkdownChange.bind(this);
-    this.onControlsChange = this.onControlsChange.bind(this);
   }
 
   onMarkdownChange (md) {
-    this.setState({
-      markdownSrc: md
-    });
-  }
-
-  onControlsChange (mode) {
-    this.setState({htmlMode: mode});
+    this.setState({markdownSrc: md});
   }
 
   render () {
@@ -55,13 +45,7 @@ export default class MarkdownEditor extends React.Component {
         </div>
 
         <div className="result-pane">
-          <Markdown
-            className={'result'}
-            source={this.state.markdownSrc}
-            skipHtml={this.state.htmlMode === 'skip'}
-            escapeHtml={this.state.htmlMode === 'escape'}
-            renderers={Object.assign({}, Markdown.renderers, {CodeBlock})}
-          />
+          <Preview source={this.state.markdownSrc} />
         </div>
       </div>
     );
