@@ -2,8 +2,6 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import highlight from 'highlight.js';
 
-import 'highlight.js/styles/arduino-light.css';
-
 export default class CodeBlock extends React.Component {
   static propTypes = {
     literal: PropTypes.string,

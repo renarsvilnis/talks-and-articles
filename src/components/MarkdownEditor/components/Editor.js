@@ -2,11 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import CodeMirror from 'react-codemirror';
 
+import 'highlight.js/styles/arduino-light.css';
 import 'codemirror/lib/codemirror.css';
 import 'codemirror/mode/javascript/javascript';
 import 'codemirror/mode/xml/xml';
 import 'codemirror/mode/markdown/markdown';
-import 'codemirror/theme/material.css';
+import 'codemirror/theme/monokai.css';
 
 export default class Editor extends React.Component {
   static propTypes = {
@@ -20,10 +21,11 @@ export default class Editor extends React.Component {
       <CodeMirror
         options={{
           mode: 'markdown',
-          // theme: 'monokai'
-          theme: 'material',
+          theme: 'monokai',
+          // lineNumbers: true,
           viewportMargin: Infinity
         }}
+        autoFocus
         value={this.props.value}
         onChange={this.props.onChange}
       />

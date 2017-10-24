@@ -1,28 +1,4 @@
 
-.demo {
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-
-  display: flex;
-  flex-direction: row;
-}
-
-.editor-pane {
-  flex: 50% 0 0;
-    /*position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 50%;
-    height: 100%;
-    overflow: auto;*/
-}
-
-.result-pane {
-  flex: 50% 0 0;
-}
-
 .result-pane > div {
     /*position: absolute;
     top: 0;
@@ -60,6 +36,7 @@
 
 
 .CodeMirror {
+  height: auto;
   /*position: absolute;
   top: 0;
   left: 0;

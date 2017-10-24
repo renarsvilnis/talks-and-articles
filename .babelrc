@@ -13,7 +13,8 @@
   "plugins": [
     "transform-class-properties",
     "transform-object-rest-spread",
-    "lodash"
+    "lodash",
+    "glamorous-displayname"
   ],
   "env": {
     "development": {

@@ -1,9 +1,9 @@
 import React, {PureComponent} from 'react';
 // import PropTypes from 'prop-types';
 import Fuse from 'fuse.js';
-import moment from 'moment';
 
 import MarkdownEditor from 'components/MarkdownEditor';
+import Record from 'components/Record';
 
 function getRecords () {
   return new Promise((resolve) => {
@@ -82,10 +82,6 @@ export default class Root extends PureComponent {
       : this.fuse.search(searchStr);
   }
 
-  formatDate (epoch) {
-    return moment(epoch).format('MMMM D, YYYY, HH:MM');
-  }
-
   // ###########################################################################
   // Event handlers
   // ###########################################################################
@@ -119,17 +115,7 @@ export default class Root extends PureComponent {
 
         {this.state.filteredRecords && (
           <div>
-            {this.state.filteredRecords.map((record) => (
-              <div key={record.id}>
-                <div title={record.href}><a href={record.href} target="_blank">{record.title}</a></div>
-                <div>{`Tags: ${record.tags.join(', ')}`}</div>
-                <div>{`Type: ${record.type}`}</div>
-                <div>{`Created: ${this.formatDate(record.addedAt)}`}</div>
-                <div>{`Modified: ${record.editedAt ? this.formatDate(record.editedAt) : 'Never'}`}</div>
-                {/* <div>{`Edited at: ${new Date(record.editedAt)}`}</div> */}
-                <hr />
-              </div>
-            ))}
+            {this.state.filteredRecords.map((record) => (<Record key={record.id} {...record} />))}
           </div>
         )}
       </div>
