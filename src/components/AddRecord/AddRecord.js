@@ -2,8 +2,7 @@ import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
 // import glamorous from 'glamorous';
 
-// import {parseYoutubeLink, parseVimeoLink, parseUnknownLink} from './helpers/parseLink';
-import {parseUnknownLink} from './helpers/parseLink';
+import {parseLink} from 'api/backend';
 
 export default class AddRecord extends PureComponent {
   static propTypes = {
@@ -33,7 +32,9 @@ export default class AddRecord extends PureComponent {
       href: '',
       title: '',
       type: 'video',
-      tags: []
+      tags: [],
+
+      parsingLink: false
     };
   }
 
@@ -49,24 +50,13 @@ export default class AddRecord extends PureComponent {
     });
 
     this.parseHrefTimeout = setTimeout(async () => {
-      let linkObj;
+      this.setState({parsingLink: true});
+      const linkObj = await parseLink(link);
 
-      // linkObj = await parseYoutubeLink(link);
-      //
-      // if (!linkObj) {
-      //   linkObj = await parseVimeoLink(link);
-      // }
-
-      if (!linkObj) {
-        linkObj = await parseUnknownLink(link);
-      }
-
-      console.log(linkObj);
+      this.parseHrefTimeout = null;
 
       if (linkObj) {
-        this.setState({
-          href: 'test'
-        });
+        this.setState({parsingLink: false, ...linkObj});
       }
     }, 200);
   }
@@ -92,6 +82,8 @@ export default class AddRecord extends PureComponent {
   }
 
   render () {
+    const disableNonHrefInputs = !this.state.title || this.state.parsingLink;
+
     return (
       <form onSubmit={this.handleFormSubmit}>
         <input
@@ -101,17 +93,20 @@ export default class AddRecord extends PureComponent {
           value={this.state.href}
           // required
         />
+        {this.state.parsingLink && (<div>{'Parsing..'}</div>)}
         <input
           name="title"
           placeholder="Title"
           onChange={this.handleInputChange}
           value={this.state.title}
+          disabled={disableNonHrefInputs}
           // required
         />
         <select
           name="type"
           onChange={this.handleInputChange}
           value={this.state.type}
+          disabled={disableNonHrefInputs}
         >
           <option value="article">{'Article'}</option>
           <option value="video">{'Video'}</option>
@@ -120,6 +115,7 @@ export default class AddRecord extends PureComponent {
         <input
           type="submit"
           value="Add record"
+          disabled={disableNonHrefInputs}
         />
       </form>
     );

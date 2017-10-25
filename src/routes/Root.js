@@ -2,17 +2,10 @@ import React, {PureComponent} from 'react';
 // import PropTypes from 'prop-types';
 import Fuse from 'fuse.js';
 
+import {getRecords} from 'api/backend';
 import MarkdownEditor from 'components/MarkdownEditor';
 import Record from 'components/Record';
 import AddRecord from 'components/AddRecord';
-
-function getRecords () {
-  return new Promise((resolve) => {
-    setTimeout(() => {
-      resolve(require('../../records/2017.json'));
-    }, 350);
-  });
-}
 
 /**
  * @reference http://fusejs.io/

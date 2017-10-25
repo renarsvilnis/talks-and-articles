@@ -20,7 +20,8 @@
     "dev": "yarn run build:dev",
     "prod": "yarn run build:clean && yarn run build:prod",
     "local-server": "http-server -p 8080 ./dist",
-    "demo": "yarn run prod && node demoServer.js"
+    "demo": "yarn run prod && node demoServer.js",
+    "server:dev": "nodemon ./server/server.js"
   },
   "repository": {
     "type": "git",
@@ -63,10 +64,9 @@
     "highlight.js": "9.12.0",
     "html-webpack-plugin": "2.30.1",
     "image-webpack-loader": "3.4.2",
-    "jsonp": "0.2.1",
     "marked": "0.3.6",
     "moment": "2.19.1",
-    "normalize-scss": "7.0.0",
+    "nodemon": "1.12.1",
     "normalize.css": "7.0.0",
     "postcss-loader": "2.0.8",
     "preload-webpack-plugin": "2.0.0",
@@ -89,8 +89,10 @@
     "cheerio": "^1.0.0-rc.2",
     "cli-highlight": "^1.1.4",
     "commander": "^2.11.0",
+    "cors": "2.8.4",
     "mkdirp-promise": "^5.0.1",
     "param-case": "^2.1.1",
+    "superagent": "3.8.0",
     "valid-url": "^1.0.9",
     "youtube-video-id": "^0.0.2"
   }
