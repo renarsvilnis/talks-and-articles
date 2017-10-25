@@ -4,6 +4,7 @@ import Fuse from 'fuse.js';
 
 import MarkdownEditor from 'components/MarkdownEditor';
 import Record from 'components/Record';
+import AddRecord from 'components/AddRecord';
 
 function getRecords () {
   return new Promise((resolve) => {
@@ -103,6 +104,8 @@ export default class Root extends PureComponent {
   render () {
     return (
       <div>
+
+        <AddRecord />
 
         <MarkdownEditor />
 
