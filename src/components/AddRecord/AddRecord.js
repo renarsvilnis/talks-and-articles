@@ -49,16 +49,18 @@ export default class AddRecord extends PureComponent {
       href: link
     });
 
-    this.parseHrefTimeout = setTimeout(async () => {
-      this.setState({parsingLink: true});
-      const linkObj = await parseLink(link);
+    if (link) {
+      this.parseHrefTimeout = setTimeout(async () => {
+        this.setState({parsingLink: true});
+        const linkObj = await parseLink(link);
 
-      this.parseHrefTimeout = null;
+        this.parseHrefTimeout = null;
 
-      if (linkObj) {
-        this.setState({parsingLink: false, ...linkObj});
-      }
-    }, 200);
+        if (linkObj) {
+          this.setState({parsingLink: false, ...linkObj});
+        }
+      }, 200);
+    }
   }
 
   handleInputChange (ev) {
@@ -82,35 +84,49 @@ export default class AddRecord extends PureComponent {
   }
 
   render () {
-    const disableNonHrefInputs = !this.state.title || this.state.parsingLink;
+    const disableNonHrefInputs = !this.state.href || this.state.parsingLink;
 
     return (
       <form onSubmit={this.handleFormSubmit}>
-        <input
-          name="href"
-          placeholder="Link"
-          onChange={this.handleHrefInputChange}
-          value={this.state.href}
-          // required
-        />
+        <fieldset>
+          <label htmlFor="href" required>{'Link: '}</label>
+          <input
+            name="href"
+            placeholder="Link"
+            onChange={this.handleHrefInputChange}
+            value={this.state.href}
+            required
+            disabled={this.state.parsingLink}
+          />
+        </fieldset>
+
         {this.state.parsingLink && (<div>{'Parsing..'}</div>)}
-        <input
-          name="title"
-          placeholder="Title"
-          onChange={this.handleInputChange}
-          value={this.state.title}
-          disabled={disableNonHrefInputs}
-          // required
-        />
-        <select
-          name="type"
-          onChange={this.handleInputChange}
-          value={this.state.type}
-          disabled={disableNonHrefInputs}
-        >
-          <option value="article">{'Article'}</option>
-          <option value="video">{'Video'}</option>
-        </select>
+
+        <fieldset>
+          <label htmlFor="href" required>{'Title: '}</label>
+          <input
+            name="title"
+            placeholder="Title"
+            onChange={this.handleInputChange}
+            value={this.state.title}
+            disabled={disableNonHrefInputs}
+            required
+          />
+        </fieldset>
+
+        <fieldset>
+          <label htmlFor="href" required>{'Type: '}</label>
+          <select
+            name="type"
+            onChange={this.handleInputChange}
+            value={this.state.type}
+            disabled={disableNonHrefInputs}
+            required
+          >
+            <option value="article">{'Article'}</option>
+            <option value="video">{'Video'}</option>
+          </select>
+        </fieldset>
 
         <input
           type="submit"

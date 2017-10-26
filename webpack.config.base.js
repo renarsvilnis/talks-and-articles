@@ -12,6 +12,7 @@ module.exports = {
   resolve: {
     modules: [
       path.resolve('./src/'),
+      path.resolve('./shared/'),
       'node_modules'
     ]
   },

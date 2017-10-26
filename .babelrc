@@ -6,7 +6,7 @@
       },
       "useBuiltIns": true,
       "modules": false,
-      "debug": true
+      "debug": false
     }],
     "react"
   ],

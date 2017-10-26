@@ -1,47 +1,10 @@
 import React from 'react';
-import glamorous from 'glamorous';
 
 import Editor from './components/Editor';
 import Preview from './components/Preview';
+import Tabs from 'components/Tabs';
 
 import './MarkdownEditor.css';
-
-const Pane = glamorous.div({
-  display: 'flex',
-  width: '100%',
-  flexDirection: 'column'
-});
-
-const PaneTabSelector = glamorous.div({
-  width: '100%',
-  display: 'flex',
-  flexDirection: 'row'
-});
-
-const PaneTab = glamorous.div({
-  fontSize: '14px',
-  padding: '8px 12px',
-  lineHeight: 1.4,
-  boxSizing: 'border-box',
-  ':hover': {
-    cursor: 'pointer'
-  }
-}, ({active = false}) => ({
-  fontWeight: active ? 'bold' : 'normal',
-  border: `1px solid ${active ? '#333' : 'transparent'}`,
-  borderBottom: 'none'
-}));
-
-const PaneContainer = glamorous.div({
-  display: 'flex',
-  width: '100%'
-});
-
-const PaneBlock = glamorous.div({
-  flex: '100% 1 0'
-}, ({active = false}) => ({
-  display: active ? 'block' : 'none'
-}));
 
 export default class MarkdownEditor extends React.Component {
   constructor (props) {
@@ -74,24 +37,19 @@ export default class MarkdownEditor extends React.Component {
 
   render () {
     return (
-      <Pane>
-        <PaneTabSelector>
-          <PaneTab active={false}>{'Edit'}</PaneTab>
-          <PaneTab active>{'Preview'}</PaneTab>
-        </PaneTabSelector>
-        <PaneContainer>
-          <PaneBlock active={false}>
-            <Editor
-              value={this.state.markdownSrc}
-              onChange={this.onMarkdownChange}
-            />
-          </PaneBlock>
-          <PaneBlock active>
-            <Preview source={this.state.markdownSrc} />
-          </PaneBlock>
-        </PaneContainer>
-
-      </Pane>
+      <Tabs
+        labels={[
+          'Edit',
+          'Preview'
+        ]}
+        tabs={[
+          <Editor
+            value={this.state.markdownSrc}
+            onChange={this.onMarkdownChange}
+          />,
+          <Preview source={this.state.markdownSrc} />
+        ]}
+      />
     );
   }
 }

@@ -17,11 +17,11 @@
     "build:clean": "rm -rf ./dist/*",
     "build:profile": "yarn run build:prod --profile --json > ./webpack.stats.json",
     "build:remove-sourcemaps": "rm ./dist/*.map",
-    "dev": "yarn run build:dev",
+    "dev": "concurrently \"yarn run build:dev\" \"yarn run server:dev\"",
     "prod": "yarn run build:clean && yarn run build:prod",
     "local-server": "http-server -p 8080 ./dist",
     "demo": "yarn run prod && node demoServer.js",
-    "server:dev": "nodemon ./server/server.js"
+    "server:dev": "NODE_ENV=\"development\" nodemon ./server/server.js"
   },
   "repository": {
     "type": "git",
@@ -51,6 +51,7 @@
     "case-sensitive-paths-webpack-plugin": "2.1.1",
     "codemirror": "5.31.0",
     "compression": "1.7.1",
+    "concurrently": "3.5.0",
     "css-loader": "0.28.7",
     "css-mqpacker": "6.0.1",
     "eslint": "4.9.0",
@@ -86,12 +87,15 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
+    "body-parser": "1.18.2",
     "cheerio": "^1.0.0-rc.2",
     "cli-highlight": "^1.1.4",
     "commander": "^2.11.0",
     "cors": "2.8.4",
+    "helmet": "3.9.0",
     "mkdirp-promise": "^5.0.1",
     "param-case": "^2.1.1",
+    "proxy-middleware": "0.15.0",
     "superagent": "3.8.0",
     "valid-url": "^1.0.9",
     "youtube-video-id": "^0.0.2"
