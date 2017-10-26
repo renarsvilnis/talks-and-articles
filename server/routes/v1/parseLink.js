@@ -2,6 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const {URL} = require('url');
 const youTubeVideoId = require('youtube-video-id');
+const superagent = require('superagent');
 
 function getHostname (url) {
   return (new URL(url)).hostname;
@@ -58,11 +59,9 @@ function parseVimeoLink (vimeoUrl) {
 * https://www.codementor.io/johnnyb/how-to-write-a-web-scraper-in-nodejs-du108266t
 */
 function parseUnknownLink (url) {
-  return require('superagent')
-    .get(url)
+  return superagent.get(url)
     .then((res) => {
-      // let $ = cheerio.load(res.data);
-      let $ = cheerio.load(res.text);
+      const $ = cheerio.load(res.text);
 
       return {
         href: url,

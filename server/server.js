@@ -11,6 +11,7 @@ const apiV1 = require('./routes/v1');
 // ###########################################################################
 const app = new Express();
 app.set('x-powered-by', false);
+app.set('trust proxy', true);
 
 // ###########################################################################
 // Setup middlewares

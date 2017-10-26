@@ -9,6 +9,7 @@ const router = new Router();
 
 router.get('/parse-link', asyncMiddleware(parseLink.get));
 router.get('/records', asyncMiddleware(records.get));
+router.put('/record', asyncMiddleware(record.put));
 router.post('/record', asyncMiddleware(record.post));
 router.delete('/record', asyncMiddleware(record.delete));
 
